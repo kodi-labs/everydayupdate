@@ -1,0 +1,373 @@
+#EXTM3U
+#EXTINF:-1, -Donate to ==> paypal.me/optimumbliss
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+#EXTINF:-1,-Donate to keep BliSSTv Alive
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+#EXTINF:-1,-If a playlist is down try a diffrent playlist
+
+
+#EXTINF:-1,##########   United States   ##########
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,A&E HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ABC HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ABC News HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AFN Sport 1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AFN Sport 2 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AMC HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Amazing Discoveries HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Animal Planet HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BYU TV US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Bloomberg Europe US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Bloomberg TV 1080P HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Boomerang US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Bravo HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,C-Span 1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,C-Span 2 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,C-Span 3 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CA Sportsnet 360 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CBS US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CBSN HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CNBC US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CNN HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CW HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CW11 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Cartoon Network US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CineMax 5 StarMax US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CineMax Action HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CineMax ActionMax East US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CineMax East US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CineMax MoreMax US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Comedy Central FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DIY Network US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DW US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery HD Showcase US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Science HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Velocity US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 2 FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX 43 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FS1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FX HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fashion One HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fight HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fight Sport US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fine Living US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Food Network HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox News HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 1 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 2 FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 506 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Free Form HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fuel HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,H2 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO Comedy US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO East US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO Signature US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO Zone US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HGTV HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HIFI US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HSN YT LIVE 1080P HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Hallmark US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,History HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MLB HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MLB Network US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MSNBC HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV Rocks US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBA HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBC US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBC Golf Channel HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBC Golf Channel FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL Network 1 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL Network 1080i US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NFL Network HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NHL Network US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,National Geographic US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA Network HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Outdoor Channel HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAC-12 Arizona US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAC-12 Bay Area US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAC-12 Los Angeles FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAC-12 Oregon FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAC-12 Washington FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PAG HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Showtime 2 US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Showtime FHD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Showtime West US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Smile Of A Child US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Spike HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Starz Cinema US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Starz Comedy US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Starz Edge HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Starz Encore US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SyFy HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TBS HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/578.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TNT HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Soccer Plus HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TSN 1 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TSN 2 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TSN 3 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TSN 4 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/582.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TSN 5 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UFC Fight Pass US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US Network HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1 Classic US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,WWE HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,beINSports HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 1 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6551.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 2 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6550.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 3 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6549.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 4 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6548.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 5 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6547.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 6 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6546.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 7 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6545.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 8 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 9 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6543.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 10 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6542.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NBCSN EPL Live Match 11 HD US
+plugin://plugin.video.f4mTester/?url=http://portal.geniptv.com:8080/live/natalia/natalia/6541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
