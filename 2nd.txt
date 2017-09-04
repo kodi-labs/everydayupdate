@@ -506,5 +506,8 @@ plugin://plugin.video.f4mTester/?url=http://root-iptv.is-found.org:25461/live/to
 #EXTINF:-1,USA | Destination America HD
 plugin://plugin.video.f4mTester/?url=http://root-iptv.is-found.org:25461/live/tommy.tutone/tommy.tutone/25182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
+#EXTINF:-1,USA | Hallmark HD
+plugin://plugin.video.f4mTester/?url=http://root-iptv.is-found.org:25461/live/tommy.tutone/tommy.tutone/22509.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA | Hallmark Movies & Mysteries East FHD
 plugin://plugin.video.f4mTester/?url=http://root-iptv.is-found.org:25461/live/tommy.tutone/tommy.tutone/15957.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
