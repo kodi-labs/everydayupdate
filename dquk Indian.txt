@@ -1,0 +1,772 @@
+#EXTM3U
+#EXTINF:-1,IN | 9X Jhakaas
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12652.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | 9XM
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | 9XM Jalwa
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | 9xTashan
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Aajtak News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12634.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Aastha Bhajan
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12629.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ABP News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12635.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | And Pictures HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | And TV Music HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12692.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Animal Planet
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12649.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | B4U Music
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Big Magic
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12642.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Bindass Play
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Bloomberg TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12736.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Boogle Bollywood
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12693.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12735.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ChannelV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Chardikla Time TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12633.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ChekDE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Colors
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12713.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Colors Gujarati
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12631.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Dabangg Tv
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12669.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Dangal
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | DD National
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12706.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | DD Punjabi
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12655.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | DD Sports
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12722.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Desi TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12658.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Dillagi
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Discovery
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | E24
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12639.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ENJOY NOW HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Enter10
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12696.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Food Food
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12647.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | HBO
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Hungama
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12663.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | JUS PUNJABI
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12628.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | KTV HD (Tamil)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12625.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | LifeOK
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12714.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Manoranjan Movies
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Manoranjan TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Mastii
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Media Punjab
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12653.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | MH1 Music
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | MoviesOK
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | MTV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Music India
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | MusicNow HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | National Geographic
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12651.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | NDTV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12630.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Neo Prime
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12728.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | NeoSports
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | News24
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12636.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Nick Jr
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12665.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12666.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | PBN Music
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Pogo
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12664.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Prime TV Asia
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12721.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | PTC Chakde
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | PTC News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12705.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | PTC Punjabi
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Rishtey
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12712.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Rishtey Cineplex
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SAB AUD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12707.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SabTV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12715.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sanskar TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12632.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SetMax
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SetMax2
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sonic Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12662.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony espn
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12726.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony Mix
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony Pal
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12710.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony Pix HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12644.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony Six
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12727.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Sony TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12716.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Gold
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Movies
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12646.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Plus
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12718.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Plus HD US
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12717.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Sports 1
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12725.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Sports 2
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12724.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Star Sports 3
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12723.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | StarVijay (Tamil)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12624.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SunMusic (Tamil)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12626.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | SunTV (Tamil)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12627.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | TEN 1
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12734.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Ten 2
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Ten 3
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | TEN Golf HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | UTV Bindas
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | UTV Movies
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | UTV Movies International
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | WB
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12640.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Willow Cricket
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Action
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12679.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Anmol
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12709.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Business
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12637.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Cafe Hd
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Cinema
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Cinema APAC
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12680.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Classic
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee ETC
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Living
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12648.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Salaam
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12645.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Studio
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Talkies
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12708.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee TV HD US
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12719.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zee Zindagi
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12711.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ZeeNews
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12638.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | ZeeStudio HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12643.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zing TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | Zoom
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IN | &TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12809.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:A&E
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9973.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ABU DHABI SPORTS 1 (AR)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10033.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ABU DHABI SPORTS 2 (AR)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10032.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ABU DHABI SPORTS 3 (AR)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10031.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ABU DHABI SPORTS 4 (AR)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10030.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ABU DHABI SPORTS 5 (AR)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10029.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:AMC
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9972.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ANTENA 3
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9971.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ARAGON TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9970.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:AXN
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9969.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9968.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:BABY TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9967.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:BAR.A TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9966.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:BEIN LALIGA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9965.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:BOING
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9964.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CALLE 13
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9963.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CANAL COCINA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9962.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CANAL DECASA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9961.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CANAL ODISEA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9960.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CANAL PANDA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9959.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CANAL SUR A.
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9958.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CAZA Y PESCA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9957.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CLAN  TVE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9956.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CLASSICA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9955.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9954.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:COSMO
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CRIMEN INVES
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:CUATRO
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9951.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DIGI SPORT 3 (RO)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10028.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DIGI SPORT 4 (RO)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10027.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DISCOVERY
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9950.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DISNEY CH.
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9949.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DISNEY JR
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9948.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:DIVINITY
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9946.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:ENERGY
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9945.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:EUROSPORT 1
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9944.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9943.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FDF
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9942.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FOX
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9941.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9940.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FOX NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9939.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FOX SPORTS 2 (NL)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10026.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:FOX SPORTS 5 (NL)
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10025.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:GOL
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9938.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:HISTORIA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9937.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9936.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:IBERALIA TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9935.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:LA 2
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9934.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:LALIGATV BAR
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9933.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:LTC
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9932.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. ACCI©N
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9931.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. Cine Espaæol
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9930.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. COMEDIA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9929.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. DEP 1
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9928.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9927.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. F.TBOL
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9926.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. GOLF
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9925.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. MOTOGP
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9924.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. SERIES
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9923.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. SERIESXTRA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9922.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M. XTRA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9921.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:M.FORMULA1
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9920.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:MTV ESPA¹A
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9919.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9918.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:NAT GEOGRAPH
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9917.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:NEOX
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9916.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:Nick Jr
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9915.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:NOVA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9914.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:PARAMOUNT
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9913.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:PTV SPORTS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10024.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:R. MADRID TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9912.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:SUNDANCE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9911.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:SYFY
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9910.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:TCM
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9909.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:TELECINCO
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9908.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:TELEDEPORTE
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9907.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:TEN GOLF HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/10023.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:TNT
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9906.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SP:VIAJAR
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/9905.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | 24_News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12472.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | 92 NEws
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12471.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | A_PLUS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12458.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | AAJ NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12470.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Abb_tak_News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12469.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Ajj_News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12468.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | APNA_CHANNEL
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12467.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Ary_Digital_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12466.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Ary_Musik
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12465.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ARY_NEWS_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12464.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ARY_Qtv
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12463.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ARY_ZAIQA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12462.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Ary_Zauq
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12461.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ARY_ZINDAGI
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12460.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ATV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12459.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | BOL_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12457.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Capital_News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12456.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Dawn News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12455.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Dunya_News_Live
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12454.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Dunya_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12453.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Express_Entertainment
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12452.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Express_News
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12451.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | FILM ASIA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12449.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | FILM WORLD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12450.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Geo News *
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12447.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Geo_Kahani
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12448.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Geo_Sports_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12446.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Geo_Super_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12445.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | GEO_TEZ
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12444.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Geo_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12443.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | HEALTH_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12442.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | HUM_EUROPE_UK
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12441.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | HUM_MASALA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12440.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Hum_Sitaray
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12439.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Hum_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12438.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | HUM_WORLD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12437.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Khyber_News_Pashto
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12436.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Khyber_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12435.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | KTN_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12434.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Madani_Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12433.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Madani_Channel_UK
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12432.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | METRO_ONE_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12431.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | MUJRA_MASTI
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12430.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | News_One
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12429.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Paigham_Pushto_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12428.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | PEACE_TV_URDU
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12427.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | PRIME_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12426.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | PTV NEWS *
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12424.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | PTV_Home
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12425.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | PTV_Sports
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12423.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ROYAL_NEWS_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12422.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | ROZE_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12421.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | SAMAA_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12419.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | SAMAA_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12420.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | SEE_TV_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12418.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | SINDH_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12417.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | STAGE_DRAMA
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12416.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | SUCH_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12415.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | TEHZEEB_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12414.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | TIMES_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12413.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | TV_ONE_GLOBAL
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12412.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | Urdu_1_HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12411.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | WAQT_NEWS
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12410.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PK | WASEB_TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/test123/test123/12409.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
