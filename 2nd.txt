@@ -6,6 +6,8 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
+#EXTINF:-1,USA: DESTINATION AMERICA (LOCAL) HD
+plugin://plugin.video.f4mTester/?url=http://midnightiptvstreams.ddns.net:5050/live/adam1/adam1/62045.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
 
 #EXTINF:-1,####### SKY UK HD #######
