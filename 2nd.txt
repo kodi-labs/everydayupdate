@@ -9,729 +9,1159 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
 
+#EXTINF:-1,UK | Baby TV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BBC3
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Boomerang
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/5366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBBC
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/5364.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBBC HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/5363.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBeebies
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/5362.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Cbeebies HD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CITV
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Disney Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Disney Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Disney XD
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Cartoonito
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/5365.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Kix
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1242.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Nick Jnr Too
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Nick Jr
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1226.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Nicktoons
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1225.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | POP
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1223.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | POP MAX
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Family
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Tiny Pop
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Disney
+plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/12206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
 #EXTINF:-1,UK: Sky MTV Music
-http://iptv.genius-stream.com:6204/live/online/tv/1529.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1529.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: WWE
-http://iptv.genius-stream.com:6204/live/online/tv/1503.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: World Fashion HD
-http://iptv.genius-stream.com:6204/live/online/tv/1504.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: RT Documentary
-http://iptv.genius-stream.com:6204/live/online/tv/1505.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: RT America HD
-http://iptv.genius-stream.com:6204/live/online/tv/1506.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: NBC HD
-http://iptv.genius-stream.com:6204/live/online/tv/1507.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: NBC Golf HD
-http://iptv.genius-stream.com:6204/live/online/tv/1508.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US: ABC News HD
-http://iptv.genius-stream.com:6204/live/online/tv/1511.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Good Food
-http://iptv.genius-stream.com:6204/live/online/tv/1500.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: 4 Music
-http://iptv.genius-stream.com:6204/live/online/tv/1502.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Romania Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1163.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Realitatea Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1164.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-National TV
-http://iptv.genius-stream.com:6204/live/online/tv/1156.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Music Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1158.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Kiss TV
-http://iptv.genius-stream.com:6204/live/online/tv/1162.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Hit Music Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1165.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-HBO 2
-http://iptv.genius-stream.com:6204/live/online/tv/1159.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Disney Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1157.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-DIGI FILM
-http://iptv.genius-stream.com:6204/live/online/tv/1161.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Digi Animal World
-http://iptv.genius-stream.com:6204/live/online/tv/1160.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Digi Sport 4
-http://iptv.genius-stream.com:6204/live/online/tv/1139.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Digi Sport 3
-http://iptv.genius-stream.com:6204/live/online/tv/1138.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Digi Sport 2
-http://iptv.genius-stream.com:6204/live/online/tv/1137.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Digi Sport 1
-http://iptv.genius-stream.com:6204/live/online/tv/1136.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-Vox Norway
-http://iptv.genius-stream.com:6204/live/online/tv/1132.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-Viasat 4
-http://iptv.genius-stream.com:6204/live/online/tv/1129.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-TV2 Norge
-http://iptv.genius-stream.com:6204/live/online/tv/1127.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-TV Norge
-http://iptv.genius-stream.com:6204/live/online/tv/1126.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-TV 6 Norge
-http://iptv.genius-stream.com:6204/live/online/tv/1128.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-NRK3/Super
-http://iptv.genius-stream.com:6204/live/online/tv/1125.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-NRK 2
-http://iptv.genius-stream.com:6204/live/online/tv/1124.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-NRK 1
-http://iptv.genius-stream.com:6204/live/online/tv/1123.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-Max Norway
-http://iptv.genius-stream.com:6204/live/online/tv/1131.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NO-Kanal 10 Norge
-http://iptv.genius-stream.com:6204/live/online/tv/1130.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-YLE TV 2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1134.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-YLE TV 1
-http://iptv.genius-stream.com:6204/live/online/tv/1133.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-TV7 Finland
-http://iptv.genius-stream.com:6204/live/online/tv/1135.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV3 Puls
-http://iptv.genius-stream.com:6204/live/online/tv/1145.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV3 Danmark
-http://iptv.genius-stream.com:6204/live/online/tv/1143.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV3
-http://iptv.genius-stream.com:6204/live/online/tv/1144.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Zebra
-http://iptv.genius-stream.com:6204/live/online/tv/1153.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 News
-http://iptv.genius-stream.com:6204/live/online/tv/1154.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Lorry
-http://iptv.genius-stream.com:6204/live/online/tv/1151.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 charlie
-http://iptv.genius-stream.com:6204/live/online/tv/1152.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Bornholm dk
-http://iptv.genius-stream.com:6204/live/online/tv/1150.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR3 DK
-http://iptv.genius-stream.com:6204/live/online/tv/1142.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR2
-http://iptv.genius-stream.com:6204/live/online/tv/1141.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR1
-http://iptv.genius-stream.com:6204/live/online/tv/1140.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR Ramasjang
-http://iptv.genius-stream.com:6204/live/online/tv/1149.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DK4
-http://iptv.genius-stream.com:6204/live/online/tv/1146.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Disney Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1155.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Canal 9
-http://iptv.genius-stream.com:6204/live/online/tv/1148.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-6 Eren
-http://iptv.genius-stream.com:6204/live/online/tv/1147.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Disney XD
-http://iptv.genius-stream.com:6204/live/online/tv/1122.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Sahar Azari
-http://iptv.genius-stream.com:6204/live/online/tv/1110.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Boomerang
-http://iptv.genius-stream.com:6204/live/online/tv/1016.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Baby TV
-http://iptv.genius-stream.com:6204/live/online/tv/1014.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK- VH1
-http://iptv.genius-stream.com:6204/live/online/tv/1015.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Xezer TV
-http://iptv.genius-stream.com:6204/live/online/tv/1003.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-SPACE TV
-http://iptv.genius-stream.com:6204/live/online/tv/1006.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Medeniyet TV
-http://iptv.genius-stream.com:6204/live/online/tv/1000.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-LIDER TV AZERBAIJAN
-http://iptv.genius-stream.com:6204/live/online/tv/1005.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-InterAz
-http://iptv.genius-stream.com:6204/live/online/tv/1001.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Idman_Azerbaycan
-http://iptv.genius-stream.com:6204/live/online/tv/999.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Ictimai TV
-http://iptv.genius-stream.com:6204/live/online/tv/997.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-DunyaTV
-http://iptv.genius-stream.com:6204/live/online/tv/1008.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-CBC_Azerbaycan
-http://iptv.genius-stream.com:6204/live/online/tv/998.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-AzTV Azerbaijan
-http://iptv.genius-stream.com:6204/live/online/tv/996.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-Azad_Azerbaycan
-http://iptv.genius-stream.com:6204/live/online/tv/1002.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-ANS TV
-http://iptv.genius-stream.com:6204/live/online/tv/1004.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Azerbican-AMC
-http://iptv.genius-stream.com:6204/live/online/tv/1007.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Georgia Saperavi Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1013.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Georgia OBIEQT Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1011.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Georgia Maestro Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1010.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Georgia Ajara Tv
-http://iptv.genius-stream.com:6204/live/online/tv/1012.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-Georgia 1Tv Georgia
-http://iptv.genius-stream.com:6204/live/online/tv/1009.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-AR-EN-BBCW
-http://iptv.genius-stream.com:6204/live/online/tv/995.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK:MTV Hits
-http://iptv.genius-stream.com:6204/live/online/tv/992.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/992.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK:MTV Classic
-http://iptv.genius-stream.com:6204/live/online/tv/993.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/993.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK:MTV Base
-http://iptv.genius-stream.com:6204/live/online/tv/994.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-London Live
-http://iptv.genius-stream.com:6204/live/online/tv/987.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-ARMN-Shant
-http://iptv.genius-stream.com:6204/live/online/tv/990.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-ARMN-Armenia1 TV
-http://iptv.genius-stream.com:6204/live/online/tv/988.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-ARMN-Armenia TV
-http://iptv.genius-stream.com:6204/live/online/tv/989.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/989.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-MTV Rocks
-http://iptv.genius-stream.com:6204/live/online/tv/973.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Investigation Discovery
-http://iptv.genius-stream.com:6204/live/online/tv/962.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/962.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-RTV
-http://iptv.genius-stream.com:6204/live/online/tv/960.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Sport Extra 2
-http://iptv.genius-stream.com:6204/live/online/tv/947.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Sport Extra 1
-http://iptv.genius-stream.com:6204/live/online/tv/946.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NPO Zappelin Xtra/Humor TV
-http://iptv.genius-stream.com:6204/live/online/tv/952.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NPO 101
-http://iptv.genius-stream.com:6204/live/online/tv/953.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Comedy Central Extra
-http://iptv.genius-stream.com:6204/live/online/tv/950.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Ziggo Sport Voetbal
-http://iptv.genius-stream.com:6204/live/online/tv/915.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-EEN HD
-http://iptv.genius-stream.com:6204/live/online/tv/917.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-AXN
-http://iptv.genius-stream.com:6204/live/online/tv/817.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Fox HD
-http://iptv.genius-stream.com:6204/live/online/tv/818.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sky Kabel 1
-http://iptv.genius-stream.com:6204/live/online/tv/815.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Pro7 HD
-http://iptv.genius-stream.com:6204/live/online/tv/804.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RBB Berlin
-http://iptv.genius-stream.com:6204/live/online/tv/806.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Das Erste HD
-http://iptv.genius-stream.com:6204/live/online/tv/808.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Phoenix HD
-http://iptv.genius-stream.com:6204/live/online/tv/807.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sky NDR
-http://iptv.genius-stream.com:6204/live/online/tv/809.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-sky cinema 24 HD
-http://iptv.genius-stream.com:6204/live/online/tv/810.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-N-TV
-http://iptv.genius-stream.com:6204/live/online/tv/811.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-MDR
-http://iptv.genius-stream.com:6204/live/online/tv/812.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sky Krimi
-http://iptv.genius-stream.com:6204/live/online/tv/813.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sky Kika
-http://iptv.genius-stream.com:6204/live/online/tv/814.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Pro7 Fun HD
-http://iptv.genius-stream.com:6204/live/online/tv/801.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-ZDF
-http://iptv.genius-stream.com:6204/live/online/tv/802.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Nat Geo HD
-http://iptv.genius-stream.com:6204/live/online/tv/803.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Pro7 Maxx
-http://iptv.genius-stream.com:6204/live/online/tv/805.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky True Movies 2
-http://iptv.genius-stream.com:6204/live/online/tv/140.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Star Jalsha
-http://iptv.genius-stream.com:6204/live/online/tv/176.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Sports News HD
-http://iptv.genius-stream.com:6204/live/online/tv/153.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sports F1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/159.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: SYFY
-http://iptv.genius-stream.com:6204/live/online/tv/160.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Sports 5 SD
-http://iptv.genius-stream.com:6204/live/online/tv/158.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sports 4 SD
-http://iptv.genius-stream.com:6204/live/online/tv/157.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Sports 3 SD
-http://iptv.genius-stream.com:6204/live/online/tv/156.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Sports 2 SD
-http://iptv.genius-stream.com:6204/live/online/tv/155.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Sports 1 SD
-http://iptv.genius-stream.com:6204/live/online/tv/154.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Setanta Sports
-http://iptv.genius-stream.com:6204/live/online/tv/164.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK:-Quest TV
-http://iptv.genius-stream.com:6204/live/online/tv/175.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Fashion TV  HD
-http://iptv.genius-stream.com:6204/live/online/tv/174.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Premier Sports
-http://iptv.genius-stream.com:6204/live/online/tv/163.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Nickelodeon
-http://iptv.genius-stream.com:6204/live/online/tv/136.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky News HD
-http://iptv.genius-stream.com:6204/live/online/tv/152.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky National Geographic HD
-http://iptv.genius-stream.com:6204/live/online/tv/188.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Nat Geo Wild HD
-http://iptv.genius-stream.com:6204/live/online/tv/189.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky MUTV
-http://iptv.genius-stream.com:6204/live/online/tv/169.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Thriller HD
-http://iptv.genius-stream.com:6204/live/online/tv/132.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Movies Showcase HD
-http://iptv.genius-stream.com:6204/live/online/tv/129.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Select HD
-http://iptv.genius-stream.com:6204/live/online/tv/130.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Premiere HD
-http://iptv.genius-stream.com:6204/live/online/tv/128.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Family HD
-http://iptv.genius-stream.com:6204/live/online/tv/133.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Movies Drama HD
-http://iptv.genius-stream.com:6204/live/online/tv/134.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Action HD
-http://iptv.genius-stream.com:6204/live/online/tv/131.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Ci
-http://iptv.genius-stream.com:6204/live/online/tv/143.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky More 4 HD
-http://iptv.genius-stream.com:6204/live/online/tv/185.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Living HD
-http://iptv.genius-stream.com:6204/live/online/tv/179.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Liverpool FC TV HD
-http://iptv.genius-stream.com:6204/live/online/tv/167.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky ITV 4
-http://iptv.genius-stream.com:6204/live/online/tv/151.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky ITV 3
-http://iptv.genius-stream.com:6204/live/online/tv/150.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky ITV 2
-http://iptv.genius-stream.com:6204/live/online/tv/149.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky ITV 1
-http://iptv.genius-stream.com:6204/live/online/tv/148.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky History HD
-http://iptv.genius-stream.com:6204/live/online/tv/190.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Dave HD
-http://iptv.genius-stream.com:6204/live/online/tv/186.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Gold
-http://iptv.genius-stream.com:6204/live/online/tv/181.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Film 4 HD
-http://iptv.genius-stream.com:6204/live/online/tv/142.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Eurosport 2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/166.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Eurosport 1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/165.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky E4
-http://iptv.genius-stream.com:6204/live/online/tv/184.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Disney XD HD
-http://iptv.genius-stream.com:6204/live/online/tv/137.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Disney Junior HD
-http://iptv.genius-stream.com:6204/live/online/tv/138.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Disney Chaneel HD
-http://iptv.genius-stream.com:6204/live/online/tv/135.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Movies Sci-Fi+
-http://iptv.genius-stream.com:6204/live/online/tv/172.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Atlantic
-http://iptv.genius-stream.com:6204/live/online/tv/141.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Chelsea TV HD
-http://iptv.genius-stream.com:6204/live/online/tv/168.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Cbs Drama
-http://iptv.genius-stream.com:6204/live/online/tv/170.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Cbs Action
-http://iptv.genius-stream.com:6204/live/online/tv/171.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Food Network
-http://iptv.genius-stream.com:6204/live/online/tv/139.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BT Sport 2 SD
-http://iptv.genius-stream.com:6204/live/online/tv/162.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BT Sport 1 SD
-http://iptv.genius-stream.com:6204/live/online/tv/161.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BoxNation
-http://iptv.genius-stream.com:6204/live/online/tv/180.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BBC Two HD
-http://iptv.genius-stream.com:6204/live/online/tv/145.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BBC Three HD
-http://iptv.genius-stream.com:6204/live/online/tv/146.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BBC One HD
-http://iptv.genius-stream.com:6204/live/online/tv/144.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky BBC Four HD
-http://iptv.genius-stream.com:6204/live/online/tv/147.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky True Movies1
-http://iptv.genius-stream.com:6204/live/online/tv/178.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Arts 1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/177.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky Animal Planet HD
-http://iptv.genius-stream.com:6204/live/online/tv/187.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky 5 USA
-http://iptv.genius-stream.com:6204/live/online/tv/182.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK: Sky 5 star
-http://iptv.genius-stream.com:6204/live/online/tv/183.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Veronica/Disney XD HD
-http://iptv.genius-stream.com:6204/live/online/tv/34.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-TLC
-http://iptv.genius-stream.com:6204/live/online/tv/68.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Sport1 Racing
-http://iptv.genius-stream.com:6204/live/online/tv/36.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Ziggo Sport Golf
-http://iptv.genius-stream.com:6204/live/online/tv/37.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-SBS 9
-http://iptv.genius-stream.com:6204/live/online/tv/39.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-SBS 6 HD
-http://iptv.genius-stream.com:6204/live/online/tv/40.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Nickelodeon
-http://iptv.genius-stream.com:6204/live/online/tv/41.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-RTL 8
-http://iptv.genius-stream.com:6204/live/online/tv/42.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-RTL 7 HD
-http://iptv.genius-stream.com:6204/live/online/tv/43.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-RTL 5 HD
-http://iptv.genius-stream.com:6204/live/online/tv/44.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-RTL 4
-http://iptv.genius-stream.com:6204/live/online/tv/45.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NPO3 HD
-http://iptv.genius-stream.com:6204/live/online/tv/47.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NPO2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/48.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NPO1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/49.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-NET 5
-http://iptv.genius-stream.com:6204/live/online/tv/50.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Xite Awrds
-http://iptv.genius-stream.com:6204/live/online/tv/67.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-HBO HD
-http://iptv.genius-stream.com:6204/live/online/tv/51.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-HBO 3
-http://iptv.genius-stream.com:6204/live/online/tv/52.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-HBO 2
-http://iptv.genius-stream.com:6204/live/online/tv/53.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Fox Sports 4
-http://iptv.genius-stream.com:6204/live/online/tv/55.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Fox Sports 5
-http://iptv.genius-stream.com:6204/live/online/tv/54.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Fox Sports 3
-http://iptv.genius-stream.com:6204/live/online/tv/56.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Fox Sports EDL2
-http://iptv.genius-stream.com:6204/live/online/tv/57.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Fox Sports EDL1
-http://iptv.genius-stream.com:6204/live/online/tv/58.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-100% NL
-http://iptv.genius-stream.com:6204/live/online/tv/59.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Film1 Sundance
-http://iptv.genius-stream.com:6204/live/online/tv/61.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Film1 Premiere HD
-http://iptv.genius-stream.com:6204/live/online/tv/62.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Film 1 Comedy and Kids
-http://iptv.genius-stream.com:6204/live/online/tv/63.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Film1 Action
-http://iptv.genius-stream.com:6204/live/online/tv/64.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-National Geographic
-http://iptv.genius-stream.com:6204/live/online/tv/38.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Disney Channel
-http://iptv.genius-stream.com:6204/live/online/tv/65.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-Discovery NL
-http://iptv.genius-stream.com:6204/live/online/tv/66.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,NL-AT5 HD
-http://iptv.genius-stream.com:6204/live/online/tv/46.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Universal Channel HD
-http://iptv.genius-stream.com:6204/live/online/tv/280.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-ZDF Info
-http://iptv.genius-stream.com:6204/live/online/tv/278.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-ZDF HD
-http://iptv.genius-stream.com:6204/live/online/tv/279.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SUPER RTL
-http://iptv.genius-stream.com:6204/live/online/tv/273.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SRF2
-http://iptv.genius-stream.com:6204/live/online/tv/269.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SRF1
-http://iptv.genius-stream.com:6204/live/online/tv/268.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Disney Junior
-http://iptv.genius-stream.com:6204/live/online/tv/266.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RTL
-http://iptv.genius-stream.com:6204/live/online/tv/265.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Nat Geo Wild
-http://iptv.genius-stream.com:6204/live/online/tv/264.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-VOX HD
-http://iptv.genius-stream.com:6204/live/online/tv/263.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-TNT Film
-http://iptv.genius-stream.com:6204/live/online/tv/262.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-TNT Seriese
-http://iptv.genius-stream.com:6204/live/online/tv/261.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY SPORT2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/258.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY SPORT1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/257.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Disney XD
-http://iptv.genius-stream.com:6204/live/online/tv/291.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RTL Passion
-http://iptv.genius-stream.com:6204/live/online/tv/290.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RTL Nitro
-http://iptv.genius-stream.com:6204/live/online/tv/289.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RTL Living
-http://iptv.genius-stream.com:6204/live/online/tv/288.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SYFY HD
-http://iptv.genius-stream.com:6204/live/online/tv/287.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-13th Street HD
-http://iptv.genius-stream.com:6204/live/online/tv/286.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sixx TV
-http://iptv.genius-stream.com:6204/live/online/tv/285.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-WDR
-http://iptv.genius-stream.com:6204/live/online/tv/284.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY EMOTION HD
-http://iptv.genius-stream.com:6204/live/online/tv/252.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY COMEDY HD
-http://iptv.genius-stream.com:6204/live/online/tv/253.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-TLC Crime
-http://iptv.genius-stream.com:6204/live/online/tv/251.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY CINEMA HD
-http://iptv.genius-stream.com:6204/live/online/tv/250.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-N24
-http://iptv.genius-stream.com:6204/live/online/tv/255.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY BUNDESLIGA1
-http://iptv.genius-stream.com:6204/live/online/tv/259.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY ATLANTIC HD
-http://iptv.genius-stream.com:6204/live/online/tv/256.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-SKY ACTION HD
-http://iptv.genius-stream.com:6204/live/online/tv/254.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE- RTL Crime HD
-http://iptv.genius-stream.com:6204/live/online/tv/274.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-RTL2
-http://iptv.genius-stream.com:6204/live/online/tv/275.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Discovery HD
-http://iptv.genius-stream.com:6204/live/online/tv/276.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-ORF Eins
-http://iptv.genius-stream.com:6204/live/online/tv/272.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DE-Sport1
-http://iptv.genius-stream.com:6204/live/online/tv/271.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-Liv
-http://iptv.genius-stream.com:6204/live/online/tv/1531.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1531.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-MTV Fakta
-http://iptv.genius-stream.com:6204/live/online/tv/1532.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1532.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-MTV Juniori
-http://iptv.genius-stream.com:6204/live/online/tv/1533.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1533.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-MTV Leffa
-http://iptv.genius-stream.com:6204/live/online/tv/1534.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1534.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-MTV Sport 1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1535.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1535.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-MTV Sport 2
-http://iptv.genius-stream.com:6204/live/online/tv/1536.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-N4 Iceland
-http://iptv.genius-stream.com:6204/live/online/tv/1537.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1537.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-Nelonen
-http://iptv.genius-stream.com:6204/live/online/tv/1538.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-Nelonen Maailma
-http://iptv.genius-stream.com:6204/live/online/tv/1539.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-Nelonen Prime
-http://iptv.genius-stream.com:6204/live/online/tv/1540.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1540.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,FI-TV7 Plus
-http://iptv.genius-stream.com:6204/live/online/tv/1541.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Comedy Central
-http://iptv.genius-stream.com:6204/live/online/tv/1542.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1542.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Discovery Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1543.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1543.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Disney XD
-http://iptv.genius-stream.com:6204/live/online/tv/1544.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR K
-http://iptv.genius-stream.com:6204/live/online/tv/1545.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-DR3
-http://iptv.genius-stream.com:6204/live/online/tv/1546.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Kanal 4
-http://iptv.genius-stream.com:6204/live/online/tv/1547.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1547.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Kanal 5
-http://iptv.genius-stream.com:6204/live/online/tv/1548.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-MTV Denmark
-http://iptv.genius-stream.com:6204/live/online/tv/1549.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1549.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-National Geographic
-http://iptv.genius-stream.com:6204/live/online/tv/1550.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Nickelodeon Denmark
-http://iptv.genius-stream.com:6204/live/online/tv/1551.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Fri
-http://iptv.genius-stream.com:6204/live/online/tv/1552.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Sport
-http://iptv.genius-stream.com:6204/live/online/tv/1553.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV2 Zulu
-http://iptv.genius-stream.com:6204/live/online/tv/1554.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV3 Sport 1
-http://iptv.genius-stream.com:6204/live/online/tv/1555.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1555.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV3 Sport 2
-http://iptv.genius-stream.com:6204/live/online/tv/1556.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-TV4 Sport HD
-http://iptv.genius-stream.com:6204/live/online/tv/1557.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1557.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,DK-Viasat Fotball HD
-http://iptv.genius-stream.com:6204/live/online/tv/1558.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Aljazeera English
-http://iptv.genius-stream.com:6204/live/online/tv/1694.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-At The Races
-http://iptv.genius-stream.com:6204/live/online/tv/1686.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Discovery Shed
-http://iptv.genius-stream.com:6204/live/online/tv/1681.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Dmax
-http://iptv.genius-stream.com:6204/live/online/tv/1690.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Fox
-http://iptv.genius-stream.com:6204/live/online/tv/1684.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Fox Movies
-http://iptv.genius-stream.com:6204/live/online/tv/1683.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Horror Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1695.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Movies4men
-http://iptv.genius-stream.com:6204/live/online/tv/1676.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-MUTV
-http://iptv.genius-stream.com:6204/live/online/tv/1685.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Real Lives
-http://iptv.genius-stream.com:6204/live/online/tv/1687.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sony Entertainment TV
-http://iptv.genius-stream.com:6204/live/online/tv/1692.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sony Movie
-http://iptv.genius-stream.com:6204/live/online/tv/1693.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-TLC
-http://iptv.genius-stream.com:6204/live/online/tv/1691.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-True Drama
-http://iptv.genius-stream.com:6204/live/online/tv/1677.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-True Entertainment
-http://iptv.genius-stream.com:6204/live/online/tv/1678.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Family
-http://iptv.genius-stream.com:6204/live/online/tv/1667.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Movies
-http://iptv.genius-stream.com:6204/live/online/tv/1669.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN News
-http://iptv.genius-stream.com:6204/live/online/tv/1670.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Prime Atlantic
-http://iptv.genius-stream.com:6204/live/online/tv/1671.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Prime Pacific
-http://iptv.genius-stream.com:6204/live/online/tv/1672.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Spectrum
-http://iptv.genius-stream.com:6204/live/online/tv/1673.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Sports
-http://iptv.genius-stream.com:6204/live/online/tv/1674.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-AFN Sports2
-http://iptv.genius-stream.com:6204/live/online/tv/1675.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-Fox HD
-http://iptv.genius-stream.com:6204/live/online/tv/1688.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-H2
-http://iptv.genius-stream.com:6204/live/online/tv/1682.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Fox News
-http://iptv.genius-stream.com:6204/live/online/tv/1668.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-Nickelodeon HD
-http://iptv.genius-stream.com:6204/live/online/tv/1689.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-BT Sport ESPN
-http://iptv.genius-stream.com:6204/live/online/tv/1697.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Discovery Channel
-http://iptv.genius-stream.com:6204/live/online/tv/1698.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Discovery History
-http://iptv.genius-stream.com:6204/live/online/tv/1699.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Discovery Science
-http://iptv.genius-stream.com:6204/live/online/tv/1700.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Discovery Turbo
-http://iptv.genius-stream.com:6204/live/online/tv/1701.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Cartoon Network
-http://iptv.genius-stream.com:6204/live/online/tv/1702.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Cbeebies
-http://iptv.genius-stream.com:6204/live/online/tv/1703.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Nickelodeon HD
-http://iptv.genius-stream.com:6204/live/online/tv/1704.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-ABC HD
-http://iptv.genius-stream.com:6204/live/online/tv/1725.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Animal Planet
-http://iptv.genius-stream.com:6204/live/online/tv/1718.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Discovery Velocity
-http://iptv.genius-stream.com:6204/live/online/tv/1720.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-ESPN 2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1716.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-ESPN HD
-http://iptv.genius-stream.com:6204/live/online/tv/1715.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Food Network
-http://iptv.genius-stream.com:6204/live/online/tv/1722.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-HGTV
-http://iptv.genius-stream.com:6204/live/online/tv/1714.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-National Geographic HD
-http://iptv.genius-stream.com:6204/live/online/tv/1721.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Travel Channel HD
-http://iptv.genius-stream.com:6204/live/online/tv/1717.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-BT Sport 3 SD
-http://iptv.genius-stream.com:6204/live/online/tv/1719.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Channel 4
-http://iptv.genius-stream.com:6204/live/online/tv/1730.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Channel 5
-http://iptv.genius-stream.com:6204/live/online/tv/1729.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-E!
-http://iptv.genius-stream.com:6204/live/online/tv/1728.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Home & Health
-http://iptv.genius-stream.com:6204/live/online/tv/1727.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Racing UK
-http://iptv.genius-stream.com:6204/live/online/tv/1726.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-RTE News
-http://iptv.genius-stream.com:6204/live/online/tv/1732.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sport1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1760.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sport2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1761.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sport3 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1762.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sport4 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1763.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Sport5 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1764.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-BT Sport1 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1765.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-BT Sport2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1766.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-BT Sport3 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1767.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Boomerang HD
-http://iptv.genius-stream.com:6204/live/online/tv/1832.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Disney HD
-http://iptv.genius-stream.com:6204/live/online/tv/1834.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Disney JR HD
-http://iptv.genius-stream.com:6204/live/online/tv/1835.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1835.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Nick HD
-http://iptv.genius-stream.com:6204/live/online/tv/1837.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Nick JR HD
-http://iptv.genius-stream.com:6204/live/online/tv/1838.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Nicktoons HD
-http://iptv.genius-stream.com:6204/live/online/tv/1839.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,US-Sprout HD
-http://iptv.genius-stream.com:6204/live/online/tv/1836.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,USA-TruTV HD
-http://iptv.genius-stream.com:6204/live/online/tv/1840.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Acasa
-http://iptv.genius-stream.com:6204/live/online/tv/1846.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Acasa Gold
-http://iptv.genius-stream.com:6204/live/online/tv/1858.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Antena Stars
-http://iptv.genius-stream.com:6204/live/online/tv/1844.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Antena-3
-http://iptv.genius-stream.com:6204/live/online/tv/1857.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Antena1
-http://iptv.genius-stream.com:6204/live/online/tv/1841.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-B1
-http://iptv.genius-stream.com:6204/live/online/tv/1847.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Cartoon Network
-http://iptv.genius-stream.com:6204/live/online/tv/1853.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Cinemax
-http://iptv.genius-stream.com:6204/live/online/tv/1850.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Disney-Jr
-http://iptv.genius-stream.com:6204/live/online/tv/1852.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Film Caf
-http://iptv.genius-stream.com:6204/live/online/tv/1856.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Food Network HD
-http://iptv.genius-stream.com:6204/live/online/tv/1848.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-JimJam
-http://iptv.genius-stream.com:6204/live/online/tv/1854.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-KanalD HD
-http://iptv.genius-stream.com:6204/live/online/tv/1845.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Minimax
-http://iptv.genius-stream.com:6204/live/online/tv/1855.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-National Geographic HD
-http://iptv.genius-stream.com:6204/live/online/tv/1849.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Nickelodeon
-http://iptv.genius-stream.com:6204/live/online/tv/1851.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Prima TV
-http://iptv.genius-stream.com:6204/live/online/tv/1843.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,RO-Pro TV
-http://iptv.genius-stream.com:6204/live/online/tv/1842.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,UK-Sky Box Office
-http://iptv.genius-stream.com:6204/live/online/tv/1911.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-EN-LTV HD
-http://iptv.genius-stream.com:6204/live/online/tv/1947.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-EN-Now TV
-http://iptv.genius-stream.com:6204/live/online/tv/1948.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-EN-Fashion Television
-http://iptv.genius-stream.com:6204/live/online/tv/1949.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-EN-Go TV
-http://iptv.genius-stream.com:6204/live/online/tv/1950.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,MY-EN-Pink2 HD
-http://iptv.genius-stream.com:6204/live/online/tv/1951.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,My-EN-24B HD
-http://iptv.genius-stream.com:6204/live/online/tv/1952.m3u8
+plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
 
 #EXTINF:-1,AeE
 plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
