@@ -8,6 +8,176 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
+#EXTINF:-1,***** USA & CA *****
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+
+#EXTINF:-1,USA-Bravo
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1953.m3u8
+#EXTINF:-1,USA-TNT
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1954.m3u8
+#EXTINF:-1,CA-Bet
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1759.m3u8
+#EXTINF:-1,CA-Bravo HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1758.m3u8
+#EXTINF:-1,CA-Cartoon Network
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1757.m3u8
+#EXTINF:-1,CA-CBC Toronto
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1756.m3u8
+#EXTINF:-1,CA-CHCH
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1755.m3u8
+#EXTINF:-1,CA-City TV
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1754.m3u8
+#EXTINF:-1,CA-CMT Country Music Television
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1753.m3u8
+#EXTINF:-1,CA-Comedy Gold
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1752.m3u8
+#EXTINF:-1,CA-CTV Toronto
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1749.m3u8
+#EXTINF:-1,CA-Deja View
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1748.m3u8
+#EXTINF:-1,CA-Fox News
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1746.m3u8
+#EXTINF:-1,CA-FYI
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1745.m3u8
+#EXTINF:-1,CA-G4
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1744.m3u8
+#EXTINF:-1,CA-GSN
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1743.m3u8
+#EXTINF:-1,CA-History HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1742.m3u8
+#EXTINF:-1,CA-ICI RDI
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1739.m3u8
+#EXTINF:-1,CA-Movie Time
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1738.m3u8
+#EXTINF:-1,CA-MTV Canada
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1737.m3u8
+#EXTINF:-1,CA-Much Music
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1736.m3u8
+#EXTINF:-1,CA-Slice
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1735.m3u8
+#EXTINF:-1,CA-YTV
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1733.m3u8
+#EXTINF:-1,CA-ABC Spark HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1829.m3u8
+#EXTINF:-1,CA-AMI
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1812.m3u8
+#EXTINF:-1,CA-Animal Planet HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1811.m3u8
+#EXTINF:-1,CA-AUX
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1810.m3u8
+#EXTINF:-1,CA-BBC World News
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1785.m3u8
+#EXTINF:-1,CA-BNN HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1809.m3u8
+#EXTINF:-1,CA-Book Television
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1808.m3u8
+#EXTINF:-1,CA-CBS SPORTS HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1807.m3u8
+#EXTINF:-1,CA-CHARD HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1828.m3u8
+#EXTINF:-1,CA-CNBC
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1784.m3u8
+#EXTINF:-1,CA-Comedy HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1827.m3u8
+#EXTINF:-1,CA-Cooking HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1826.m3u8
+#EXTINF:-1,CA-Cpac
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1806.m3u8
+#EXTINF:-1,CA-Crime Investigation
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1805.m3u8
+#EXTINF:-1,CA-Discovery HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1804.m3u8
+#EXTINF:-1,CA-Discovery Science
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1803.m3u8
+#EXTINF:-1,CA-Disney Channel West HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1825.m3u8
+#EXTINF:-1,CA-DISNEY HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1802.m3u8
+#EXTINF:-1,CA-DIY
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1801.m3u8
+#EXTINF:-1,CA-DTOUR HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1800.m3u8
+#EXTINF:-1,CA-ESPN Classic
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1799.m3u8
+#EXTINF:-1,CA-Fishing
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1783.m3u8
+#EXTINF:-1,CA-Food Network HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1798.m3u8
+#EXTINF:-1,CA-FS2 HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1824.m3u8
+#EXTINF:-1,CA-FX HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1797.m3u8
+#EXTINF:-1,CA-Game tv
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1782.m3u8
+#EXTINF:-1,CA-Global HD BC
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1781.m3u8
+#EXTINF:-1,CA-GOLF HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1823.m3u8
+#EXTINF:-1,CA-Gusto
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1796.m3u8
+#EXTINF:-1,CA-HGTV HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1822.m3u8
+#EXTINF:-1,CA-HIFI HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1779.m3u8
+#EXTINF:-1,CA-IFC
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1795.m3u8
+#EXTINF:-1,CA-K HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1821.m3u8
+#EXTINF:-1,CA-Lifetime HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1820.m3u8
+#EXTINF:-1,CA-Love Nature HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1778.m3u8
+#EXTINF:-1,CA-MSBNC
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1777.m3u8
+#EXTINF:-1,CA-MTV2
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1794.m3u8
+#EXTINF:-1,CA-Nat Geo HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1819.m3u8
+#EXTINF:-1,CA-Nat Geo Wild HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1818.m3u8
+#EXTINF:-1,CA-NBA TV
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1793.m3u8
+#EXTINF:-1,CA-Nick
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1792.m3u8
+#EXTINF:-1,CA-OLN
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1791.m3u8
+#EXTINF:-1,CA-Omni
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1776.m3u8
+#EXTINF:-1,CA-OWN
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1790.m3u8
+#EXTINF:-1,CA-RDI HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1817.m3u8
+#EXTINF:-1,CA-ShowCase HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1789.m3u8
+#EXTINF:-1,CA-Smithsonian HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1775.m3u8
+#EXTINF:-1,CA-SportsNet One HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1774.m3u8
+#EXTINF:-1,CA-Sundance
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1773.m3u8
+#EXTINF:-1,CA-Telemundo
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1788.m3u8
+#EXTINF:-1,CA-TMN 1E HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1815.m3u8
+#EXTINF:-1,CA-TMN 4E/1W HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1814.m3u8
+#EXTINF:-1,CA-TTV
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1772.m3u8
+#EXTINF:-1,CA-TV Encore
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1787.m3u8
+#EXTINF:-1,CA-TVA HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1771.m3u8
+#EXTINF:-1,CA-TVO
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1770.m3u8
+#EXTINF:-1,CA-TWN HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1813.m3u8
+#EXTINF:-1,CA-Unis tv
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1769.m3u8
+#EXTINF:-1,CA-Viceland
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1786.m3u8
+#EXTINF:-1,CA-W HD
+http://iptv.genius-stream.com:6204/live/onlineca/CA/1768.m3u8
+
 
 #EXTINF:-1,***** UK *****
 plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=BliSSTv
