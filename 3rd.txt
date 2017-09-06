@@ -8,253 +8,1993 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
-
-#EXTINF:-1,USA-Bravo
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-TNT
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Bet
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Bravo HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CBC Toronto
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CHCH
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1755.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-City TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CMT Country Music Television
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Comedy Gold
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CTV Toronto
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Deja View
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Fox News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1746.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-FYI
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1745.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-G4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-GSN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-History HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-ICI RDI
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Movie Time
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-MTV Canada
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Much Music
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Slice
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1735.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-YTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-ABC Spark HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-AMI
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Animal Planet HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-AUX
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-BBC World News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-BNN HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Book Television
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CBS SPORTS HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CHARD HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-CNBC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Comedy HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Cooking HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Cpac
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Crime Investigation
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Discovery HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Discovery Science
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Disney Channel West HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-DISNEY HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-DIY
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-DTOUR HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-ESPN Classic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Fishing
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Food Network HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-FS2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-FX HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Game tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Global HD BC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-GOLF HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Gusto
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-HGTV HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-HIFI HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-IFC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-K HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Lifetime HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Love Nature HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-MSBNC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-MTV2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Nat Geo HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-NBA TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Nick
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1792.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-OLN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Omni
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1776.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-OWN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-RDI HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-ShowCase HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Smithsonian HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-SportsNet One HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Sundance
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Telemundo
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TMN 1E HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TMN 4E/1W HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TV Encore
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TVA HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TVO
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-TWN HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Unis tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-Viceland
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CA-W HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/onlineca/CA/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
+#EXTINF:-1,Sky Sports Main Event HD
+http://vaders.tv/live/free/trial/2889.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://vaders.tv/live/free/trial/39820.m3u8
+#EXTINF:-1,Sky Sports Cricket HD
+http://vaders.tv/live/free/trial/2479.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://vaders.tv/live/free/trial/39821.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://vaders.tv/live/free/trial/2480.m3u8
+#EXTINF:-1,Sky Sports Action
+http://vaders.tv/live/free/trial/39822.m3u8
+#EXTINF:-1,Sky Sports Golf HD
+http://vaders.tv/live/free/trial/2481.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://vaders.tv/live/free/trial/39823.m3u8
+#EXTINF:-1,Sky Sports Premier League HD
+http://vaders.tv/live/free/trial/2482.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://vaders.tv/live/free/trial/39824.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://vaders.tv/live/free/trial/2483.m3u8
+#EXTINF:-1,Sky Sports F1
+http://vaders.tv/live/free/trial/39825.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://vaders.tv/live/free/trial/42361.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://vaders.tv/live/free/trial/47385.m3u8
+#EXTINF:-1,Sky Sports Football HD
+http://vaders.tv/live/free/trial/42360.m3u8
+#EXTINF:-1,Sky Sports Football
+http://vaders.tv/live/free/trial/47386.m3u8
+#EXTINF:-1,Sky Sports Mix HD
+http://vaders.tv/live/free/trial/37235.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://vaders.tv/live/free/trial/39827.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://vaders.tv/live/free/trial/2570.m3u8
+#EXTINF:-1,Sky Sports News
+http://vaders.tv/live/free/trial/39826.m3u8
+#EXTINF:-1,BT Sports 1 HD
+http://vaders.tv/live/free/trial/2487.m3u8
+#EXTINF:-1,BT Sports 1
+http://vaders.tv/live/free/trial/39828.m3u8
+#EXTINF:-1,BT Sports 2 HD
+http://vaders.tv/live/free/trial/2488.m3u8
+#EXTINF:-1,BT Sports 2
+http://vaders.tv/live/free/trial/39829.m3u8
+#EXTINF:-1,BT Sports 3 HD
+http://vaders.tv/live/free/trial/2489.m3u8
+#EXTINF:-1,BT Sports 3
+http://vaders.tv/live/free/trial/39830.m3u8
+#EXTINF:-1,BT Sports ESPN HD
+http://vaders.tv/live/free/trial/2790.m3u8
+#EXTINF:-1,BT Sports ESPN
+http://vaders.tv/live/free/trial/39831.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://vaders.tv/live/free/trial/19293.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://vaders.tv/live/free/trial/19294.m3u8
+#EXTINF:-1,Chelsea TV HD
+http://vaders.tv/live/free/trial/40881.m3u8
+#EXTINF:-1,MUTV HD
+http://vaders.tv/live/free/trial/2589.m3u8
+#EXTINF:-1,LFC TV HD
+http://vaders.tv/live/free/trial/3009.m3u8
+#EXTINF:-1,Premier Sports HD
+http://vaders.tv/live/free/trial/19296.m3u8
+#EXTINF:-1,Racing UK HD
+http://vaders.tv/live/free/trial/19295.m3u8
+#EXTINF:-1,At The Races
+http://vaders.tv/live/free/trial/19297.m3u8
+#EXTINF:-1,eir Sports 1
+http://vaders.tv/live/free/trial/2593.m3u8
+#EXTINF:-1,Boxnation
+http://vaders.tv/live/free/trial/39646.m3u8
+#EXTINF:-1,NBC Golf HD
+http://vaders.tv/live/free/trial/2561.m3u8
+#EXTINF:-1,NBC Sports Network HD
+http://vaders.tv/live/free/trial/2562.m3u8
+#EXTINF:-1,CBS Sports Network HD
+http://vaders.tv/live/free/trial/2789.m3u8
+#EXTINF:-1,BeIN Sports USA HD
+http://vaders.tv/live/free/trial/2563.m3u8
+#EXTINF:-1,BeIN Sports Espanol HD
+http://vaders.tv/live/free/trial/39855.m3u8
+#EXTINF:-1,BeIN Sports 11 HD
+http://vaders.tv/live/free/trial/40879.m3u8
+#EXTINF:-1,BeIN Sports 12 HD
+http://vaders.tv/live/free/trial/40880.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://vaders.tv/live/free/trial/2568.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://vaders.tv/live/free/trial/2569.m3u8
+#EXTINF:-1,CSN Philly HD
+http://vaders.tv/live/free/trial/40682.m3u8
+#EXTINF:-1,CSN California HD
+http://vaders.tv/live/free/trial/41143.m3u8
+#EXTINF:-1,CSN Chicago HD
+http://vaders.tv/live/free/trial/41145.m3u8
+#EXTINF:-1,CSN Northwest HD
+http://vaders.tv/live/free/trial/41144.m3u8
+#EXTINF:-1,ESPN HD
+http://vaders.tv/live/free/trial/2565.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://vaders.tv/live/free/trial/2566.m3u8
+#EXTINF:-1,ESPN U HD
+http://vaders.tv/live/free/trial/2567.m3u8
+#EXTINF:-1,ESPNews HD
+http://vaders.tv/live/free/trial/2564.m3u8
+#EXTINF:-1,ESPN Deportes HD
+http://vaders.tv/live/free/trial/3136.m3u8
+#EXTINF:-1,MLB Network HD
+http://vaders.tv/live/free/trial/2787.m3u8
+#EXTINF:-1,NBA TV HD
+http://vaders.tv/live/free/trial/2788.m3u8
+#EXTINF:-1,NFL Network HD
+http://vaders.tv/live/free/trial/2744.m3u8
+#EXTINF:-1,NHL Network HD
+http://vaders.tv/live/free/trial/2786.m3u8
+#EXTINF:-1,YES Network HD
+http://vaders.tv/live/free/trial/33511.m3u8
+#EXTINF:-1,WWE Network HD
+http://vaders.tv/live/free/trial/3047.m3u8
+#EXTINF:-1,SEC Network HD
+http://vaders.tv/live/free/trial/39621.m3u8
+#EXTINF:-1,Big Ten Network HD
+http://vaders.tv/live/free/trial/39861.m3u8
+#EXTINF:-1,Tennis Channel HD
+http://vaders.tv/live/free/trial/40876.m3u8
+#EXTINF:-1,PAC 12 Network HD
+http://vaders.tv/live/free/trial/39848.m3u8
+#EXTINF:-1,PAC 12 Washington HD
+http://vaders.tv/live/free/trial/39849.m3u8
+#EXTINF:-1,PAC 12 Oregon HD
+http://vaders.tv/live/free/trial/39850.m3u8
+#EXTINF:-1,PAC 12 Los Angeles HD
+http://vaders.tv/live/free/trial/39851.m3u8
+#EXTINF:-1,PAC 12 Mountain HD
+http://vaders.tv/live/free/trial/39852.m3u8
+#EXTINF:-1,PAC 12 Arizona HD
+http://vaders.tv/live/free/trial/39853.m3u8
+#EXTINF:-1,PAC 12 Bay Area HD
+http://vaders.tv/live/free/trial/39854.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://vaders.tv/live/free/trial/2669.m3u8
+#EXTINF:-1,Sportsnet East HD
+http://vaders.tv/live/free/trial/2694.m3u8
+#EXTINF:-1,Sportsnet One HD
+http://vaders.tv/live/free/trial/2672.m3u8
+#EXTINF:-1,Sportsnet Ontario HD
+http://vaders.tv/live/free/trial/2673.m3u8
+#EXTINF:-1,Sportsnet Pacific HD
+http://vaders.tv/live/free/trial/2674.m3u8
+#EXTINF:-1,Sportsnet West HD
+http://vaders.tv/live/free/trial/2671.m3u8
+#EXTINF:-1,Sportsnet World HD
+http://vaders.tv/live/free/trial/2670.m3u8
+#EXTINF:-1,TSN 1 HD
+http://vaders.tv/live/free/trial/2845.m3u8
+#EXTINF:-1,TSN 2 HD
+http://vaders.tv/live/free/trial/2846.m3u8
+#EXTINF:-1,TSN 3 HD
+http://vaders.tv/live/free/trial/2847.m3u8
+#EXTINF:-1,TSN 4 HD
+http://vaders.tv/live/free/trial/2848.m3u8
+#EXTINF:-1,TSN 5 HD
+http://vaders.tv/live/free/trial/2849.m3u8
+#EXTINF:-1,Univision Deportes HD
+http://vaders.tv/live/free/trial/38911.m3u8
+#EXTINF:-1,Gol TV HD
+http://vaders.tv/live/free/trial/46466.m3u8
+#EXTINF:-1,UFC TV HD
+http://vaders.tv/live/free/trial/42469.m3u8
+#EXTINF:-1,Willow HD
+http://vaders.tv/live/free/trial/3077.m3u8
+#EXTINF:-1,Ten Sports
+http://vaders.tv/live/free/trial/12264.m3u8
+#EXTINF:-1,PTV Sports
+http://vaders.tv/live/free/trial/8319.m3u8
+#EXTINF:-1,Sony Six
+http://vaders.tv/live/free/trial/8259.m3u8
+#EXTINF:-1,Neo Sports
+http://vaders.tv/live/free/trial/12295.m3u8
+#EXTINF:-1,Rai 1 HD
+http://vaders.tv/live/free/trial/31264.m3u8
+#EXTINF:-1,Rai 2 HD
+http://vaders.tv/live/free/trial/31267.m3u8
+#EXTINF:-1,Rai 3 HD
+http://vaders.tv/live/free/trial/31270.m3u8
+#EXTINF:-1,Rai 4 HD
+http://vaders.tv/live/free/trial/31275.m3u8
+#EXTINF:-1,Rai News 24 HD
+http://vaders.tv/live/free/trial/33985.m3u8
+#EXTINF:-1,Rai Premium HD
+http://vaders.tv/live/free/trial/46478.m3u8
+#EXTINF:-1,Rai Storia HD
+http://vaders.tv/live/free/trial/46481.m3u8
+#EXTINF:-1,Rai Scuola HD
+http://vaders.tv/live/free/trial/46480.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://vaders.tv/live/free/trial/33983.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://vaders.tv/live/free/trial/46479.m3u8
+#EXTINF:-1,Rai Movies HD
+http://vaders.tv/live/free/trial/46477.m3u8
+#EXTINF:-1,Roma
+http://vaders.tv/live/free/trial/47777.m3u8
+#EXTINF:-1,Canale 5 Mediaset HD
+http://vaders.tv/live/free/trial/31286.m3u8
+#EXTINF:-1,INTER Channel
+http://vaders.tv/live/free/trial/47737.m3u8
+#EXTINF:-1,Itaila 1 Mediaset HD
+http://vaders.tv/live/free/trial/31292.m3u8
+#EXTINF:-1,Rete 4 Mediaset HD
+http://vaders.tv/live/free/trial/31280.m3u8
+#EXTINF:-1,RSI La1 HD
+http://vaders.tv/live/free/trial/31298.m3u8
+#EXTINF:-1,RSI La2 HD
+http://vaders.tv/live/free/trial/31304.m3u8
+#EXTINF:-1,Fox IT HD
+http://vaders.tv/live/free/trial/33902.m3u8
+#EXTINF:-1,Nat Geo IT HD
+http://vaders.tv/live/free/trial/33976.m3u8
+#EXTINF:-1,Nat Geo Wild IT HD
+http://vaders.tv/live/free/trial/33977.m3u8
+#EXTINF:-1,Discovery Science IT HD
+http://vaders.tv/live/free/trial/33979.m3u8
+#EXTINF:-1,Discovery Channel IT HD
+http://vaders.tv/live/free/trial/33980.m3u8
+#EXTINF:-1,Disney Channel IT HD
+http://vaders.tv/live/free/trial/33982.m3u8
+#EXTINF:-1,Sky TG 24
+http://vaders.tv/live/free/trial/33984.m3u8
+#EXTINF:-1,Sky Uno HD
+http://vaders.tv/live/free/trial/33436.m3u8
+#EXTINF:-1,Sky Atlantic IT HD
+http://vaders.tv/live/free/trial/33901.m3u8
+#EXTINF:-1,Sky Arte IT HD
+http://vaders.tv/live/free/trial/33927.m3u8
+#EXTINF:-1,Sky Cinema Classics HD
+http://vaders.tv/live/free/trial/33941.m3u8
+#EXTINF:-1,Sky Cinema Commedia HD
+http://vaders.tv/live/free/trial/33937.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://vaders.tv/live/free/trial/33948.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://vaders.tv/live/free/trial/33949.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://vaders.tv/live/free/trial/33945.m3u8
+#EXTINF:-1,Sky Cinema Uno IT HD
+http://vaders.tv/live/free/trial/33931.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://vaders.tv/live/free/trial/33952.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://vaders.tv/live/free/trial/33956.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://vaders.tv/live/free/trial/33964.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://vaders.tv/live/free/trial/33959.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://vaders.tv/live/free/trial/34099.m3u8
+#EXTINF:-1,Sky Sport 1 IT HD
+http://vaders.tv/live/free/trial/46467.m3u8
+#EXTINF:-1,Sky Sport 2 IT HD
+http://vaders.tv/live/free/trial/46468.m3u8
+#EXTINF:-1,Sky Sport 3 IT HD
+http://vaders.tv/live/free/trial/46469.m3u8
+#EXTINF:-1,Sky Sport F1 IT HD
+http://vaders.tv/live/free/trial/46470.m3u8
+#EXTINF:-1,Sky Sport GP IT HD
+http://vaders.tv/live/free/trial/46471.m3u8
+#EXTINF:-1,Sky Sport Plus IT HD
+http://vaders.tv/live/free/trial/46472.m3u8
+#EXTINF:-1,Sky Fox Sport HD
+http://vaders.tv/live/free/trial/46473.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://vaders.tv/live/free/trial/46476.m3u8
+#EXTINF:-1,Rai Sport + HD
+http://vaders.tv/live/free/trial/46474.m3u8
+#EXTINF:-1,Super Tennis HD
+http://vaders.tv/live/free/trial/46475.m3u8
+#EXTINF:-1,A&E LT HD
+http://vaders.tv/live/free/trial/38888.m3u8
+#EXTINF:-1,AMC LT
+http://vaders.tv/live/free/trial/38868.m3u8
+#EXTINF:-1,Animal Planet
+http://vaders.tv/live/free/trial/38889.m3u8
+#EXTINF:-1,AXN LT HD
+http://vaders.tv/live/free/trial/38890.m3u8
+#EXTINF:-1,Azteca 7
+http://vaders.tv/live/free/trial/38859.m3u8
+#EXTINF:-1,Bandamax
+http://vaders.tv/live/free/trial/38816.m3u8
+#EXTINF:-1,Boomerang LT
+http://vaders.tv/live/free/trial/38815.m3u8
+#EXTINF:-1,Canal 5 HD
+http://vaders.tv/live/free/trial/38886.m3u8
+#EXTINF:-1,Canal De Las Estrellas HD
+http://vaders.tv/live/free/trial/38885.m3u8
+#EXTINF:-1,Cartoon Network LT HD
+http://vaders.tv/live/free/trial/38891.m3u8
+#EXTINF:-1,Cinecanal HD
+http://vaders.tv/live/free/trial/38884.m3u8
+#EXTINF:-1,Cinemax LT
+http://vaders.tv/live/free/trial/38814.m3u8
+#EXTINF:-1,Comedy Central LT HD
+http://vaders.tv/live/free/trial/38883.m3u8
+#EXTINF:-1,Discovery Channel
+http://vaders.tv/live/free/trial/38893.m3u8
+#EXTINF:-1,Discovery Kids
+http://vaders.tv/live/free/trial/38896.m3u8
+#EXTINF:-1,Disney Channel LT
+http://vaders.tv/live/free/trial/38867.m3u8
+#EXTINF:-1,Disney Junior LT
+http://vaders.tv/live/free/trial/38866.m3u8
+#EXTINF:-1,ESPN
+http://vaders.tv/live/free/trial/38900.m3u8
+#EXTINF:-1,ESPN 2
+http://vaders.tv/live/free/trial/38901.m3u8
+#EXTINF:-1,ESPN 3
+http://vaders.tv/live/free/trial/38902.m3u8
+#EXTINF:-1,Fox 1 HD
+http://vaders.tv/live/free/trial/38904.m3u8
+#EXTINF:-1,Fox Action HD
+http://vaders.tv/live/free/trial/38905.m3u8
+#EXTINF:-1,Fox Cinema HD
+http://vaders.tv/live/free/trial/38906.m3u8
+#EXTINF:-1,Fox LT HD
+http://vaders.tv/live/free/trial/38907.m3u8
+#EXTINF:-1,Fox Life
+http://vaders.tv/live/free/trial/38847.m3u8
+#EXTINF:-1,Fox Movies HD
+http://vaders.tv/live/free/trial/38908.m3u8
+#EXTINF:-1,Fox Sports
+http://vaders.tv/live/free/trial/38909.m3u8
+#EXTINF:-1,FX LT
+http://vaders.tv/live/free/trial/38845.m3u8
+#EXTINF:-1,Gourmet
+http://vaders.tv/live/free/trial/38877.m3u8
+#EXTINF:-1,MI Musica HD
+http://vaders.tv/live/free/trial/38837.m3u8
+#EXTINF:-1,MTV Latino
+http://vaders.tv/live/free/trial/38836.m3u8
+#EXTINF:-1,MTV Latino Hits
+http://vaders.tv/live/free/trial/38835.m3u8
+#EXTINF:-1,Nick Jr LT
+http://vaders.tv/live/free/trial/38831.m3u8
+#EXTINF:-1,Nick Toons
+http://vaders.tv/live/free/trial/38801.m3u8
+#EXTINF:-1,Nickelodeon LT
+http://vaders.tv/live/free/trial/38864.m3u8
+#EXTINF:-1,Proyecto 40
+http://vaders.tv/live/free/trial/38829.m3u8
+#EXTINF:-1,TCM LT
+http://vaders.tv/live/free/trial/38795.m3u8
+#EXTINF:-1,Tele Hit
+http://vaders.tv/live/free/trial/38794.m3u8
+#EXTINF:-1,Telemundo
+http://vaders.tv/live/free/trial/38793.m3u8
+#EXTINF:-1,Telemundo INT
+http://vaders.tv/live/free/trial/38827.m3u8
+#EXTINF:-1,Televisa HD
+http://vaders.tv/live/free/trial/38826.m3u8
+#EXTINF:-1,Tiin
+http://vaders.tv/live/free/trial/38792.m3u8
+#EXTINF:-1,TLC LT
+http://vaders.tv/live/free/trial/38825.m3u8
+#EXTINF:-1,TNT LT
+http://vaders.tv/live/free/trial/38862.m3u8
+#EXTINF:-1,ToonCast
+http://vaders.tv/live/free/trial/38791.m3u8
+#EXTINF:-1,Trendy Channel
+http://vaders.tv/live/free/trial/38790.m3u8
+#EXTINF:-1,Tru Tv LT HD
+http://vaders.tv/live/free/trial/38873.m3u8
+#EXTINF:-1,TV Marti
+http://vaders.tv/live/free/trial/38824.m3u8
+#EXTINF:-1,Unimas HD
+http://vaders.tv/live/free/trial/38822.m3u8
+#EXTINF:-1,Warner HD
+http://vaders.tv/live/free/trial/38870.m3u8
+#EXTINF:-1,Latino: WIN SPORT HD
+http://vaders.tv/live/free/trial/38787.m3u8
+#EXTINF:-1,WAPA America
+http://vaders.tv/live/free/trial/8200.m3u8
+#EXTINF:-1,Univision HD
+http://vaders.tv/live/free/trial/7520.m3u8
+#EXTINF:-1,La 1 HD
+http://vaders.tv/live/free/trial/33987.m3u8
+#EXTINF:-1,Antena 3 HD
+http://vaders.tv/live/free/trial/33988.m3u8
+#EXTINF:-1,Cuatro HD
+http://vaders.tv/live/free/trial/33989.m3u8
+#EXTINF:-1,Telecinco HD
+http://vaders.tv/live/free/trial/33990.m3u8
+#EXTINF:-1,La Sexta HD
+http://vaders.tv/live/free/trial/33991.m3u8
+#EXTINF:-1,Neox HD
+http://vaders.tv/live/free/trial/33992.m3u8
+#EXTINF:-1,A3Series HD
+http://vaders.tv/live/free/trial/33999.m3u8
+#EXTINF:-1,Mega HD
+http://vaders.tv/live/free/trial/34000.m3u8
+#EXTINF:-1,#0 HD
+http://vaders.tv/live/free/trial/33993.m3u8
+#EXTINF:-1,Movistar+ Series HD
+http://vaders.tv/live/free/trial/33994.m3u8
+#EXTINF:-1,Movistar+ Accion HD
+http://vaders.tv/live/free/trial/33995.m3u8
+#EXTINF:-1,Movistar+ Comedia HD
+http://vaders.tv/live/free/trial/33996.m3u8
+#EXTINF:-1,Movistar+ DCine HD
+http://vaders.tv/live/free/trial/33997.m3u8
+#EXTINF:-1,Movistar+ Xtra HD
+http://vaders.tv/live/free/trial/33998.m3u8
+#EXTINF:-1,AMC ES HD
+http://vaders.tv/live/free/trial/34001.m3u8
+#EXTINF:-1,TCM ES HD
+http://vaders.tv/live/free/trial/34002.m3u8
+#EXTINF:-1,AXN HD
+http://vaders.tv/live/free/trial/34003.m3u8
+#EXTINF:-1,AXN White HD
+http://vaders.tv/live/free/trial/34004.m3u8
+#EXTINF:-1,Calle 13 HD
+http://vaders.tv/live/free/trial/34005.m3u8
+#EXTINF:-1,Hollywood HD
+http://vaders.tv/live/free/trial/34006.m3u8
+#EXTINF:-1,Cosmo HD
+http://vaders.tv/live/free/trial/34009.m3u8
+#EXTINF:-1,Fox ES HD
+http://vaders.tv/live/free/trial/34007.m3u8
+#EXTINF:-1,Fox Life ES HD
+http://vaders.tv/live/free/trial/34008.m3u8
+#EXTINF:-1,TNT ES HD
+http://vaders.tv/live/free/trial/34010.m3u8
+#EXTINF:-1,SyFy ES HD
+http://vaders.tv/live/free/trial/34013.m3u8
+#EXTINF:-1,Comedy Central ES HD
+http://vaders.tv/live/free/trial/34012.m3u8
+#EXTINF:-1,Discovery Channel ES HD
+http://vaders.tv/live/free/trial/34014.m3u8
+#EXTINF:-1,Caza y Pesca HD
+http://vaders.tv/live/free/trial/34015.m3u8
+#EXTINF:-1,Historia HD
+http://vaders.tv/live/free/trial/34016.m3u8
+#EXTINF:-1,Viajar HD
+http://vaders.tv/live/free/trial/34017.m3u8
+#EXTINF:-1,National Geographic ES HD
+http://vaders.tv/live/free/trial/34018.m3u8
+#EXTINF:-1,National Geographic Wild ES HD
+http://vaders.tv/live/free/trial/34019.m3u8
+#EXTINF:-1,Disney Channel ES HD
+http://vaders.tv/live/free/trial/34020.m3u8
+#EXTINF:-1,Nickelodeon ES HD
+http://vaders.tv/live/free/trial/34021.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://vaders.tv/live/free/trial/34022.m3u8
+#EXTINF:-1,Movistar+ Deportes 1 HD
+http://vaders.tv/live/free/trial/34188.m3u8
+#EXTINF:-1,Movistar+ Deportes 2 HD
+http://vaders.tv/live/free/trial/34189.m3u8
+#EXTINF:-1,Movistar+ F1 HD
+http://vaders.tv/live/free/trial/34192.m3u8
+#EXTINF:-1,Movistar+ Futbol HD
+http://vaders.tv/live/free/trial/34190.m3u8
+#EXTINF:-1,Movistar+ Golf HD
+http://vaders.tv/live/free/trial/34191.m3u8
+#EXTINF:-1,Movistar+ MotoGP HD
+http://vaders.tv/live/free/trial/34193.m3u8
+#EXTINF:-1,BeIN Sports Espana HD
+http://vaders.tv/live/free/trial/34196.m3u8
+#EXTINF:-1,BeIN Sports LaLiga HD
+http://vaders.tv/live/free/trial/34195.m3u8
+#EXTINF:-1,LaLigaTV HD
+http://vaders.tv/live/free/trial/34194.m3u8
+#EXTINF:-1,Das Erste HD
+http://vaders.tv/live/free/trial/34062.m3u8
+#EXTINF:-1,ZDF HD
+http://vaders.tv/live/free/trial/34063.m3u8
+#EXTINF:-1,3Sat HD
+http://vaders.tv/live/free/trial/34064.m3u8
+#EXTINF:-1,RTL HD
+http://vaders.tv/live/free/trial/34065.m3u8
+#EXTINF:-1,RTL 2 HD
+http://vaders.tv/live/free/trial/34066.m3u8
+#EXTINF:-1,Super RTL HD
+http://vaders.tv/live/free/trial/34092.m3u8
+#EXTINF:-1,Sat.1 HD
+http://vaders.tv/live/free/trial/34067.m3u8
+#EXTINF:-1,Kabel Eins HD
+http://vaders.tv/live/free/trial/34068.m3u8
+#EXTINF:-1,Pro Sieben HD
+http://vaders.tv/live/free/trial/34069.m3u8
+#EXTINF:-1,DMAX HD
+http://vaders.tv/live/free/trial/34070.m3u8
+#EXTINF:-1,Pro Sieben Maxx HD
+http://vaders.tv/live/free/trial/34071.m3u8
+#EXTINF:-1,RTL Crime HD
+http://vaders.tv/live/free/trial/34072.m3u8
+#EXTINF:-1,RTL Nitro HD
+http://vaders.tv/live/free/trial/34073.m3u8
+#EXTINF:-1,Sat1 Gold HD
+http://vaders.tv/live/free/trial/34074.m3u8
+#EXTINF:-1,Vox HD
+http://vaders.tv/live/free/trial/34075.m3u8
+#EXTINF:-1,Sixx HD
+http://vaders.tv/live/free/trial/34076.m3u8
+#EXTINF:-1,Tele 5 HD
+http://vaders.tv/live/free/trial/34077.m3u8
+#EXTINF:-1,ORF 1 HD
+http://vaders.tv/live/free/trial/34078.m3u8
+#EXTINF:-1,ORF 2 HD
+http://vaders.tv/live/free/trial/34079.m3u8
+#EXTINF:-1,N-TV HD
+http://vaders.tv/live/free/trial/34084.m3u8
+#EXTINF:-1,N24 HD
+http://vaders.tv/live/free/trial/34085.m3u8
+#EXTINF:-1,TLC DE HD
+http://vaders.tv/live/free/trial/34086.m3u8
+#EXTINF:-1,Sky 1 HD
+http://vaders.tv/live/free/trial/34201.m3u8
+#EXTINF:-1,Sky Atlantic DE HD
+http://vaders.tv/live/free/trial/34203.m3u8
+#EXTINF:-1,Sky Arts HD
+http://vaders.tv/live/free/trial/34202.m3u8
+#EXTINF:-1,Sky Cinema DE HD
+http://vaders.tv/live/free/trial/34204.m3u8
+#EXTINF:-1,Sky Action DE HD
+http://vaders.tv/live/free/trial/34205.m3u8
+#EXTINF:-1,Travel Channel DE HD
+http://vaders.tv/live/free/trial/34087.m3u8
+#EXTINF:-1,History DE HD
+http://vaders.tv/live/free/trial/34091.m3u8
+#EXTINF:-1,Nat Geo DE HD
+http://vaders.tv/live/free/trial/34089.m3u8
+#EXTINF:-1,Nat Geo Wild DE HD
+http://vaders.tv/live/free/trial/34090.m3u8
+#EXTINF:-1,Nickelodeon DE HD
+http://vaders.tv/live/free/trial/34094.m3u8
+#EXTINF:-1,Discovery Channel DE HD
+http://vaders.tv/live/free/trial/34088.m3u8
+#EXTINF:-1,Disney Channel DE HD
+http://vaders.tv/live/free/trial/34095.m3u8
+#EXTINF:-1,Disney Junior DE HD
+http://vaders.tv/live/free/trial/34097.m3u8
+#EXTINF:-1,Sky Sport 1 DE HD
+http://vaders.tv/live/free/trial/34197.m3u8
+#EXTINF:-1,Sky Sport 2 DE HD
+http://vaders.tv/live/free/trial/34198.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://vaders.tv/live/free/trial/34200.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://vaders.tv/live/free/trial/34206.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://vaders.tv/live/free/trial/34199.m3u8
+#EXTINF:-1,Sportdigital HD
+http://vaders.tv/live/free/trial/34210.m3u8
+#EXTINF:-1,RTP 1
+http://vaders.tv/live/free/trial/36501.m3u8
+#EXTINF:-1,RTP 2
+http://vaders.tv/live/free/trial/36502.m3u8
+#EXTINF:-1,RTP Acores
+http://vaders.tv/live/free/trial/36503.m3u8
+#EXTINF:-1,RTP Africa
+http://vaders.tv/live/free/trial/36507.m3u8
+#EXTINF:-1,RTP Madeira
+http://vaders.tv/live/free/trial/36504.m3u8
+#EXTINF:-1,RTP Memoria
+http://vaders.tv/live/free/trial/36506.m3u8
+#EXTINF:-1,Sic
+http://vaders.tv/live/free/trial/37288.m3u8
+#EXTINF:-1,Sic Mulher HD
+http://vaders.tv/live/free/trial/39410.m3u8
+#EXTINF:-1,Sic Noticias HD
+http://vaders.tv/live/free/trial/39411.m3u8
+#EXTINF:-1,Sic Radical HD
+http://vaders.tv/live/free/trial/39412.m3u8
+#EXTINF:-1,TV Cine 1 HD
+http://vaders.tv/live/free/trial/39413.m3u8
+#EXTINF:-1,TV Cine 2 HD
+http://vaders.tv/live/free/trial/39414.m3u8
+#EXTINF:-1,TV Cine 3 HD
+http://vaders.tv/live/free/trial/39415.m3u8
+#EXTINF:-1,TV Cine 4 HD
+http://vaders.tv/live/free/trial/39416.m3u8
+#EXTINF:-1,TVI
+http://vaders.tv/live/free/trial/39417.m3u8
+#EXTINF:-1,TVI 24
+http://vaders.tv/live/free/trial/39418.m3u8
+#EXTINF:-1,TVI Reality
+http://vaders.tv/live/free/trial/39429.m3u8
+#EXTINF:-1,TV Globo
+http://vaders.tv/live/free/trial/39430.m3u8
+#EXTINF:-1,Sport TV + HD
+http://vaders.tv/live/free/trial/39431.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://vaders.tv/live/free/trial/39432.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://vaders.tv/live/free/trial/39433.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://vaders.tv/live/free/trial/39434.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://vaders.tv/live/free/trial/39435.m3u8
+#EXTINF:-1,Sport TV 5 HD
+http://vaders.tv/live/free/trial/39436.m3u8
+#EXTINF:-1,RTE One
+http://vaders.tv/live/free/trial/16923.m3u8
+#EXTINF:-1,RTE Two
+http://vaders.tv/live/free/trial/16931.m3u8
+#EXTINF:-1,RTE Jr
+http://vaders.tv/live/free/trial/16933.m3u8
+#EXTINF:-1,TG4
+http://vaders.tv/live/free/trial/16944.m3u8
+#EXTINF:-1,TV3
+http://vaders.tv/live/free/trial/16945.m3u8
+#EXTINF:-1,UTV HD
+http://vaders.tv/live/free/trial/16946.m3u8
+#EXTINF:-1,3e
+http://vaders.tv/live/free/trial/16947.m3u8
+#EXTINF:-1,BBC One HD
+http://vaders.tv/live/free/trial/2464.m3u8
+#EXTINF:-1,BBC One
+http://vaders.tv/live/free/trial/39862.m3u8
+#EXTINF:-1,BBC Two HD
+http://vaders.tv/live/free/trial/2467.m3u8
+#EXTINF:-1,BBC Two
+http://vaders.tv/live/free/trial/39863.m3u8
+#EXTINF:-1,BBC Four HD
+http://vaders.tv/live/free/trial/2469.m3u8
+#EXTINF:-1,BBC Four
+http://vaders.tv/live/free/trial/39864.m3u8
+#EXTINF:-1,BBC News HD
+http://vaders.tv/live/free/trial/38777.m3u8
+#EXTINF:-1,BBC News
+http://vaders.tv/live/free/trial/39871.m3u8
+#EXTINF:-1,Channel 4 HD
+http://vaders.tv/live/free/trial/2476.m3u8
+#EXTINF:-1,Channel 4
+http://vaders.tv/live/free/trial/39865.m3u8
+#EXTINF:-1,Channel 5 HD
+http://vaders.tv/live/free/trial/2477.m3u8
+#EXTINF:-1,Channel 5
+http://vaders.tv/live/free/trial/39866.m3u8
+#EXTINF:-1,ITV 1 HD
+http://vaders.tv/live/free/trial/2470.m3u8
+#EXTINF:-1,ITV 1
+http://vaders.tv/live/free/trial/39867.m3u8
+#EXTINF:-1,ITV 2 HD
+http://vaders.tv/live/free/trial/2471.m3u8
+#EXTINF:-1,ITV 2
+http://vaders.tv/live/free/trial/39868.m3u8
+#EXTINF:-1,ITV 3 HD
+http://vaders.tv/live/free/trial/2472.m3u8
+#EXTINF:-1,ITV 3
+http://vaders.tv/live/free/trial/39869.m3u8
+#EXTINF:-1,ITV 4 HD
+http://vaders.tv/live/free/trial/2473.m3u8
+#EXTINF:-1,ITV 4
+http://vaders.tv/live/free/trial/39870.m3u8
+#EXTINF:-1,ITV Encore HD
+http://vaders.tv/live/free/trial/2475.m3u8
+#EXTINF:-1,ITV Encore
+http://vaders.tv/live/free/trial/39872.m3u8
+#EXTINF:-1,Sky 1
+http://vaders.tv/live/free/trial/2573.m3u8
+#EXTINF:-1,Sky 2
+http://vaders.tv/live/free/trial/2574.m3u8
+#EXTINF:-1,Sky Arts
+http://vaders.tv/live/free/trial/2575.m3u8
+#EXTINF:-1,Sky Atlantic
+http://vaders.tv/live/free/trial/2576.m3u8
+#EXTINF:-1,Sky Living
+http://vaders.tv/live/free/trial/2577.m3u8
+#EXTINF:-1,Sky News HD
+http://vaders.tv/live/free/trial/39630.m3u8
+#EXTINF:-1,E4
+http://vaders.tv/live/free/trial/2571.m3u8
+#EXTINF:-1,More4
+http://vaders.tv/live/free/trial/2572.m3u8
+#EXTINF:-1,Pick TV
+http://vaders.tv/live/free/trial/2578.m3u8
+#EXTINF:-1,5USA
+http://vaders.tv/live/free/trial/34211.m3u8
+#EXTINF:-1,5STAR
+http://vaders.tv/live/free/trial/34212.m3u8
+#EXTINF:-1,CBS Drama
+http://vaders.tv/live/free/trial/34214.m3u8
+#EXTINF:-1,CBS Reality
+http://vaders.tv/live/free/trial/34215.m3u8
+#EXTINF:-1,CBS Action
+http://vaders.tv/live/free/trial/34213.m3u8
+#EXTINF:-1,Comedy Central UK
+http://vaders.tv/live/free/trial/39642.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://vaders.tv/live/free/trial/39818.m3u8
+#EXTINF:-1,Dave
+http://vaders.tv/live/free/trial/34283.m3u8
+#EXTINF:-1,Home
+http://vaders.tv/live/free/trial/35001.m3u8
+#EXTINF:-1,Gold
+http://vaders.tv/live/free/trial/35162.m3u8
+#EXTINF:-1,Eden HD
+http://vaders.tv/live/free/trial/39819.m3u8
+#EXTINF:-1,Universal Channel
+http://vaders.tv/live/free/trial/35463.m3u8
+#EXTINF:-1,Syfy UK
+http://vaders.tv/live/free/trial/35661.m3u8
+#EXTINF:-1,Lifetime UK
+http://vaders.tv/live/free/trial/35748.m3u8
+#EXTINF:-1,Yesterday
+http://vaders.tv/live/free/trial/35756.m3u8
+#EXTINF:-1,Drama
+http://vaders.tv/live/free/trial/36174.m3u8
+#EXTINF:-1,Watch
+http://vaders.tv/live/free/trial/36175.m3u8
+#EXTINF:-1,Really
+http://vaders.tv/live/free/trial/36176.m3u8
+#EXTINF:-1,Food Network UK
+http://vaders.tv/live/free/trial/36177.m3u8
+#EXTINF:-1,Good Food
+http://vaders.tv/live/free/trial/36178.m3u8
+#EXTINF:-1,Challenge
+http://vaders.tv/live/free/trial/37245.m3u8
+#EXTINF:-1,Alibi
+http://vaders.tv/live/free/trial/37247.m3u8
+#EXTINF:-1,TLC UK
+http://vaders.tv/live/free/trial/39028.m3u8
+#EXTINF:-1,ID UK
+http://vaders.tv/live/free/trial/47372.m3u8
+#EXTINF:-1,Discovery Channel UK
+http://vaders.tv/live/free/trial/39639.m3u8
+#EXTINF:-1,Discovery Science UK
+http://vaders.tv/live/free/trial/39817.m3u8
+#EXTINF:-1,Discovery Turbo
+http://vaders.tv/live/free/trial/39640.m3u8
+#EXTINF:-1,Discovery History
+http://vaders.tv/live/free/trial/39816.m3u8
+#EXTINF:-1,Animal Planet UK
+http://vaders.tv/live/free/trial/39641.m3u8
+#EXTINF:-1,National Geographic UK
+http://vaders.tv/live/free/trial/39029.m3u8
+#EXTINF:-1,Boomerang UK
+http://vaders.tv/live/free/trial/37248.m3u8
+#EXTINF:-1,Cartoon Network UK
+http://vaders.tv/live/free/trial/37249.m3u8
+#EXTINF:-1,Nickelodeon UK
+http://vaders.tv/live/free/trial/37250.m3u8
+#EXTINF:-1,Nick Jr UK
+http://vaders.tv/live/free/trial/37251.m3u8
+#EXTINF:-1,CBBC HD
+http://vaders.tv/live/free/trial/37252.m3u8
+#EXTINF:-1,CBeebies
+http://vaders.tv/live/free/trial/37253.m3u8
+#EXTINF:-1,Disney Channel UK
+http://vaders.tv/live/free/trial/37254.m3u8
+#EXTINF:-1,Disney Junior UK
+http://vaders.tv/live/free/trial/37255.m3u8
+#EXTINF:-1,BabyTV
+http://vaders.tv/live/free/trial/39643.m3u8
+#EXTINF:-1,E! UK
+http://vaders.tv/live/free/trial/39814.m3u8
+#EXTINF:-1,MTV UK
+http://vaders.tv/live/free/trial/39815.m3u8
+#EXTINF:-1,Fox UK
+http://vaders.tv/live/free/trial/39837.m3u8
+#EXTINF:-1,Rishtey TV
+http://vaders.tv/live/free/trial/47371.m3u8
+#EXTINF:-1,Global BC
+http://vaders.tv/live/free/trial/2749.m3u8
+#EXTINF:-1,CBC Vancover
+http://vaders.tv/live/free/trial/2747.m3u8
+#EXTINF:-1,CTV 2 Vancover Island
+http://vaders.tv/live/free/trial/3143.m3u8
+#EXTINF:-1,CTV Vancouver
+http://vaders.tv/live/free/trial/2748.m3u8
+#EXTINF:-1,CityTV Vancouver
+http://vaders.tv/live/free/trial/2822.m3u8
+#EXTINF:-1,CTV Calgary
+http://vaders.tv/live/free/trial/39419.m3u8
+#EXTINF:-1,Global Calgary
+http://vaders.tv/live/free/trial/39420.m3u8
+#EXTINF:-1,Global HD
+http://vaders.tv/live/free/trial/2823.m3u8
+#EXTINF:-1,CBC HD
+http://vaders.tv/live/free/trial/2818.m3u8
+#EXTINF:-1,CTV HD
+http://vaders.tv/live/free/trial/2820.m3u8
+#EXTINF:-1,CityTV HD
+http://vaders.tv/live/free/trial/2821.m3u8
+#EXTINF:-1,OMNI 1 HD
+http://vaders.tv/live/free/trial/2699.m3u8
+#EXTINF:-1,OMNI 2 HD
+http://vaders.tv/live/free/trial/2861.m3u8
+#EXTINF:-1,CP24 HD
+http://vaders.tv/live/free/trial/2852.m3u8
+#EXTINF:-1,CHCH HD
+http://vaders.tv/live/free/trial/2700.m3u8
+#EXTINF:-1,CTV News HD
+http://vaders.tv/live/free/trial/2851.m3u8
+#EXTINF:-1,CBC News HD
+http://vaders.tv/live/free/trial/2850.m3u8
+#EXTINF:-1,BNN HD
+http://vaders.tv/live/free/trial/2704.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://vaders.tv/live/free/trial/2758.m3u8
+#EXTINF:-1,Love Nature HD
+http://vaders.tv/live/free/trial/2853.m3u8
+#EXTINF:-1,W Network HD
+http://vaders.tv/live/free/trial/2709.m3u8
+#EXTINF:-1,Space HD
+http://vaders.tv/live/free/trial/39619.m3u8
+#EXTINF:-1,Slice HD
+http://vaders.tv/live/free/trial/2782.m3u8
+#EXTINF:-1,Peachtree HD
+http://vaders.tv/live/free/trial/39618.m3u8
+#EXTINF:-1,ID HD
+http://vaders.tv/live/free/trial/7941.m3u8
+#EXTINF:-1,HGTV CA HD
+http://vaders.tv/live/free/trial/2860.m3u8
+#EXTINF:-1,TLC CA HD
+http://vaders.tv/live/free/trial/2752.m3u8
+#EXTINF:-1,Discovery Channel CA HD
+http://vaders.tv/live/free/trial/2753.m3u8
+#EXTINF:-1,Disney Channel CA HD
+http://vaders.tv/live/free/trial/2781.m3u8
+#EXTINF:-1,Disney Jr CA HD
+http://vaders.tv/live/free/trial/39620.m3u8
+#EXTINF:-1,E! HD
+http://vaders.tv/live/free/trial/2760.m3u8
+#EXTINF:-1,ABC Spark HD
+http://vaders.tv/live/free/trial/2862.m3u8
+#EXTINF:-1,Family CHRGD HD
+http://vaders.tv/live/free/trial/2858.m3u8
+#EXTINF:-1,Family HD
+http://vaders.tv/live/free/trial/2764.m3u8
+#EXTINF:-1,Treehouse HD
+http://vaders.tv/live/free/trial/2766.m3u8
+#EXTINF:-1,TVO HD
+http://vaders.tv/live/free/trial/2783.m3u8
+#EXTINF:-1,Teletoon HD
+http://vaders.tv/live/free/trial/2855.m3u8
+#EXTINF:-1,YTV HD
+http://vaders.tv/live/free/trial/2854.m3u8
+#EXTINF:-1,ABC W HD
+http://vaders.tv/live/free/trial/2767.m3u8
+#EXTINF:-1,CBS W HD
+http://vaders.tv/live/free/trial/2768.m3u8
+#EXTINF:-1,FOX W HD
+http://vaders.tv/live/free/trial/2770.m3u8
+#EXTINF:-1,NBC W HD
+http://vaders.tv/live/free/trial/2769.m3u8
+#EXTINF:-1,ABC HD
+http://vaders.tv/live/free/trial/2435.m3u8
+#EXTINF:-1,CBS HD
+http://vaders.tv/live/free/trial/2440.m3u8
+#EXTINF:-1,NBC HD
+http://vaders.tv/live/free/trial/2455.m3u8
+#EXTINF:-1,CW HD
+http://vaders.tv/live/free/trial/8198.m3u8
+#EXTINF:-1,FOX HD
+http://vaders.tv/live/free/trial/2448.m3u8
+#EXTINF:-1,A&E HD
+http://vaders.tv/live/free/trial/2463.m3u8
+#EXTINF:-1,AMC HD
+http://vaders.tv/live/free/trial/2436.m3u8
+#EXTINF:-1,Food Network HD
+http://vaders.tv/live/free/trial/2913.m3u8
+#EXTINF:-1,Animal Planet HD
+http://vaders.tv/live/free/trial/2437.m3u8
+#EXTINF:-1,Bravo HD
+http://vaders.tv/live/free/trial/2438.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://vaders.tv/live/free/trial/2439.m3u8
+#EXTINF:-1,Fox Business HD
+http://vaders.tv/live/free/trial/34023.m3u8
+#EXTINF:-1,CNBC HD
+http://vaders.tv/live/free/trial/2441.m3u8
+#EXTINF:-1,MSNBC HD
+http://vaders.tv/live/free/trial/3082.m3u8
+#EXTINF:-1,CNN News HD
+http://vaders.tv/live/free/trial/2442.m3u8
+#EXTINF:-1,Comedy Central HD
+http://vaders.tv/live/free/trial/2443.m3u8
+#EXTINF:-1,Destination America HD
+http://vaders.tv/live/free/trial/39437.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://vaders.tv/live/free/trial/2445.m3u8
+#EXTINF:-1,Discovery Family HD
+http://vaders.tv/live/free/trial/47566.m3u8
+#EXTINF:-1,Nat Geo HD
+http://vaders.tv/live/free/trial/2754.m3u8
+#EXTINF:-1,History HD
+http://vaders.tv/live/free/trial/2915.m3u8
+#EXTINF:-1,Fox News HD
+http://vaders.tv/live/free/trial/2449.m3u8
+#EXTINF:-1,Weather Network HD
+http://vaders.tv/live/free/trial/40877.m3u8
+#EXTINF:-1,FX HD
+http://vaders.tv/live/free/trial/2451.m3u8
+#EXTINF:-1,FXX HD
+http://vaders.tv/live/free/trial/2452.m3u8
+#EXTINF:-1,El Rey Network HD
+http://vaders.tv/live/free/trial/38912.m3u8
+#EXTINF:-1,Nick HD
+http://vaders.tv/live/free/trial/2460.m3u8
+#EXTINF:-1,Disney Channel HD
+http://vaders.tv/live/free/trial/8197.m3u8
+#EXTINF:-1,Disney Jr HD
+http://vaders.tv/live/free/trial/39421.m3u8
+#EXTINF:-1,Disney XD HD
+http://vaders.tv/live/free/trial/2762.m3u8
+#EXTINF:-1,FreeForm HD
+http://vaders.tv/live/free/trial/2450.m3u8
+#EXTINF:-1,Lifetime HD
+http://vaders.tv/live/free/trial/2465.m3u8
+#EXTINF:-1,Spike HD
+http://vaders.tv/live/free/trial/2457.m3u8
+#EXTINF:-1,TBS HD
+http://vaders.tv/live/free/trial/2461.m3u8
+#EXTINF:-1,TNT HD
+http://vaders.tv/live/free/trial/2459.m3u8
+#EXTINF:-1,USA Network HD
+http://vaders.tv/live/free/trial/2462.m3u8
+#EXTINF:-1,Velocity HD
+http://vaders.tv/live/free/trial/2776.m3u8
+#EXTINF:-1,Travel Channel HD
+http://vaders.tv/live/free/trial/39874.m3u8
+#EXTINF:-1,Outdoor Channel HD
+http://vaders.tv/live/free/trial/40878.m3u8
+#EXTINF:-1,Oxygen HD
+http://vaders.tv/live/free/trial/40685.m3u8
+#EXTINF:-1,SYFY HD
+http://vaders.tv/live/free/trial/2458.m3u8
+#EXTINF:-1,Sundance HD
+http://vaders.tv/live/free/trial/2780.m3u8
+#EXTINF:-1,OWN HD
+http://vaders.tv/live/free/trial/2779.m3u8
+#EXTINF:-1,BBC America HD
+http://vaders.tv/live/free/trial/2456.m3u8
+#EXTINF:-1,HGTV HD
+http://vaders.tv/live/free/trial/2454.m3u8
+#EXTINF:-1,DIY Network HD
+http://vaders.tv/live/free/trial/40663.m3u8
+#EXTINF:-1,Hallmark Channel HD
+http://vaders.tv/live/free/trial/2453.m3u8
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://vaders.tv/live/free/trial/39629.m3u8
+#EXTINF:-1,Chiller HD
+http://vaders.tv/live/free/trial/40875.m3u8
+#EXTINF:-1,Reelz HD
+http://vaders.tv/live/free/trial/47564.m3u8
+#EXTINF:-1,Tru TV HD
+http://vaders.tv/live/free/trial/2466.m3u8
+#EXTINF:-1,GSN HD
+http://vaders.tv/live/free/trial/39847.m3u8
+#EXTINF:-1,CMT HD
+http://vaders.tv/live/free/trial/47565.m3u8
+#EXTINF:-1,TLC HD
+http://vaders.tv/live/free/trial/2777.m3u8
+#EXTINF:-1,PBS HD
+http://vaders.tv/live/free/trial/2774.m3u8
+#EXTINF:-1,BET HD
+http://vaders.tv/live/free/trial/8246.m3u8
+#EXTINF:-1,IFC HD
+http://vaders.tv/live/free/trial/2773.m3u8
+#EXTINF:-1,LMN HD
+http://vaders.tv/live/free/trial/16705.m3u8
+#EXTINF:-1,MTV HD
+http://vaders.tv/live/free/trial/12901.m3u8
+#EXTINF:-1,VH1 HD
+http://vaders.tv/live/free/trial/39363.m3u8
+#EXTINF:-1,Viceland HD
+http://vaders.tv/live/free/trial/16318.m3u8
+#EXTINF:-1,TVLand HD
+http://vaders.tv/live/free/trial/40662.m3u8
+#EXTINF:-1,TVOne HD
+http://vaders.tv/live/free/trial/40695.m3u8
+#EXTINF:-1,H2
+http://vaders.tv/live/free/trial/47860.m3u8
+#EXTINF:-1,MBC 1 HD
+http://vaders.tv/live/free/trial/39195.m3u8
+#EXTINF:-1,MBC 2 HD
+http://vaders.tv/live/free/trial/39194.m3u8
+#EXTINF:-1,MBC 3 HD
+http://vaders.tv/live/free/trial/39193.m3u8
+#EXTINF:-1,MBC 4 HD
+http://vaders.tv/live/free/trial/39192.m3u8
+#EXTINF:-1,MBC Action HD
+http://vaders.tv/live/free/trial/39190.m3u8
+#EXTINF:-1,MBC Bollywood
+http://vaders.tv/live/free/trial/39188.m3u8
+#EXTINF:-1,MBC Drama HD
+http://vaders.tv/live/free/trial/39191.m3u8
+#EXTINF:-1,MBC Maser
+http://vaders.tv/live/free/trial/39184.m3u8
+#EXTINF:-1,MBC Max HD
+http://vaders.tv/live/free/trial/39189.m3u8
+#EXTINF:-1,ART Aflam 1
+http://vaders.tv/live/free/trial/39199.m3u8
+#EXTINF:-1,ART Aflam 2
+http://vaders.tv/live/free/trial/39198.m3u8
+#EXTINF:-1,ART Cinema
+http://vaders.tv/live/free/trial/39200.m3u8
+#EXTINF:-1,ART Hekayat 1
+http://vaders.tv/live/free/trial/39197.m3u8
+#EXTINF:-1,ART Hekayat 2
+http://vaders.tv/live/free/trial/39196.m3u8
+#EXTINF:-1,Iqraa TV
+http://vaders.tv/live/free/trial/39162.m3u8
+#EXTINF:-1,Nogoum FM TV
+http://vaders.tv/live/free/trial/39282.m3u8
+#EXTINF:-1,OSN Cinema 1
+http://vaders.tv/live/free/trial/39240.m3u8
+#EXTINF:-1,OSN FX HD
+http://vaders.tv/live/free/trial/39251.m3u8
+#EXTINF:-1,OSN Fight Network HD
+http://vaders.tv/live/free/trial/39237.m3u8
+#EXTINF:-1,OSN First Comedy
+http://vaders.tv/live/free/trial/39255.m3u8
+#EXTINF:-1,OSN First HBO HD
+http://vaders.tv/live/free/trial/39236.m3u8
+#EXTINF:-1,OSN Mousalsalat
+http://vaders.tv/live/free/trial/39235.m3u8
+#EXTINF:-1,OSN Movie Family
+http://vaders.tv/live/free/trial/39234.m3u8
+#EXTINF:-1,OSN Movies Action
+http://vaders.tv/live/free/trial/39233.m3u8
+#EXTINF:-1,OSN Movies Comdey
+http://vaders.tv/live/free/trial/39232.m3u8
+#EXTINF:-1,OSN Movies Festival HD
+http://vaders.tv/live/free/trial/39231.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://vaders.tv/live/free/trial/39230.m3u8
+#EXTINF:-1,OSN Movies Kids
+http://vaders.tv/live/free/trial/39228.m3u8
+#EXTINF:-1,OSN Movies Thriller
+http://vaders.tv/live/free/trial/39227.m3u8
+#EXTINF:-1,OSN MusalSat
+http://vaders.tv/live/free/trial/39248.m3u8
+#EXTINF:-1,OSN Music Now
+http://vaders.tv/live/free/trial/39247.m3u8
+#EXTINF:-1,OSN Series First
+http://vaders.tv/live/free/trial/39257.m3u8
+#EXTINF:-1,OSN Star Movies HD
+http://vaders.tv/live/free/trial/39221.m3u8
+#EXTINF:-1,OSN Star World HD
+http://vaders.tv/live/free/trial/39220.m3u8
+#EXTINF:-1,OSN WWE
+http://vaders.tv/live/free/trial/39219.m3u8
+#EXTINF:-1,OSN Ya Hala Al Oula
+http://vaders.tv/live/free/trial/39217.m3u8
+#EXTINF:-1,OSN Ya Hala Cinema
+http://vaders.tv/live/free/trial/39218.m3u8
+#EXTINF:-1,OSN Ya Hala HD
+http://vaders.tv/live/free/trial/39216.m3u8
+#EXTINF:-1,OSN Ya Hala Shabab
+http://vaders.tv/live/free/trial/39245.m3u8
+#EXTINF:-1,Rotana Cinema
+http://vaders.tv/live/free/trial/39182.m3u8
+#EXTINF:-1,Rotana Classic
+http://vaders.tv/live/free/trial/39181.m3u8
+#EXTINF:-1,Rotana Clip
+http://vaders.tv/live/free/trial/39177.m3u8
+#EXTINF:-1,Rotana Khalijiah
+http://vaders.tv/live/free/trial/39180.m3u8
+#EXTINF:-1,Rotana Masriya
+http://vaders.tv/live/free/trial/39183.m3u8
+#EXTINF:-1,Rotana Music
+http://vaders.tv/live/free/trial/39178.m3u8
+#EXTINF:-1,SeeVii Beelink HD
+http://vaders.tv/live/free/trial/39288.m3u8
+#EXTINF:-1,SeeVii Drama HD
+http://vaders.tv/live/free/trial/39287.m3u8
+#EXTINF:-1,SeeVii Prime 1 HD
+http://vaders.tv/live/free/trial/39285.m3u8
+#EXTINF:-1,SeeVii Prime 2 HD
+http://vaders.tv/live/free/trial/39284.m3u8
+#EXTINF:-1,SeeVii Prime 3 HD
+http://vaders.tv/live/free/trial/39283.m3u8
+#EXTINF:-1,SeeVii Shamiya HD
+http://vaders.tv/live/free/trial/39286.m3u8
+#EXTINF:-1,Seevii Al ola HD
+http://vaders.tv/live/free/trial/39289.m3u8
+#EXTINF:-1,Sunna TV
+http://vaders.tv/live/free/trial/39164.m3u8
+#EXTINF:-1,Al Hadath
+http://vaders.tv/live/free/trial/39163.m3u8
+#EXTINF:-1,Nile Cinema
+http://vaders.tv/live/free/trial/39355.m3u8
+#EXTINF:-1,Nile Comedy
+http://vaders.tv/live/free/trial/39356.m3u8
+#EXTINF:-1,Nile Culture
+http://vaders.tv/live/free/trial/39357.m3u8
+#EXTINF:-1,Nile Drama
+http://vaders.tv/live/free/trial/39358.m3u8
+#EXTINF:-1,Nile Family
+http://vaders.tv/live/free/trial/39359.m3u8
+#EXTINF:-1,Nile Life
+http://vaders.tv/live/free/trial/39360.m3u8
+#EXTINF:-1,Nile News
+http://vaders.tv/live/free/trial/39361.m3u8
+#EXTINF:-1,CBC
+http://vaders.tv/live/free/trial/39348.m3u8
+#EXTINF:-1,CBC Drama
+http://vaders.tv/live/free/trial/39349.m3u8
+#EXTINF:-1,CBC Extra
+http://vaders.tv/live/free/trial/39350.m3u8
+#EXTINF:-1,CBC Sofra
+http://vaders.tv/live/free/trial/39354.m3u8
+#EXTINF:-1,Al Jazeera
+http://vaders.tv/live/free/trial/39342.m3u8
+#EXTINF:-1,Al Jazeera Doc
+http://vaders.tv/live/free/trial/39343.m3u8
+#EXTINF:-1,Al Jazeera English
+http://vaders.tv/live/free/trial/39344.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://vaders.tv/live/free/trial/39345.m3u8
+#EXTINF:-1,Al Magharibia
+http://vaders.tv/live/free/trial/39346.m3u8
+#EXTINF:-1,Al Magharibia 2
+http://vaders.tv/live/free/trial/39347.m3u8
+#EXTINF:-1,SNTV
+http://vaders.tv/live/free/trial/40673.m3u8
+#EXTINF:-1,Universal TV
+http://vaders.tv/live/free/trial/39486.m3u8
+#EXTINF:-1,SLN TV
+http://vaders.tv/live/free/trial/40873.m3u8
+#EXTINF:-1,Kalsan TV
+http://vaders.tv/live/free/trial/39487.m3u8
+#EXTINF:-1,Horn Cable TV
+http://vaders.tv/live/free/trial/39622.m3u8
+#EXTINF:-1,Jubbaland TV
+http://vaders.tv/live/free/trial/39623.m3u8
+#EXTINF:-1,SBC TV
+http://vaders.tv/live/free/trial/39624.m3u8
+#EXTINF:-1,Star TV
+http://vaders.tv/live/free/trial/39625.m3u8
+#EXTINF:-1,Somali Cable TV
+http://vaders.tv/live/free/trial/40674.m3u8
+#EXTINF:-1,Somali TV4
+http://vaders.tv/live/free/trial/40675.m3u8
+#EXTINF:-1,BeIN Sports News AR HD
+http://vaders.tv/live/free/trial/39376.m3u8
+#EXTINF:-1,BeIN Sports 1 AR HD
+http://vaders.tv/live/free/trial/39377.m3u8
+#EXTINF:-1,BeIN Sports 2 AR HD
+http://vaders.tv/live/free/trial/39378.m3u8
+#EXTINF:-1,BeIN Sports 3 AR HD
+http://vaders.tv/live/free/trial/39379.m3u8
+#EXTINF:-1,BeIN Sports 4 AR HD
+http://vaders.tv/live/free/trial/39380.m3u8
+#EXTINF:-1,BeIN Sports 5 AR HD
+http://vaders.tv/live/free/trial/39381.m3u8
+#EXTINF:-1,BeIN Sports 6 AR HD
+http://vaders.tv/live/free/trial/39382.m3u8
+#EXTINF:-1,BeIN Sports 7 AR HD
+http://vaders.tv/live/free/trial/39383.m3u8
+#EXTINF:-1,BeIN Sports 8 AR HD
+http://vaders.tv/live/free/trial/39384.m3u8
+#EXTINF:-1,BeIN Sports 9 AR HD
+http://vaders.tv/live/free/trial/39385.m3u8
+#EXTINF:-1,BeIN Sports 10 AR HD
+http://vaders.tv/live/free/trial/39386.m3u8
+#EXTINF:-1,MBC Pro Sports 1 HD
+http://vaders.tv/live/free/trial/39185.m3u8
+#EXTINF:-1,MBC Pro Sports 2 HD
+http://vaders.tv/live/free/trial/39186.m3u8
+#EXTINF:-1,MBC Pro Sports 3 HD
+http://vaders.tv/live/free/trial/39187.m3u8
+#EXTINF:-1,OSN Sports 1
+http://vaders.tv/live/free/trial/39225.m3u8
+#EXTINF:-1,OSN Sports 2
+http://vaders.tv/live/free/trial/39224.m3u8
+#EXTINF:-1,OSN Sports 3
+http://vaders.tv/live/free/trial/39223.m3u8
+#EXTINF:-1,OSN Sports 4
+http://vaders.tv/live/free/trial/39222.m3u8
+#EXTINF:-1,LBC
+http://vaders.tv/live/free/trial/47866.m3u8
+#EXTINF:-1,LDC
+http://vaders.tv/live/free/trial/47867.m3u8
+#EXTINF:-1,Al Jadeed
+http://vaders.tv/live/free/trial/47871.m3u8
+#EXTINF:-1,Al Manar
+http://vaders.tv/live/free/trial/47875.m3u8
+#EXTINF:-1,Al Mayadeen
+http://vaders.tv/live/free/trial/47874.m3u8
+#EXTINF:-1,Future TV
+http://vaders.tv/live/free/trial/47870.m3u8
+#EXTINF:-1,NBN
+http://vaders.tv/live/free/trial/47872.m3u8
+#EXTINF:-1,TF1 HD
+http://vaders.tv/live/free/trial/39262.m3u8
+#EXTINF:-1,France 2 HD
+http://vaders.tv/live/free/trial/39263.m3u8
+#EXTINF:-1,France 3 HD
+http://vaders.tv/live/free/trial/39264.m3u8
+#EXTINF:-1,France 4 HD
+http://vaders.tv/live/free/trial/39265.m3u8
+#EXTINF:-1,France 5 HD
+http://vaders.tv/live/free/trial/39266.m3u8
+#EXTINF:-1,M6 HD
+http://vaders.tv/live/free/trial/39267.m3u8
+#EXTINF:-1,Atre HD
+http://vaders.tv/live/free/trial/39268.m3u8
+#EXTINF:-1,C8 HD
+http://vaders.tv/live/free/trial/39269.m3u8
+#EXTINF:-1,TMC HD
+http://vaders.tv/live/free/trial/39270.m3u8
+#EXTINF:-1,NT1 HD
+http://vaders.tv/live/free/trial/39271.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://vaders.tv/live/free/trial/39272.m3u8
+#EXTINF:-1,BFM TV HD
+http://vaders.tv/live/free/trial/39273.m3u8
+#EXTINF:-1,iTele HD
+http://vaders.tv/live/free/trial/39274.m3u8
+#EXTINF:-1,HD1
+http://vaders.tv/live/free/trial/39275.m3u8
+#EXTINF:-1,C Star HD
+http://vaders.tv/live/free/trial/39276.m3u8
+#EXTINF:-1,6Ter HD
+http://vaders.tv/live/free/trial/39277.m3u8
+#EXTINF:-1,Numero 23 HD
+http://vaders.tv/live/free/trial/39278.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://vaders.tv/live/free/trial/39279.m3u8
+#EXTINF:-1,Canal + HD
+http://vaders.tv/live/free/trial/39280.m3u8
+#EXTINF:-1,Canal+ Cinema HD
+http://vaders.tv/live/free/trial/39281.m3u8
+#EXTINF:-1,Canal+ Family HD
+http://vaders.tv/live/free/trial/39292.m3u8
+#EXTINF:-1,Canal+ Decale HD
+http://vaders.tv/live/free/trial/39293.m3u8
+#EXTINF:-1,Canal+ Series HD
+http://vaders.tv/live/free/trial/39294.m3u8
+#EXTINF:-1,Cine+ Premier HD
+http://vaders.tv/live/free/trial/39295.m3u8
+#EXTINF:-1,Cine+ Frisson HD
+http://vaders.tv/live/free/trial/39296.m3u8
+#EXTINF:-1,Cine+ Famiz HD
+http://vaders.tv/live/free/trial/39297.m3u8
+#EXTINF:-1,Cine+ Emotion HD
+http://vaders.tv/live/free/trial/39298.m3u8
+#EXTINF:-1,Cine+ Club HD
+http://vaders.tv/live/free/trial/39299.m3u8
+#EXTINF:-1,Cine+ Classic HD
+http://vaders.tv/live/free/trial/39300.m3u8
+#EXTINF:-1,Cine Polar HD
+http://vaders.tv/live/free/trial/39301.m3u8
+#EXTINF:-1,Cine FX HD
+http://vaders.tv/live/free/trial/39302.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://vaders.tv/live/free/trial/39303.m3u8
+#EXTINF:-1,TCM Cinema HD
+http://vaders.tv/live/free/trial/39304.m3u8
+#EXTINF:-1,OCS City HD
+http://vaders.tv/live/free/trial/39306.m3u8
+#EXTINF:-1,OCS Choc HD
+http://vaders.tv/live/free/trial/39307.m3u8
+#EXTINF:-1,OCS Max HD
+http://vaders.tv/live/free/trial/39308.m3u8
+#EXTINF:-1,OCS Geants HD
+http://vaders.tv/live/free/trial/39309.m3u8
+#EXTINF:-1,Comedie+ HD
+http://vaders.tv/live/free/trial/39310.m3u8
+#EXTINF:-1,13EME Rue HD
+http://vaders.tv/live/free/trial/39311.m3u8
+#EXTINF:-1,RTL9 HD
+http://vaders.tv/live/free/trial/39312.m3u8
+#EXTINF:-1,Serie Club HD
+http://vaders.tv/live/free/trial/39313.m3u8
+#EXTINF:-1,Planete+ HD
+http://vaders.tv/live/free/trial/39314.m3u8
+#EXTINF:-1,Planete+ A&E HD
+http://vaders.tv/live/free/trial/39315.m3u8
+#EXTINF:-1,Planete+ CI HD
+http://vaders.tv/live/free/trial/39316.m3u8
+#EXTINF:-1,Discovery Channel FR HD
+http://vaders.tv/live/free/trial/39317.m3u8
+#EXTINF:-1,Discovery Science FR HD
+http://vaders.tv/live/free/trial/39318.m3u8
+#EXTINF:-1,Discovery Investigation FR HD
+http://vaders.tv/live/free/trial/39319.m3u8
+#EXTINF:-1,Nat Geo FR HD
+http://vaders.tv/live/free/trial/39320.m3u8
+#EXTINF:-1,Nat Geo Wild FR HD
+http://vaders.tv/live/free/trial/39321.m3u8
+#EXTINF:-1,Histoire HD
+http://vaders.tv/live/free/trial/39322.m3u8
+#EXTINF:-1,Animaux HD
+http://vaders.tv/live/free/trial/39323.m3u8
+#EXTINF:-1,Disney Channel FR HD
+http://vaders.tv/live/free/trial/39324.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://vaders.tv/live/free/trial/39325.m3u8
+#EXTINF:-1,Disney Junior FR HD
+http://vaders.tv/live/free/trial/39326.m3u8
+#EXTINF:-1,Disney XD FR HD
+http://vaders.tv/live/free/trial/39327.m3u8
+#EXTINF:-1,Nickelodeon FR HD
+http://vaders.tv/live/free/trial/39328.m3u8
+#EXTINF:-1,Teletoon+ FR HD
+http://vaders.tv/live/free/trial/39329.m3u8
+#EXTINF:-1,Boing HD
+http://vaders.tv/live/free/trial/39330.m3u8
+#EXTINF:-1,Boomerang FR HD
+http://vaders.tv/live/free/trial/39331.m3u8
+#EXTINF:-1,Cartoon Network FR HD
+http://vaders.tv/live/free/trial/39332.m3u8
+#EXTINF:-1,InfoSport+ HD
+http://vaders.tv/live/free/trial/39333.m3u8
+#EXTINF:-1,L'Equipe HD
+http://vaders.tv/live/free/trial/39334.m3u8
+#EXTINF:-1,Canal+ Sport HD
+http://vaders.tv/live/free/trial/39335.m3u8
+#EXTINF:-1,BeIN Sports 1 FR HD
+http://vaders.tv/live/free/trial/39336.m3u8
+#EXTINF:-1,BeIN Sports 2 FR HD
+http://vaders.tv/live/free/trial/39337.m3u8
+#EXTINF:-1,BeIN Sports 3 FR HD
+http://vaders.tv/live/free/trial/39338.m3u8
+#EXTINF:-1,Channel #1
+http://vaders.tv/live/free/trial/2499.m3u8
+#EXTINF:-1,Channel #2
+http://vaders.tv/live/free/trial/2500.m3u8
+#EXTINF:-1,Channel #3
+http://vaders.tv/live/free/trial/2501.m3u8
+#EXTINF:-1,Channel #4
+http://vaders.tv/live/free/trial/2502.m3u8
+#EXTINF:-1,Channel #5
+http://vaders.tv/live/free/trial/2503.m3u8
+#EXTINF:-1,Channel #6
+http://vaders.tv/live/free/trial/2504.m3u8
+#EXTINF:-1,Channel #7
+http://vaders.tv/live/free/trial/2505.m3u8
+#EXTINF:-1,Channel #8
+http://vaders.tv/live/free/trial/2506.m3u8
+#EXTINF:-1,Channel #9
+http://vaders.tv/live/free/trial/2507.m3u8
+#EXTINF:-1,Channel #10
+http://vaders.tv/live/free/trial/2508.m3u8
+#EXTINF:-1,Channel #11
+http://vaders.tv/live/free/trial/2509.m3u8
+#EXTINF:-1,Channel #12
+http://vaders.tv/live/free/trial/2510.m3u8
+#EXTINF:-1,Channel #13
+http://vaders.tv/live/free/trial/2511.m3u8
+#EXTINF:-1,Channel #14
+http://vaders.tv/live/free/trial/2512.m3u8
+#EXTINF:-1,Channel #15
+http://vaders.tv/live/free/trial/2513.m3u8
+#EXTINF:-1,Channel #16
+http://vaders.tv/live/free/trial/2514.m3u8
+#EXTINF:-1,Channel #17
+http://vaders.tv/live/free/trial/2515.m3u8
+#EXTINF:-1,Channel #18
+http://vaders.tv/live/free/trial/2516.m3u8
+#EXTINF:-1,Channel #19
+http://vaders.tv/live/free/trial/2517.m3u8
+#EXTINF:-1,Channel #20
+http://vaders.tv/live/free/trial/2518.m3u8
+#EXTINF:-1,Channel #21
+http://vaders.tv/live/free/trial/2519.m3u8
+#EXTINF:-1,Channel #22
+http://vaders.tv/live/free/trial/2520.m3u8
+#EXTINF:-1,Channel #23
+http://vaders.tv/live/free/trial/2521.m3u8
+#EXTINF:-1,Channel #24
+http://vaders.tv/live/free/trial/2522.m3u8
+#EXTINF:-1,Channel #25
+http://vaders.tv/live/free/trial/2523.m3u8
+#EXTINF:-1,Channel #26
+http://vaders.tv/live/free/trial/2524.m3u8
+#EXTINF:-1,Channel #27
+http://vaders.tv/live/free/trial/2525.m3u8
+#EXTINF:-1,Channel #28
+http://vaders.tv/live/free/trial/2526.m3u8
+#EXTINF:-1,Channel #29
+http://vaders.tv/live/free/trial/2527.m3u8
+#EXTINF:-1,Channel #30
+http://vaders.tv/live/free/trial/2528.m3u8
+#EXTINF:-1,Channel #31
+http://vaders.tv/live/free/trial/2529.m3u8
+#EXTINF:-1,Channel #32
+http://vaders.tv/live/free/trial/2530.m3u8
+#EXTINF:-1,Channel #33
+http://vaders.tv/live/free/trial/2531.m3u8
+#EXTINF:-1,Channel #34
+http://vaders.tv/live/free/trial/2532.m3u8
+#EXTINF:-1,Channel #35
+http://vaders.tv/live/free/trial/2533.m3u8
+#EXTINF:-1,Channel #36
+http://vaders.tv/live/free/trial/2534.m3u8
+#EXTINF:-1,Channel #37
+http://vaders.tv/live/free/trial/2535.m3u8
+#EXTINF:-1,Channel #38
+http://vaders.tv/live/free/trial/2536.m3u8
+#EXTINF:-1,Channel #39
+http://vaders.tv/live/free/trial/2537.m3u8
+#EXTINF:-1,Channel #40
+http://vaders.tv/live/free/trial/2538.m3u8
+#EXTINF:-1,Channel #41
+http://vaders.tv/live/free/trial/2541.m3u8
+#EXTINF:-1,Channel #42
+http://vaders.tv/live/free/trial/2542.m3u8
+#EXTINF:-1,Channel #43
+http://vaders.tv/live/free/trial/2543.m3u8
+#EXTINF:-1,Channel #44
+http://vaders.tv/live/free/trial/2544.m3u8
+#EXTINF:-1,Channel #45
+http://vaders.tv/live/free/trial/2545.m3u8
+#EXTINF:-1,Channel #46
+http://vaders.tv/live/free/trial/2546.m3u8
+#EXTINF:-1,Channel #47
+http://vaders.tv/live/free/trial/2547.m3u8
+#EXTINF:-1,Channel #48
+http://vaders.tv/live/free/trial/2548.m3u8
+#EXTINF:-1,Channel #49
+http://vaders.tv/live/free/trial/2549.m3u8
+#EXTINF:-1,Channel #50
+http://vaders.tv/live/free/trial/2550.m3u8
+#EXTINF:-1,Channel #51
+http://vaders.tv/live/free/trial/2551.m3u8
+#EXTINF:-1,Channel #52
+http://vaders.tv/live/free/trial/2552.m3u8
+#EXTINF:-1,Channel #53
+http://vaders.tv/live/free/trial/2553.m3u8
+#EXTINF:-1,Channel #54
+http://vaders.tv/live/free/trial/2554.m3u8
+#EXTINF:-1,Channel #55
+http://vaders.tv/live/free/trial/2555.m3u8
+#EXTINF:-1,Channel #56
+http://vaders.tv/live/free/trial/2556.m3u8
+#EXTINF:-1,Channel #57
+http://vaders.tv/live/free/trial/2557.m3u8
+#EXTINF:-1,Channel #58
+http://vaders.tv/live/free/trial/2606.m3u8
+#EXTINF:-1,Channel #59
+http://vaders.tv/live/free/trial/2607.m3u8
+#EXTINF:-1,Channel #60
+http://vaders.tv/live/free/trial/2608.m3u8
+#EXTINF:-1,Channel #61
+http://vaders.tv/live/free/trial/2609.m3u8
+#EXTINF:-1,Channel #62
+http://vaders.tv/live/free/trial/2610.m3u8
+#EXTINF:-1,Channel #63
+http://vaders.tv/live/free/trial/2611.m3u8
+#EXTINF:-1,Channel #64
+http://vaders.tv/live/free/trial/2612.m3u8
+#EXTINF:-1,Channel #65
+http://vaders.tv/live/free/trial/2613.m3u8
+#EXTINF:-1,Channel #66
+http://vaders.tv/live/free/trial/2614.m3u8
+#EXTINF:-1,Channel #67
+http://vaders.tv/live/free/trial/2615.m3u8
+#EXTINF:-1,Channel #68
+http://vaders.tv/live/free/trial/2616.m3u8
+#EXTINF:-1,Channel #69
+http://vaders.tv/live/free/trial/2617.m3u8
+#EXTINF:-1,Channel #70
+http://vaders.tv/live/free/trial/2618.m3u8
+#EXTINF:-1,Channel #71
+http://vaders.tv/live/free/trial/2619.m3u8
+#EXTINF:-1,Channel #72
+http://vaders.tv/live/free/trial/2620.m3u8
+#EXTINF:-1,Channel #73
+http://vaders.tv/live/free/trial/2622.m3u8
+#EXTINF:-1,Channel #74
+http://vaders.tv/live/free/trial/2621.m3u8
+#EXTINF:-1,Channel #75
+http://vaders.tv/live/free/trial/2623.m3u8
+#EXTINF:-1,Channel #76
+http://vaders.tv/live/free/trial/2624.m3u8
+#EXTINF:-1,Channel #77
+http://vaders.tv/live/free/trial/2625.m3u8
+#EXTINF:-1,Channel #78
+http://vaders.tv/live/free/trial/2626.m3u8
+#EXTINF:-1,Channel #79
+http://vaders.tv/live/free/trial/2627.m3u8
+#EXTINF:-1,Channel #80
+http://vaders.tv/live/free/trial/2628.m3u8
+#EXTINF:-1,Channel #81
+http://vaders.tv/live/free/trial/2629.m3u8
+#EXTINF:-1,Channel #82
+http://vaders.tv/live/free/trial/2630.m3u8
+#EXTINF:-1,Channel #83
+http://vaders.tv/live/free/trial/2631.m3u8
+#EXTINF:-1,Channel #84
+http://vaders.tv/live/free/trial/2632.m3u8
+#EXTINF:-1,Channel #85
+http://vaders.tv/live/free/trial/2633.m3u8
+#EXTINF:-1,Channel #86
+http://vaders.tv/live/free/trial/2634.m3u8
+#EXTINF:-1,Channel #87
+http://vaders.tv/live/free/trial/2635.m3u8
+#EXTINF:-1,Channel #88
+http://vaders.tv/live/free/trial/2636.m3u8
+#EXTINF:-1,Channel #89
+http://vaders.tv/live/free/trial/2637.m3u8
+#EXTINF:-1,Channel #90
+http://vaders.tv/live/free/trial/2638.m3u8
+#EXTINF:-1,Channel #91
+http://vaders.tv/live/free/trial/2639.m3u8
+#EXTINF:-1,Channel #92
+http://vaders.tv/live/free/trial/2640.m3u8
+#EXTINF:-1,Channel #93
+http://vaders.tv/live/free/trial/2641.m3u8
+#EXTINF:-1,Channel #94
+http://vaders.tv/live/free/trial/2642.m3u8
+#EXTINF:-1,Channel #95
+http://vaders.tv/live/free/trial/2643.m3u8
+#EXTINF:-1,Channel #96
+http://vaders.tv/live/free/trial/2644.m3u8
+#EXTINF:-1,Channel #97
+http://vaders.tv/live/free/trial/2645.m3u8
+#EXTINF:-1,Channel #98
+http://vaders.tv/live/free/trial/2646.m3u8
+#EXTINF:-1,Channel #99
+http://vaders.tv/live/free/trial/2647.m3u8
+#EXTINF:-1,Channel #100
+http://vaders.tv/live/free/trial/2648.m3u8
+#EXTINF:-1,Channel #101
+http://vaders.tv/live/free/trial/2649.m3u8
+#EXTINF:-1,Channel #102
+http://vaders.tv/live/free/trial/2650.m3u8
+#EXTINF:-1,Channel #103
+http://vaders.tv/live/free/trial/2651.m3u8
+#EXTINF:-1,Channel #104
+http://vaders.tv/live/free/trial/2652.m3u8
+#EXTINF:-1,Channel #105
+http://vaders.tv/live/free/trial/2653.m3u8
+#EXTINF:-1,Channel #106
+http://vaders.tv/live/free/trial/2654.m3u8
+#EXTINF:-1,Channel #107
+http://vaders.tv/live/free/trial/2655.m3u8
+#EXTINF:-1,Channel #108
+http://vaders.tv/live/free/trial/2656.m3u8
+#EXTINF:-1,Channel #109
+http://vaders.tv/live/free/trial/2657.m3u8
+#EXTINF:-1,Channel #110
+http://vaders.tv/live/free/trial/2658.m3u8
+#EXTINF:-1,Channel #111
+http://vaders.tv/live/free/trial/2659.m3u8
+#EXTINF:-1,Channel #112
+http://vaders.tv/live/free/trial/2660.m3u8
+#EXTINF:-1,Channel #113
+http://vaders.tv/live/free/trial/2661.m3u8
+#EXTINF:-1,Channel #114
+http://vaders.tv/live/free/trial/2662.m3u8
+#EXTINF:-1,Channel #115
+http://vaders.tv/live/free/trial/2663.m3u8
+#EXTINF:-1,Channel #116
+http://vaders.tv/live/free/trial/2664.m3u8
+#EXTINF:-1,Channel #117
+http://vaders.tv/live/free/trial/2665.m3u8
+#EXTINF:-1,Channel #118
+http://vaders.tv/live/free/trial/2666.m3u8
+#EXTINF:-1,Channel #119
+http://vaders.tv/live/free/trial/2667.m3u8
+#EXTINF:-1,Channel #120
+http://vaders.tv/live/free/trial/2668.m3u8
+#EXTINF:-1,Channel #121
+http://vaders.tv/live/free/trial/47381.m3u8
+#EXTINF:-1,Channel #122
+http://vaders.tv/live/free/trial/2679.m3u8
+#EXTINF:-1,Channel #123
+http://vaders.tv/live/free/trial/2680.m3u8
+#EXTINF:-1,Channel #124
+http://vaders.tv/live/free/trial/2681.m3u8
+#EXTINF:-1,Channel #125
+http://vaders.tv/live/free/trial/2682.m3u8
+#EXTINF:-1,Channel #126
+http://vaders.tv/live/free/trial/47376.m3u8
+#EXTINF:-1,Channel #127
+http://vaders.tv/live/free/trial/47377.m3u8
+#EXTINF:-1,Channel #128
+http://vaders.tv/live/free/trial/47378.m3u8
+#EXTINF:-1,Channel #129
+http://vaders.tv/live/free/trial/47379.m3u8
+#EXTINF:-1,Channel #130
+http://vaders.tv/live/free/trial/47380.m3u8
+#EXTINF:-1,Channel #131
+http://vaders.tv/live/free/trial/47718.m3u8
+#EXTINF:-1,Channel #132
+http://vaders.tv/live/free/trial/47719.m3u8
+#EXTINF:-1,Channel #148
+http://vaders.tv/live/free/trial/47707.m3u8
+#EXTINF:-1,Channel #149
+http://vaders.tv/live/free/trial/47670.m3u8
+#EXTINF:-1,Channel #150
+http://vaders.tv/live/free/trial/47716.m3u8
+#EXTINF:-1,MLB #1
+http://vaders.tv/live/free/trial/39811.m3u8
+#EXTINF:-1,MLB #2
+http://vaders.tv/live/free/trial/39810.m3u8
+#EXTINF:-1,MLB #3
+http://vaders.tv/live/free/trial/39809.m3u8
+#EXTINF:-1,MLB #4
+http://vaders.tv/live/free/trial/39808.m3u8
+#EXTINF:-1,MLB #5
+http://vaders.tv/live/free/trial/39807.m3u8
+#EXTINF:-1,MLB #6
+http://vaders.tv/live/free/trial/39806.m3u8
+#EXTINF:-1,MLB #7
+http://vaders.tv/live/free/trial/39805.m3u8
+#EXTINF:-1,MLB #8
+http://vaders.tv/live/free/trial/39804.m3u8
+#EXTINF:-1,MLB #9
+http://vaders.tv/live/free/trial/39836.m3u8
+#EXTINF:-1,MLB #10
+http://vaders.tv/live/free/trial/39835.m3u8
+#EXTINF:-1,MLB #11
+http://vaders.tv/live/free/trial/39834.m3u8
+#EXTINF:-1,MLB #12
+http://vaders.tv/live/free/trial/39833.m3u8
+#EXTINF:-1,MLB #13
+http://vaders.tv/live/free/trial/39832.m3u8
+#EXTINF:-1,Cinemax
+http://vaders.tv/live/free/trial/7936.m3u8
+#EXTINF:-1,Cinemax 5 Star
+http://vaders.tv/live/free/trial/7947.m3u8
+#EXTINF:-1,Cinemax Actionmax
+http://vaders.tv/live/free/trial/7946.m3u8
+#EXTINF:-1,Cinemax Moremax
+http://vaders.tv/live/free/trial/7945.m3u8
+#EXTINF:-1,HBO
+http://vaders.tv/live/free/trial/7859.m3u8
+#EXTINF:-1,HBO Comedy HD
+http://vaders.tv/live/free/trial/7860.m3u8
+#EXTINF:-1,HBO Signature HD
+http://vaders.tv/live/free/trial/7857.m3u8
+#EXTINF:-1,HBO Zone HD
+http://vaders.tv/live/free/trial/7944.m3u8
+#EXTINF:-1,Starz HD
+http://vaders.tv/live/free/trial/39873.m3u8
+#EXTINF:-1,Starz Kids & Family
+http://vaders.tv/live/free/trial/3122.m3u8
+#EXTINF:-1,Starz Encore
+http://vaders.tv/live/free/trial/3123.m3u8
+#EXTINF:-1,Starz Edge
+http://vaders.tv/live/free/trial/3119.m3u8
+#EXTINF:-1,Starz Comedy
+http://vaders.tv/live/free/trial/3121.m3u8
+#EXTINF:-1,Showtime HD
+http://vaders.tv/live/free/trial/39637.m3u8
+#EXTINF:-1,Showtime 2 HD
+http://vaders.tv/live/free/trial/39638.m3u8
+#EXTINF:-1,Epix HD
+http://vaders.tv/live/free/trial/39636.m3u8
+#EXTINF:-1,Epix 2 HD
+http://vaders.tv/live/free/trial/39635.m3u8
+#EXTINF:-1,Epix Hits HD
+http://vaders.tv/live/free/trial/39634.m3u8
+#EXTINF:-1,Sky Cinema Select HD
+http://vaders.tv/live/free/trial/2736.m3u8
+#EXTINF:-1,Sky Cinema Superheroes HD
+http://vaders.tv/live/free/trial/2737.m3u8
+#EXTINF:-1,Sky Cinema Premiere HD
+http://vaders.tv/live/free/trial/2738.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://vaders.tv/live/free/trial/2741.m3u8
+#EXTINF:-1,Sky Cinema Disney HD
+http://vaders.tv/live/free/trial/2742.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://vaders.tv/live/free/trial/39813.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://vaders.tv/live/free/trial/2739.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://vaders.tv/live/free/trial/2743.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://vaders.tv/live/free/trial/2735.m3u8
+#EXTINF:-1,Captain News
+http://vaders.tv/live/free/trial/39408.m3u8
+#EXTINF:-1,Captain TV
+http://vaders.tv/live/free/trial/39409.m3u8
+#EXTINF:-1,Jaya Movies US
+http://vaders.tv/live/free/trial/39401.m3u8
+#EXTINF:-1,Jaya TV US
+http://vaders.tv/live/free/trial/39399.m3u8
+#EXTINF:-1,KTV
+http://vaders.tv/live/free/trial/39396.m3u8
+#EXTINF:-1,KTV US
+http://vaders.tv/live/free/trial/39394.m3u8
+#EXTINF:-1,Raj Digital Plus
+http://vaders.tv/live/free/trial/39407.m3u8
+#EXTINF:-1,Raj News
+http://vaders.tv/live/free/trial/39402.m3u8
+#EXTINF:-1,Raj TV
+http://vaders.tv/live/free/trial/39403.m3u8
+#EXTINF:-1,Raj TV US
+http://vaders.tv/live/free/trial/39400.m3u8
+#EXTINF:-1,SUN TV
+http://vaders.tv/live/free/trial/39398.m3u8
+#EXTINF:-1,SUN TV US
+http://vaders.tv/live/free/trial/39395.m3u8
+#EXTINF:-1,Star Vijay
+http://vaders.tv/live/free/trial/39397.m3u8
+#EXTINF:-1,9x Tashan
+http://vaders.tv/live/free/trial/39427.m3u8
+#EXTINF:-1,Alpha ETC Punjabi
+http://vaders.tv/live/free/trial/39425.m3u8
+#EXTINF:-1,Chakde TV
+http://vaders.tv/live/free/trial/39428.m3u8
+#EXTINF:-1,PTC Chak De
+http://vaders.tv/live/free/trial/39426.m3u8
+#EXTINF:-1,PTC News
+http://vaders.tv/live/free/trial/39405.m3u8
+#EXTINF:-1,PTC Punjabi
+http://vaders.tv/live/free/trial/39422.m3u8
+#EXTINF:-1,Prime Asia
+http://vaders.tv/live/free/trial/39424.m3u8
+#EXTINF:-1,92 News HD
+http://vaders.tv/live/free/trial/39484.m3u8
+#EXTINF:-1,A Entertainment
+http://vaders.tv/live/free/trial/39483.m3u8
+#EXTINF:-1,A Plus
+http://vaders.tv/live/free/trial/8251.m3u8
+#EXTINF:-1,ARY Digital
+http://vaders.tv/live/free/trial/39480.m3u8
+#EXTINF:-1,ARY Zindagi
+http://vaders.tv/live/free/trial/39479.m3u8
+#EXTINF:-1,ATV Entertainment
+http://vaders.tv/live/free/trial/39478.m3u8
+#EXTINF:-1,AXN Pakistan
+http://vaders.tv/live/free/trial/39477.m3u8
+#EXTINF:-1,Aaj News
+http://vaders.tv/live/free/trial/8250.m3u8
+#EXTINF:-1,Abbtakk
+http://vaders.tv/live/free/trial/39482.m3u8
+#EXTINF:-1,Al-Rehman Al-Rahim
+http://vaders.tv/live/free/trial/39481.m3u8
+#EXTINF:-1,Ary Digital USA
+http://vaders.tv/live/free/trial/8273.m3u8
+#EXTINF:-1,Ary News
+http://vaders.tv/live/free/trial/39444.m3u8
+#EXTINF:-1,Ary News USA
+http://vaders.tv/live/free/trial/8317.m3u8
+#EXTINF:-1,Ary QTV
+http://vaders.tv/live/free/trial/8318.m3u8
+#EXTINF:-1,Bol TV HD
+http://vaders.tv/live/free/trial/39476.m3u8
+#EXTINF:-1,Business Plus
+http://vaders.tv/live/free/trial/39475.m3u8
+#EXTINF:-1,Cartoon Network Pakistan
+http://vaders.tv/live/free/trial/39474.m3u8
+#EXTINF:-1,Channel 24 HD
+http://vaders.tv/live/free/trial/39473.m3u8
+#EXTINF:-1,Dawn News
+http://vaders.tv/live/free/trial/39472.m3u8
+#EXTINF:-1,Dunya News
+http://vaders.tv/live/free/trial/8316.m3u8
+#EXTINF:-1,Express Entertainment
+http://vaders.tv/live/free/trial/12248.m3u8
+#EXTINF:-1,Express News
+http://vaders.tv/live/free/trial/39471.m3u8
+#EXTINF:-1,Geo Entertainment
+http://vaders.tv/live/free/trial/39470.m3u8
+#EXTINF:-1,Geo Kahani
+http://vaders.tv/live/free/trial/39469.m3u8
+#EXTINF:-1,Geo News
+http://vaders.tv/live/free/trial/8247.m3u8
+#EXTINF:-1,Geo Super
+http://vaders.tv/live/free/trial/8249.m3u8
+#EXTINF:-1,Geo USA
+http://vaders.tv/live/free/trial/8274.m3u8
+#EXTINF:-1,Hadi TV
+http://vaders.tv/live/free/trial/39468.m3u8
+#EXTINF:-1,Hum Masala TV
+http://vaders.tv/live/free/trial/39462.m3u8
+#EXTINF:-1,Hum Sitary
+http://vaders.tv/live/free/trial/39467.m3u8
+#EXTINF:-1,Hum TV
+http://vaders.tv/live/free/trial/8252.m3u8
+#EXTINF:-1,Hum World
+http://vaders.tv/live/free/trial/8275.m3u8
+#EXTINF:-1,KTN Entertainment
+http://vaders.tv/live/free/trial/39464.m3u8
+#EXTINF:-1,KTN News
+http://vaders.tv/live/free/trial/39463.m3u8
+#EXTINF:-1,Kashish
+http://vaders.tv/live/free/trial/39466.m3u8
+#EXTINF:-1,Khyber News
+http://vaders.tv/live/free/trial/39465.m3u8
+#EXTINF:-1,MTA Urdu
+http://vaders.tv/live/free/trial/39627.m3u8
+#EXTINF:-1,Metro 1
+http://vaders.tv/live/free/trial/39461.m3u8
+#EXTINF:-1,News One
+http://vaders.tv/live/free/trial/39460.m3u8
+#EXTINF:-1,PTV Global
+http://vaders.tv/live/free/trial/39457.m3u8
+#EXTINF:-1,PTV Home
+http://vaders.tv/live/free/trial/39456.m3u8
+#EXTINF:-1,PTV News
+http://vaders.tv/live/free/trial/39455.m3u8
+#EXTINF:-1,PTV World
+http://vaders.tv/live/free/trial/39454.m3u8
+#EXTINF:-1,Pak News HD
+http://vaders.tv/live/free/trial/39459.m3u8
+#EXTINF:-1,Pashtoo 1
+http://vaders.tv/live/free/trial/39458.m3u8
+#EXTINF:-1,Samma News
+http://vaders.tv/live/free/trial/39453.m3u8
+#EXTINF:-1,Sindh News
+http://vaders.tv/live/free/trial/39452.m3u8
+#EXTINF:-1,Sindh TV
+http://vaders.tv/live/free/trial/39451.m3u8
+#EXTINF:-1,Such News
+http://vaders.tv/live/free/trial/39450.m3u8
+#EXTINF:-1,TV One
+http://vaders.tv/live/free/trial/39449.m3u8
+#EXTINF:-1,Toonami
+http://vaders.tv/live/free/trial/39448.m3u8
+#EXTINF:-1,Urdu 1
+http://vaders.tv/live/free/trial/39447.m3u8
+#EXTINF:-1,Waqt News
+http://vaders.tv/live/free/trial/39446.m3u8
+#EXTINF:-1,Zaiqa
+http://vaders.tv/live/free/trial/39445.m3u8
+#EXTINF:-1,Health TV
+http://vaders.tv/live/free/trial/41934.m3u8
+#EXTINF:-1,&Pictures HD
+http://vaders.tv/live/free/trial/12306.m3u8
+#EXTINF:-1,Aajtak
+http://vaders.tv/live/free/trial/39404.m3u8
+#EXTINF:-1,Aastha Bhajan
+http://vaders.tv/live/free/trial/39392.m3u8
+#EXTINF:-1,Aastha TV
+http://vaders.tv/live/free/trial/39391.m3u8
+#EXTINF:-1,B4U Movies
+http://vaders.tv/live/free/trial/19291.m3u8
+#EXTINF:-1,Colors India HD
+http://vaders.tv/live/free/trial/12300.m3u8
+#EXTINF:-1,Discovery Kids India
+http://vaders.tv/live/free/trial/39443.m3u8
+#EXTINF:-1,Life OK India HD
+http://vaders.tv/live/free/trial/39438.m3u8
+#EXTINF:-1,Life OK USA
+http://vaders.tv/live/free/trial/12298.m3u8
+#EXTINF:-1,MTV India
+http://vaders.tv/live/free/trial/19290.m3u8
+#EXTINF:-1,NDTV India
+http://vaders.tv/live/free/trial/39406.m3u8
+#EXTINF:-1,Nick Jr India
+http://vaders.tv/live/free/trial/8254.m3u8
+#EXTINF:-1,Nick Sonic India
+http://vaders.tv/live/free/trial/8256.m3u8
+#EXTINF:-1,Nickelodeon India HD
+http://vaders.tv/live/free/trial/12293.m3u8
+#EXTINF:-1,Sanskar TV
+http://vaders.tv/live/free/trial/39393.m3u8
+#EXTINF:-1,Sony ESPN HD
+http://vaders.tv/live/free/trial/12288.m3u8
+#EXTINF:-1,Sony Max India HD
+http://vaders.tv/live/free/trial/12286.m3u8
+#EXTINF:-1,Sony Mix
+http://vaders.tv/live/free/trial/12285.m3u8
+#EXTINF:-1,Sony Pal
+http://vaders.tv/live/free/trial/12284.m3u8
+#EXTINF:-1,Sony TV India HD
+http://vaders.tv/live/free/trial/12279.m3u8
+#EXTINF:-1,Sony TV USA HD
+http://vaders.tv/live/free/trial/16187.m3u8
+#EXTINF:-1,Star Gold India HD
+http://vaders.tv/live/free/trial/34272.m3u8
+#EXTINF:-1,Star Gold Select HD
+http://vaders.tv/live/free/trial/38774.m3u8
+#EXTINF:-1,Star Plus India HD
+http://vaders.tv/live/free/trial/12275.m3u8
+#EXTINF:-1,Star Plus USA
+http://vaders.tv/live/free/trial/8277.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://vaders.tv/live/free/trial/37198.m3u8
+#EXTINF:-1,Star Sports 1 Select HD
+http://vaders.tv/live/free/trial/37200.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://vaders.tv/live/free/trial/37199.m3u8
+#EXTINF:-1,Star Sports 2 Select HD
+http://vaders.tv/live/free/trial/37201.m3u8
+#EXTINF:-1,Star World HD
+http://vaders.tv/live/free/trial/12266.m3u8
+#EXTINF:-1,Star World Premier HD
+http://vaders.tv/live/free/trial/38775.m3u8
+#EXTINF:-1,TLC India
+http://vaders.tv/live/free/trial/39626.m3u8
+#EXTINF:-1,Travel XP India HD
+http://vaders.tv/live/free/trial/39485.m3u8
+#EXTINF:-1,UTV Action
+http://vaders.tv/live/free/trial/12263.m3u8
+#EXTINF:-1,UTV Movies
+http://vaders.tv/live/free/trial/19292.m3u8
+#EXTINF:-1,Zee Cinema
+http://vaders.tv/live/free/trial/19289.m3u8
+#EXTINF:-1,Zee Cinema India HD
+http://vaders.tv/live/free/trial/12261.m3u8
+#EXTINF:-1,Zee Classic
+http://vaders.tv/live/free/trial/8248.m3u8
+#EXTINF:-1,Zee TV HD USA
+http://vaders.tv/live/free/trial/8276.m3u8
+#EXTINF:-1,Zee TV India HD
+http://vaders.tv/live/free/trial/39440.m3u8
+#EXTINF:-1,Sony SAB HD
+http://vaders.tv/live/free/trial/48009.m3u8
+#EXTINF:-1,ATN Afghan
+http://vaders.tv/live/free/trial/39842.m3u8
+#EXTINF:-1,ATN News
+http://vaders.tv/live/free/trial/39841.m3u8
+#EXTINF:-1,ATN USA
+http://vaders.tv/live/free/trial/39840.m3u8
+#EXTINF:-1,ATV AFG
+http://vaders.tv/live/free/trial/39839.m3u8
+#EXTINF:-1,Aria Music
+http://vaders.tv/live/free/trial/39844.m3u8
+#EXTINF:-1,Ariana
+http://vaders.tv/live/free/trial/39843.m3u8
+#EXTINF:-1,Shamshad
+http://vaders.tv/live/free/trial/39838.m3u8
+#EXTINF:-1,Tolo News
+http://vaders.tv/live/free/trial/39846.m3u8
+#EXTINF:-1,Tolo TV
+http://vaders.tv/live/free/trial/39845.m3u8
+#EXTINF:-1,Star Jalsha
+http://vaders.tv/live/free/trial/47374.m3u8
+#EXTINF:-1,Star Jalsha Movies
+http://vaders.tv/live/free/trial/47375.m3u8
+#EXTINF:-1,Zee Bangla
+http://vaders.tv/live/free/trial/47373.m3u8
+#EXTINF:-1,IBN 7 News
+http://vaders.tv/live/free/trial/40728.m3u8
+#EXTINF:-1,Colors Marathi
+http://vaders.tv/live/free/trial/40729.m3u8
+#EXTINF:-1,MR 24 Taas
+http://vaders.tv/live/free/trial/40730.m3u8
+#EXTINF:-1,MR Zee HD
+http://vaders.tv/live/free/trial/40731.m3u8
+#EXTINF:-1,MR Saam TV
+http://vaders.tv/live/free/trial/40732.m3u8
+#EXTINF:-1,MR Jai Maharashtra
+http://vaders.tv/live/free/trial/40733.m3u8
+#EXTINF:-1,MR Star Pravah
+http://vaders.tv/live/free/trial/40734.m3u8
+#EXTINF:-1,MR TV9
+http://vaders.tv/live/free/trial/40735.m3u8
+#EXTINF:-1,MR Zee Talkies
+http://vaders.tv/live/free/trial/40736.m3u8
+#EXTINF:-1,MR IBN Lokmat
+http://vaders.tv/live/free/trial/40737.m3u8
+#EXTINF:-1,Amrita TV
+http://vaders.tv/live/free/trial/40686.m3u8
+#EXTINF:-1,Asianet TV
+http://vaders.tv/live/free/trial/40689.m3u8
+#EXTINF:-1,Asianet Plus
+http://vaders.tv/live/free/trial/40690.m3u8
+#EXTINF:-1,Asianet News
+http://vaders.tv/live/free/trial/40688.m3u8
+#EXTINF:-1,Asianet Movies
+http://vaders.tv/live/free/trial/40687.m3u8
+#EXTINF:-1,Flowers TV
+http://vaders.tv/live/free/trial/40691.m3u8
+#EXTINF:-1,Jai Hind
+http://vaders.tv/live/free/trial/40693.m3u8
+#EXTINF:-1,DD Malayalam
+http://vaders.tv/live/free/trial/40692.m3u8
+#EXTINF:-1,Kairali TV
+http://vaders.tv/live/free/trial/40694.m3u8
+#EXTINF:-1,Janam TV
+http://vaders.tv/live/free/trial/40717.m3u8
+#EXTINF:-1,Jeevan TV
+http://vaders.tv/live/free/trial/40718.m3u8
+#EXTINF:-1,Kerala Vision
+http://vaders.tv/live/free/trial/40719.m3u8
+#EXTINF:-1,Kiran TV
+http://vaders.tv/live/free/trial/40720.m3u8
+#EXTINF:-1,Mazhavil Manorama
+http://vaders.tv/live/free/trial/40721.m3u8
+#EXTINF:-1,Marian TV
+http://vaders.tv/live/free/trial/40722.m3u8
+#EXTINF:-1,Manorama News
+http://vaders.tv/live/free/trial/40723.m3u8
+#EXTINF:-1,Mathrubhoomi
+http://vaders.tv/live/free/trial/40724.m3u8
+#EXTINF:-1,CNBC Bazaar
+http://vaders.tv/live/free/trial/40725.m3u8
+#EXTINF:-1,Colors Gujrati
+http://vaders.tv/live/free/trial/40726.m3u8
+#EXTINF:-1,ETV News
+http://vaders.tv/live/free/trial/40727.m3u8
