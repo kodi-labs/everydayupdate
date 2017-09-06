@@ -8,6 +8,306 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
+#EXTINF:-1,UFC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BOX Nation
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BT Sport 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BT Sport 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BT Sport 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: Eurosport 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: Eurosport 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ITV 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ITV 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ITV 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ITV Encore
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: MUTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Formula 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: SKY Sports News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Unicable
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UniMAS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Universal
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision Deportes
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision TDN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UR: VTV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: FOX Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: NFL Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: WWE Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: ABC News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CBSN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CNBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CNN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: FOX Sport1 US
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: Golf
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: NBA TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: NDTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: PAG
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: Poker Central
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 11
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 12
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 13
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VE: La Teletuya
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VE: Meridiano
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1 Classics
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 1 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 2 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 3 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 4 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 5 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 6 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/hermes/hermes/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 
 #EXTINF:-1,UK | Baby TV
 plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
@@ -77,2095 +377,3 @@ plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/118
 
 #EXTINF:-1,UK | Sky Movies Disney
 plugin://plugin.video.f4mTester/?url=http://iptv.dguk.co.uk/live/lewis/lewis/12206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky MTV Music
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1529.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: WWE
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: World Fashion HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: RT Documentary
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: RT America HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: NBC HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: NBC Golf HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US: ABC News HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Good Food
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: 4 Music
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Romania Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Realitatea Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-National TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Music Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Kiss TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Hit Music Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-HBO 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Disney Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-DIGI FILM
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Digi Animal World
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Digi Sport 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Digi Sport 3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Digi Sport 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Digi Sport 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-Vox Norway
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-Viasat 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-TV2 Norge
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-TV Norge
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-TV 6 Norge
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-NRK3/Super
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-NRK 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-NRK 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-Max Norway
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NO-Kanal 10 Norge
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-YLE TV 2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-YLE TV 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-TV7 Finland
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV3 Puls
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV3 Danmark
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Zebra
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Lorry
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 charlie
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Bornholm dk
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR3 DK
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR Ramasjang
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DK4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Disney Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Canal 9
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-6 Eren
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Disney XD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Sahar Azari
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Boomerang
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Baby TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK- VH1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Xezer TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-SPACE TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Medeniyet TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-LIDER TV AZERBAIJAN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-InterAz
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Idman_Azerbaycan
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Ictimai TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-DunyaTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-CBC_Azerbaycan
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-AzTV Azerbaijan
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-Azad_Azerbaycan
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-ANS TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Azerbican-AMC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Georgia Saperavi Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Georgia OBIEQT Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Georgia Maestro Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Georgia Ajara Tv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-Georgia 1Tv Georgia
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-AR-EN-BBCW
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK:MTV Hits
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/992.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK:MTV Classic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/993.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK:MTV Base
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-London Live
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-ARMN-Shant
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-ARMN-Armenia1 TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-ARMN-Armenia TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/989.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-MTV Rocks
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/973.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Investigation Discovery
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/962.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-RTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Sport Extra 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Sport Extra 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NPO Zappelin Xtra/Humor TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NPO 101
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Comedy Central Extra
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-EEN HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-AXN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Fox HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sky Kabel 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Pro7 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RBB Berlin
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Das Erste HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Phoenix HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sky NDR
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-sky cinema 24 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-N-TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-MDR
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sky Krimi
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sky Kika
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Pro7 Fun HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-ZDF
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Nat Geo HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Pro7 Maxx
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky True Movies 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Star Jalsha
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Sports News HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: SYFY
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Sports 5 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sports 4 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Sports 3 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Sports 2 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Sports 1 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Setanta Sports
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK:-Quest TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Fashion TV  HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Premier Sports
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Nickelodeon
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky News HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky MUTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Thriller HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Movies Showcase HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Select HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Premiere HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Family HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Movies Drama HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Action HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Ci
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky More 4 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Living HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Liverpool FC TV HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky ITV 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky ITV 3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky ITV 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky ITV 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky History HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Dave HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Gold
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Film 4 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Eurosport 2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Eurosport 1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky E4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Disney XD HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Disney Junior HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Disney Chaneel HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Movies Sci-Fi+
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Atlantic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Chelsea TV HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Cbs Drama
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Cbs Action
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Food Network
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BT Sport 2 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BT Sport 1 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BoxNation
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BBC Two HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BBC Three HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BBC One HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky BBC Four HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky True Movies1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Arts 1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky Animal Planet HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky 5 USA
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK: Sky 5 star
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Veronica/Disney XD HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-TLC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Sport1 Racing
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Ziggo Sport Golf
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-SBS 9
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-SBS 6 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Nickelodeon
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-RTL 8
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-RTL 7 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-RTL 5 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-RTL 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NPO3 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NPO2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NPO1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-NET 5
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Xite Awrds
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-HBO HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-HBO 3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-HBO 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Fox Sports 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Fox Sports 5
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Fox Sports 3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Fox Sports EDL2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Fox Sports EDL1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-100% NL
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Film1 Sundance
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Film1 Premiere HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Film 1 Comedy and Kids
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Film1 Action
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-National Geographic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Disney Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-Discovery NL
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NL-AT5 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Universal Channel HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-ZDF Info
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-ZDF HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SUPER RTL
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SRF2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SRF1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Disney Junior
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RTL
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Nat Geo Wild
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-VOX HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-TNT Film
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-TNT Seriese
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY SPORT2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY SPORT1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Disney XD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RTL Passion
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RTL Nitro
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RTL Living
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SYFY HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-13th Street HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sixx TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-WDR
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY EMOTION HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY COMEDY HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-TLC Crime
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY CINEMA HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-N24
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY BUNDESLIGA1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY ATLANTIC HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-SKY ACTION HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE- RTL Crime HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-RTL2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Discovery HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-ORF Eins
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DE-Sport1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-Liv
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1531.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-MTV Fakta
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1532.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-MTV Juniori
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1533.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-MTV Leffa
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1534.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-MTV Sport 1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1535.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-MTV Sport 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-N4 Iceland
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1537.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-Nelonen
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-Nelonen Maailma
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-Nelonen Prime
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1540.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FI-TV7 Plus
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Comedy Central
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1542.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Discovery Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1543.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Disney XD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR K
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-DR3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Kanal 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1547.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Kanal 5
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-MTV Denmark
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1549.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-National Geographic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Nickelodeon Denmark
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Fri
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Sport
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV2 Zulu
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1554.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV3 Sport 1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1555.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV3 Sport 2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-TV4 Sport HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1557.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DK-Viasat Fotball HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Aljazeera English
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-At The Races
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Discovery Shed
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Dmax
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Fox
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Fox Movies
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Horror Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Movies4men
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-MUTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Real Lives
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sony Entertainment TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sony Movie
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-TLC
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-True Drama
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-True Entertainment
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Family
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Movies
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Prime Atlantic
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Prime Pacific
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Spectrum
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Sports
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-AFN Sports2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-Fox HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-H2
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Fox News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-Nickelodeon HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-BT Sport ESPN
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Discovery Channel
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Discovery History
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Discovery Science
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Discovery Turbo
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Cbeebies
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Nickelodeon HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-ABC HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Animal Planet
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Discovery Velocity
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-ESPN 2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-ESPN HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Food Network
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-HGTV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Travel Channel HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-BT Sport 3 SD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Channel 4
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Channel 5
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-E!
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Home & Health
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Racing UK
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-RTE News
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sport1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sport2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sport3 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sport4 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Sport5 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-BT Sport1 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-BT Sport2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-BT Sport3 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Boomerang HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Disney HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Disney JR HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1835.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Nick HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Nick JR HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Nicktoons HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,US-Sprout HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,USA-TruTV HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Acasa
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Acasa Gold
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Antena Stars
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Antena-3
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Antena1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-B1
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Cartoon Network
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Cinemax
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Disney-Jr
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Film Caf
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Food Network HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-JimJam
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-KanalD HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Minimax
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Nickelodeon
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Prima TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RO-Pro TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UK-Sky Box Office
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-EN-LTV HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-EN-Now TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-EN-Fashion Television
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-EN-Go TV
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MY-EN-Pink2 HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,My-EN-24B HD
-plugin://plugin.video.f4mTester/?url=http://iptv.genius-stream.com:6204/live/online/tv/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-
-
-#EXTINF:-1,AeE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,AeE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ANIMAL PLANET [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,APARECIDA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,APARECIDA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ARTE 1
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ARTE 1 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,AXN [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND SPORTS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND SPORTS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND NEWS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BAND NEWS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BIS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BIS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BOOMERANG [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANAL BRASIL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANAL BRASIL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANAL RURAL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANAL RURAL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANCAO NOVA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CANCAO NOVA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CARTOON NETWORK
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CARTOON NETWORK [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CBS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CBS NEWS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CINEMAX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CINEMAX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CURTA!
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CURTA! [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,COMBATE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,COMBATE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,COMEDY CENTRAL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CULTURA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CULTURA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY CIVILIZATION
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY CIVILIZATION [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY CHANNEL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Discovery Home e Health
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Discovery Home e Health [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY KIDS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY SCIENCE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISCOVERY TURBO [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY CHANNEL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY JR
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY JR [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY XD
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,DISNEY XD [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,E!
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,E! [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,EI MAXX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,EI MAXX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,EI MAXX 2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,EI MAXX 2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN BRASIL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN BRASIL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN+
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ESPN+ [SERVER02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/967.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FISH TV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FISH TV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOOD NETWORK
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOOD NETWORK [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX LIFE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX LIFE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX SPORTS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX SPORTS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FOX SPORTS 2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FUTURA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FUTURA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO BRASILIA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO BRASILIA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO MINAS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO MINAS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO NEWS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO NEWS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO RJ
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO RJ [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/965.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO SP
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOBO SP [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOOB
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GLOOB [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GNT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,GNT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,H2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,H2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO 2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO FAMILY
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO FAMILY [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO PLUS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO PLUS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO PLUS E
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO PLUS E [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO SIGNATURE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HBO SIGNATURE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HISTORY
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HISTORY [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,HEART TV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ID
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,ID [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,LIFETIME
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,LIFETIME [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,LIVRE TV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAIS GLOBOSAT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX PRIME
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX PRIME [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX PRIME E
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX PRIME E [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX UP
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MAX UP [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MEGAPIX
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MEGAPIX [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MTV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MULTISHOW
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MULTISHOW [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MUSIC BOX BRASIL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,MUSIC BOX BRASIL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NAT GEO
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NAT GEO [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NAT GEO WILD
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NAT GEO WILD [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/998.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NBR
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NBR [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NHK
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NHK [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NICK
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NICK [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NICK JR.
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NICK JR. [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NOVO TEMPO
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,NOVO TEMPO [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,OFF
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,OFF [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PARAMOUNT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PARAMOUNT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PLAYBOY
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PLAYBOY [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PLAY TV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PLAY TV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE CLUBES [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 3
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 3 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 4
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 4 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 5
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 5 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 6
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 6 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 7
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 7 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 8
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 8 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 9
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PREMIERE 9 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PRIME BOX BRASIL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,PRIME BOX BRASIL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RBI
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RBI [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RBS TV PORTO ALEGRE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RBS TV PORTO ALEGRE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RECORD
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RECORD [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RECORD NEWS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RECORD NEWS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE BRASIL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE BRASIL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE TV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE TV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE VIDA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,REDE VIDA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RIT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RIT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SBT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SBT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SEXY HOT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SEXTREME
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SEXTREME [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SIC INTERNACIONAL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SIC INTERNACIONAL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SONY
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SONY [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPACE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPACE [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV 2
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV 2 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV 3
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SPORTV 3 [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,STUDIO UNIVERSAL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,SYFY [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TBS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TCM [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE PREMIUM [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE ACTION
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE ACTION [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE PIPOCA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE TOUCH
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE TOUCH [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE FUN
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE FUN [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE CULT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TELECINE CULT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TLC [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TNT [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TNT SERIES
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TNT SERIES [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TOONCAST
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TOONCAST [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TRUTV
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TRUTV [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV ANHANGUERA GOIANIA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV ANHANGUERA GOIANIA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/964.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV RATIMBUM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV RATIMBUM [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV TEM BAURU
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV TEM BAURU [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/963.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV TEM SOROCABA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/962.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,TV VERDADE
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UNIVERSAL
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,UNIVERSAL [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,VH1 MEGA HITS
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,VH1 MEGA HITS [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,VIVA
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,VIVA [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,WARNER
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,WARNER [SERVER 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,WOOHOO
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,WOOHOO [SERVIDOR 02]
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,12 Horas para Sobreviver:O Ano Da Eleição/Uma Noite de Crime 3
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/878.mp4
-#EXTINF:-1,10000 Anos Depois
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/923.mp4
-#EXTINF:-1,A Bailarina
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/935.mp4
-#EXTINF:-1,A Bruxa de Blair 2: O Livro das Sombras
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/915.mp4
-#EXTINF:-1,A Chegada
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/913.mp4
-#EXTINF:-1,A Grande Muralha
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/929.mp4
-#EXTINF:-1,A Ilha da Caveira
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/932.mp4
-#EXTINF:-1,A mumia
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/930.mp4
-#EXTINF:-1,A Ultima Ressaca Do Ano
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/892.mp4
-#EXTINF:-1,A Volta do Juizo Final
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/912.mp4
-#EXTINF:-1,Abril e o Mundo Extraordinario
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/921.mp4
-#EXTINF:-1,Amor & Amizade
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/920.mp4
-#EXTINF:-1,Animais Fantasticos e Onde Habitam
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/902.mp4
-#EXTINF:-1,As Aventuras de Pi
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/900.mp4
-#EXTINF:-1,Assassin's Creed
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/893.mp4
-#EXTINF:-1,Assassino a Preço Fixo 2: A Ressurreicao
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/901.mp4
-#EXTINF:-1,Bruxa de Blair
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/914.mp4
-#EXTINF:-1,Call to Duty:Fora de Alcance
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/891.mp4
-#EXTINF:-1,Como Eu Era Antes de Voce
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/899.mp4
-#EXTINF:-1,Desventuras em Serie
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/924.mp4
-#EXTINF:-1,Doutor Estranho
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/911.mp4
-#EXTINF:-1,Esquadrao de Elite
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/910.mp4
-#EXTINF:-1,Fome de Poder
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/927.mp4
-#EXTINF:-1,Fugindo Do Inferno
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/909.mp4
-#EXTINF:-1,Hancock
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/890.mp4
-#EXTINF:-1,Hora de Voltar
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/898.mp4
-#EXTINF:-1,Horizonte Profundo:Desastre no Golfo
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/889.mp4
-#EXTINF:-1,iBoy
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/919.mp4
-#EXTINF:-1,Jack Reacher: Sem Retorno
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/908.mp4
-#EXTINF:-1,John Wick – Um Novo Dia para Matar
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/934.mp4
-#EXTINF:-1,Kick Ass: Quebrando Tudo
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/897.mp4
-#EXTINF:-1,Kick-Ass 2
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/896.mp4
-#EXTINF:-1,Liga da Justica Sombria
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/918.mp4
-#EXTINF:-1,Logan
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/933.mp4
-#EXTINF:-1,Meu Irmao Cego
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/907.mp4
-#EXTINF:-1,Minha Mae é Uma Peca 2
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/888.mp4
-#EXTINF:-1,Minha Mãe e Uma Peça: O Filme
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/895.mp4
-#EXTINF:-1,Moana: Um Mar de Aventuras
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/887.mp4
-#EXTINF:-1,Monster Trucks
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/877.mp4
-#EXTINF:-1,O Chamado 3
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/931.mp4
-#EXTINF:-1,O Codigo Da Vinci
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/925.mp4
-#EXTINF:-1,O Exorcismo de Anna Ecklund
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/886.mp4
-#EXTINF:-1,O Monstro no Armario
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/885.mp4
-#EXTINF:-1,O Nome do Jogo
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/922.mp4
-#EXTINF:-1,O Shaolin do Sertao
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/894.mp4
-#EXTINF:-1,Ouija: Exorcismo
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/904.mp4
-#EXTINF:-1,Ouija: Onde Tudo Comecou
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/905.mp4
-#EXTINF:-1,Ouija: Origem Do Mal
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/903.mp4
-#EXTINF:-1,Pandora
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/883.mp4
-#EXTINF:-1,Passageiros
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/884.mp4
-#EXTINF:-1,Rei Arthur – A Lenda da Espada
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/928.mp4
-#EXTINF:-1,Resgate Suicida
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/875.mp4
-#EXTINF:-1,Resident Evil 6:O Capítulo Final
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/882.mp4
-#EXTINF:-1,Rio 2
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/881.mp4
-#EXTINF:-1,Rogue One: Uma História Star Wars
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/876.mp4
-#EXTINF:-1,Sacrificio
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/917.mp4
-#EXTINF:-1,Stereo
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/906.mp4
-#EXTINF:-1,Trolls
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/916.mp4
-#EXTINF:-1,Uma Noite de Crime
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/880.mp4
-#EXTINF:-1,Uma Noite de Crime 2:Anarquia
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/879.mp4
-#EXTINF:-1,Velozes e Furiosos 8
-http://iptv.servidorfull.com:8081/movie/Marcioakira/Y97caURje9/926.mp4
-#EXTINF:-1,104 FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,BH FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Band FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Band News FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Bandeirantes FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Caicara FM/AM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Capao FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,CBN SP 90.5 FM - Estudio Ao Vivo
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Coca Cola FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Continental FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Eldorado FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,FM Premium
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Globo RJ FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Globo SP FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Grenal FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Joven Pan FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Liberdade FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Mix FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Nativa FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Radio Gaucha FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Radio Imbe FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Radio Transamerica
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,RFI FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Pampa FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Praia FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Princesa FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Transamerica FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Tramandai FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Truckers FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,VERDES MARES FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
-
-#EXTINF:-1,Xangrila FM
-plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Marcioakira/Y97caURje9/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
