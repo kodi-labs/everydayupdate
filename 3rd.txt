@@ -83,6 +83,2051 @@ plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/luis/luis
 #EXTINF:-1,USA: UFC Fight pass
 plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/luis/luis/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SyFy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TDN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Teleformula
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telehit
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telemundo
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telemundo Internacional
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telemundo USA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TIIN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TLC Discovery
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TLnovelas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TNT Series
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Tru TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TVE Internacional
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UFC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: B0X N4t10n
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BeTe Sp0rt 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BeTe Sp0rt 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: BeTe Sp0rt 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: €ur0zport 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: €ur0zport 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: 1TV 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: 1TV 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: 1TV 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: 1TV €ncore
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: MUTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY F0rmuIa 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK: ZKY Zp0rts N€ws
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Unicable
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UniMAS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Universal
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision Deportes
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Univision TDN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UR: VTV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: FOX Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: NFL Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,US: WWE Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: ABC News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CBSN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CNBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: CNN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: FOX Sport1 US
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: Golf
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: NBA TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: NDTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: PAG
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: Poker Central
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA: TSN5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | MLB GAME PASS HD MATCH 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NBA Live 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NFL SUNDAY TICKET 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 11
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 12
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 13
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | NHL HD 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VE: La Teletuya
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VE: Meridiano
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1 Classics
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 1 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 2 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 3 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 4 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 5 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PPV: 6 (Solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TVC Deportes HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SONY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,WARNER HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2182.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UNIVERSAL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TRUTV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HOLA TV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,GOURMET HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NICK HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2195.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2197.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,LIFE TIME HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX ACTION HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SERIES HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CINECANAL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2205.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,GOLDEN HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2207.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FILMZONE HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DEPELICULA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 3 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2214.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN PLUS HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SPORTS 3 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2217.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV  LIVE HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TELEHIT HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CANAL FORMULA1 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MN TVC HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RT HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2236.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2240.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NICK 2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2244.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TLC DISCOVERY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2245.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BABY FIRST HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2246.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+#EXTINF:-1,24/7: The Simpsons HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: The Simpsons 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Two and half men
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Cantinflas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Peliculas 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Terror
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Shin Chan
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Un hogar casi perfecto - 3X3 (2016)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Dragon Ball Super
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Pinky y cerebro
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Robotech
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: The Big Bang Theory
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1,24/7: WWE 24/7 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: America TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: C5N
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: Canal 26
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: Canal 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: El Trece
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: TELEFE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: TN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: TV Publica
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AR: TYC Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Bob Esponja SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Canal Disney  HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Dragon Ball HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Dragon Ball Z HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Doctor House
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: El principe del rap
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: El Chapulín Colorado SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: El Chavo del Ocho SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Family Guy HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Futurama HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Garfield
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Los caballeros del Zodiaco  HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: MacGyver SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Malcolm  SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Mr. Bean SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Patoaventuras SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Pocoyó SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Ranma ½ HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Scooby-Doo HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: South Park  HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/838.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Súper Campeones SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,24/7: Slam Dunk
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AYM Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AZCinema
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,AzCorazon
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Azteca Siete
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Azteca Trece
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Bandamax
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts Ñ
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 11
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,B31N Sp0rts 12
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Canal 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Canal Formula 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Canal El Gourmet
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Canal Once
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Cinecanal
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Cinecanal 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1,Directv Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Campeonato EC (solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Campeonato EC 2 (solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/962.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Civilization
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Home & Health
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Theater
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Discovery World
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Distrito Comedia
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,DW Latinoamerica
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: CNT Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/989.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: CNT Sports op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Ecuavisa
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Ecuavisa op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: RTS Ecuador
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Teleamazonas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/977.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Teleamazonas op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Ecuador TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: GamaTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: GamaTV op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: TC Television
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: TC Television op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: Canal UNO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,EC: OromarTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: #O
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: 40 TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: B31N La Liga HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: B31N Sp0rts SPAIN HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: CALLE 13
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: COCINA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: CRIMEN INVESTIGACION
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: CUATRO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: ENERGY
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: GOL
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: La Sexta
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: LaLigaTV BAR
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: M20
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: M6 MUSIC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR  DEPORTES 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR PARTIDAZO HD OP2  (Solo Eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NAT GEO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: ODISEA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: Real Madrid TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: TELECINCO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: TELEDEPORTE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: TOROSTV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: VIAJAR
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ES: VIRGIN TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN ARGENTINA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 2 ARGENTINA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN 3 ARGENTINA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN Plus Argentina
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN Deportes
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ESPN Plus
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Estrellas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FilmZone
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Foro TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Action
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Action op2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/991.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Cinema
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Classics
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX Comedy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX Deportes
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX Family
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Movies
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Series
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports Argentina HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 2 Argentina HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 3 Argentina
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports Mexico HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/964.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports Uruguay HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Fox Sports 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SPORTS SUR (CHILE)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FOX SPORTS 2 SUR
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Gala TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Glitz
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Golden
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Golden Edge
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,GolTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO FAMILY
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO PLUS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO PLUS OESTE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Investigation Discovery
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,iSat
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MAX UP
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MAX Prime
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV hits
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Multimedios
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,MundoFOX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NatGeo Wild
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,National Geographic Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Nick2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NickToons
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Paramount
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: AMERICA TELEVISION
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: ATV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: Movistar Deportes || CMD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: Frecuencia Latina
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: GolPeru
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: Panamericana
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: Peru Magico
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PE: TV Peru
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: ABC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: MegaTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: NBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: Telemundo 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: Univision
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: Wapa 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,PR: Wapa
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Digital 15
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Teleantillas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Telecentro
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Telenord 10
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Telenord 12
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Telesistema
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Teletica
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Teleunion
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,RD: Teleuniverso
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Ritmoson
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SKYSports 16 (solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SKYSports 17 (solo eventos)
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,SKYSports 24
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+
+#EXTINF:-1,BR || A&E
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Arte
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Band
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Band News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Band Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Bis
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Brazil 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Canacao Nova
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Canal Do Boi
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Canal Escola
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Conexao
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2388.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Discovery
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || DW Latin
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || ESPN Brazil
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Fish tv
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Fox
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || FOX Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || FOX Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Globo News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Globo TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || HBO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2379.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || HBO 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2378.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || HBO Family
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2377.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || History
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Multi TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2375.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || Rede TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2374.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || SporTV2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2373.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || SporTV3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2372.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || TBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2371.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || TV Brazil
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2370.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || TV Diario
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || TV Geral
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2369.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,BR || TVE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || A&E
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || ABC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || ABC News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || AMC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Animal Planet
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || BBC America
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || B31N Sp0rts
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Bravo
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2692.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || CBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || CBSN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Cinemax
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Cinemax Moremax
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Cinemax Thrillermax
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || CNBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || CNN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Comedy Central
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Cooking Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Crime and Investigation
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Destination America
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Discovery Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Discovery Family
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2678.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Discovery Science
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Discovery Velocity
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Disney Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Disney Jr
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2674.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Disney XD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || DIY Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2672.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || E!
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2671.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || ESPN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2670.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || ESPN 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2669.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Food Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Fox
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Fox News
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2666.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Fox Sports 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Fox Sports 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Freeform
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || FX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2662.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || FXX
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || H2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Hallmark
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Hallmark Movies & Mysteries
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO Comedy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO Family
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO Signature
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HBO Zone
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || HGTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || History Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Investigation Discovery
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Lifetime
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 720
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 721
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 722
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 723
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 724
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 725
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 726
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 727
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 728
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 729
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 730
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2728.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 731
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2727.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 732
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2726.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 733
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 734
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 735
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2723.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 736
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 737
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 738
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 739
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 740
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 741
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 742
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 743
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 744
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 745
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 746
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 747
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 748
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Extra Innings 749
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 1 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 10 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 11 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 12 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 13 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 14 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2749.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 15 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 16 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 2 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 3 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 4 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2744.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 5 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 6 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 7 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 8 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2740.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB League Pass 9 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2739.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MLB Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MSNBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || MTV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Nat Geo
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Nat Geo Wild
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NBA TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NBC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NBC Golf
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NBCSN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || NFL Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Nick JR
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Nick Toons
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Official Olympic Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Showcase
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Showtime
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Showtime 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Showtime Family Zone
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Spike
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Starz Cinema
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Starz East
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Starz Kids and Family
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sundance TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 3
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 5
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 7
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 8
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Sunday Ticket- NFL: 9
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || SyFy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || TBS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Tennis Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || The CW Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || TLC
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || TNT
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Travel Channel
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || Tru TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2617.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || TV Land
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2616.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || USA Network
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || VH1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA || WWE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TELEMUNDO 20 Tijuana
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TELEMUNDO 826 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2610.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telemundo Internacional 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2609.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Telemundo Los Angeles 2
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2608.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: Juicy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: PentHouse HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: PLAYBOY HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: VENUS
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: Hustler
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: Xtsy
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX: Sextreme
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/1488.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: 13 CABLE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CANAL13
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CANAL13 HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CHV HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDO
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDF Basico
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDF Premium op1
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDF PREMIUN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDF HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: CDF FULL HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: Estadio CDF HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: ETC TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/971.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: FOX Sports Chile HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: LA RED
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: MEGA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: MEGA HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: Teletrak
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: TVN HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: TVN 24 Horas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CL: UCV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Claro Sports
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CNN CHILE
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: Caracol
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: Caracol HD
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: Caracol Internacional
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: City TV
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: RCN
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: RCN Novelas
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: TRECE COLOMBIA
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CO: WINSPORT
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CR: Repretel11
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CR: Repretel4
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,CR: Repretel6
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,De Pelicula
+plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,►►● +18 ADULTOS ●◄◄
 plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/luis/luis/3440.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
