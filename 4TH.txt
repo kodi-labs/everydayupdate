@@ -1,0 +1,839 @@
+#EXTM3U
+#EXTINF:-1, -I WILL BAN YOU IF YOU SHARE ANY PLAYLIST ⊙﹏⊙
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+#EXTINF:-1, -Donate to ==> paypal.me/optimumbliss
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+#EXTINF:-1,-Donate to keep BliSSTv Alive
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+#EXTINF:-1,-If a playlist is down try a diffrent playlist
+plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+
+
+#EXTINF:-1,***** UK *****
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | PremierSport
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Setanta
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BTSportESPN
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BTSport2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BTSport1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BTSportEurope
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkysportNews
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySportNewsUk
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkysportF1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySport5 UK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySport4  UK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySport3 UK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySport2 UK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkySport1 UK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | EUROSPORT2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | EUROSPORT1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Dmax.
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Yesterday
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | RTE One
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Rte Two
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Premiere HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Scifi / Horror HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Family HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Action
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Movies Comedy
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkyMTV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Movies 4Men
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkyOne HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | True Movies1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Racing
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkyMoviesDrama HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkyMoviesSelect HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | SkyMoviesThriller
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | NationalGeographic
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Discovery Turbo HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Discovery Science HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | DiscoveryShed
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | DiscoveryChannelHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | DisneyChannel
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | DisneyJunior
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ComedyCentral
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Channel5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Channel4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBSAction
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBSDrama
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CBSReality
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BBC3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BBC2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BBC1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ITV4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ITV3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ITV2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ITV1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,***** NL NETHERLANDS *****
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | VERONICA DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | DISCOVERY
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FILM 1 SPOTLIGHT
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FILM 1 SUNDANCE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FILM 1 ACTION
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | 24 KITCHEN
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | HBO 2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FILM 1 COMEDY  KIDS
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FILM 1 PREMIER HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | ZIGGO SPORT VOETBAL
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2814.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | ZIGGO SPORT RACING
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | ZIGGO SPORT GOLF
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | HBO 1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NET 5 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NPO 1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NPO 2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | NPO 3 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | RTL 4 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | RTL 5 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | RTL 7 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | RTL 8 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | SBS 6 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | SBS 9
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,NL | RTL Z
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,***** FR FRANCE *****
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CINE CLASSIC
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | Cine Polar
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | TF1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 9
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 7
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | InfoSport+
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | M6 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL J HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE O HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE 2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE 3 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE 4 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE 5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | TMC
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CINE  FRISSON HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CINE+ FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | NRJ 12 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | Foot+ 24 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | NT 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | DISNEY XD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | RTL9
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | ARTE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CHERIE 25 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | OCS CHOC HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 8
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | Cartoon NetWork
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | Teva HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | AB1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | L'EQUIPE 21
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | A LA CARTE 6
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | W9
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | TV BREITZ
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | TELETOON HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | SYFY HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | PLANETE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | PLANETE  CI HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | PIWI
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | MANGAS
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | M6 MUSIC
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | I TELE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | GULLI HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | FRANCE 24
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | DISNEY Channel
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | D8
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL SPORT HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL PLAY 4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL PLAY 3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL PLAY 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL PLAY 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2547.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL DECALE HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | AB3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | AB MOTEURS HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | 6TER HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2546.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | 13 EME RUE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | CANAL SERIES HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | COMEDIE + HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6354.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | SFR SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | SFR SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,FR | SFR SPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/6357.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+#EXTINF:-1,***** ITALIAN *****
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1233.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RaiPremium
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RaiGulp
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1367.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai Yoyo
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1368.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Italia1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai sport
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Alice
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Cielo
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyUno
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RaiMovie
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Premium Cinema HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1366.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | FoxComedyHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1370.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Fox.
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCinema Max
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumAction
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Premium Cinema2 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1365.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Premium Cinema+24
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCrimeHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumEnergy
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCinema Hits
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCinema1HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | MediasatExtra
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1389.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RETE 4 HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCrime24
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCinemaEmotion
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Premium Studio Universal
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | NatGeoWild
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | AnimalPlanet
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1350.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | DiscoverySci HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RSI La1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkySport1HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkySport2HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkySport3HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkySportF1HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Super Tennis
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | FOX Sport HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumSport
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumDisneyJunior
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyTG24
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RSI La2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | CARTOONITO
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3000.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3002.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3004.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila6
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3005.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila7
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila8
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila9
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3008.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyPrimafila10
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3009.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkySuperCalcio
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3023.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3024.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3025.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3026.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3027.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3028.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | SkyCalcio6
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3029.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | RaiNews24
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumEuroSport1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3011.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumEuroSport2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3012.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3034.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcioHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3035.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3036.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3037.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3038.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio4
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3039.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3040.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | PremiumCalcio6
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3041.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | National Geo HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | MEDIASET TOP CRIME
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3013.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Mediaset Iris
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3020.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | La7
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2995.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | History
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2993.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Fox Crime HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3016.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | DiscoveryChannelHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/3015.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | CANALE 5
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Italia Channel
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8148.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Lazio TV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8147.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai Scuola
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8146.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Rai UNINETTUNO UNIVERSITY TV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8145.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Senato
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | Sposa TV HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | TRC
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | TRM NETWORK
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8141.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,IT | TV Art Live
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/8140.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+#EXTINF:-1,***** XXX ADULT *****
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | VIP CHANNEL
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | VIP CHANNEL 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | VIP CHANNEL 3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | HUSTLER HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | BLUE HUSTLER TV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | brazzers tv +18
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SCT HQ
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SCT 1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SCT 2
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SCT 3
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | Redlight HD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | YESILCAM ADULT
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SEXTV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2981.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | SCT1
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | REDHOTSEXTU
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | PRIVATESPACE
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2984.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | PORNOXHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | PENTHOUSEHD
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2979.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | PASSIONXXX
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2987.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | MARCDORCELTV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2985.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | DARINGTV
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2980.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,XXX | BABESTATIONXTREME
+plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2986.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
