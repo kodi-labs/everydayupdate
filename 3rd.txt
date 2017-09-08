@@ -8,6 +8,24 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
+#EXTINF:-1,=== >> USA << ===
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | BLOOMBERG
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | C-SPAN 1 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | C-SPAN 2 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | C-SPAN 3 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,USA | CBS NEWS HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
 #EXTINF:-1,►►● USA ●◄◄
 plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/luis/luis/3438.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
@@ -145,6 +163,51 @@ plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria
 
 #EXTINF:-1,UFC
 plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,=== >> United Kingdom << ===
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ENG |  ENGLISCH CLUP
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ENG | AL JAZEERA ENGLISH
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ENG | DEUTSCHE WELLE ENGLISH
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ENG | EUROSPORT 1  ENGL
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,ENG | FRANCE 24 ENGLISH
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,TR | ENGLISH CLUB
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | ITV 1 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK |  ITV 4 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | NBC GOLF HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky News HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | BBC WORLD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | Sky Sports Golf
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CNN
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
+
+#EXTINF:-1,UK | CHANNEL 4 HD
+plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/turan/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
 #EXTINF:-1,UK: B0X N4t10n
 plugin://plugin.video.f4mTester/?url=http://104.245.96.214:8000/live/feria/feria/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
