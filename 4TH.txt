@@ -8,7 +8,7 @@
 	</item>
 </streaminginfo> 
 <streaminginfo>
-	<cname>Coming soon</cname>
+	<cname>Coming soon!!</cname>
 	<item>
 	<title>Coming soon!!</title>
 	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link>
