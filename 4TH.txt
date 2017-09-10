@@ -1,13 +1,18 @@
-<streamingInfos><item> 
-            <title>Bliss Tv 04 by Dave</title> 
-	     <link>ignore</link>
+<streamingInfos>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>med</title>
+<link>ignore</link>
    <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	     <page></page>	    
-        </item></streamingInfos> 
-	
-	<streamingInfos><item> 
-            <title>Coming soon</title> 
-	     <link>ignore</link>
-   <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	     <page></page>	    
-        </item></streamingInfos> 
+	</item>
+</streaminginfo> 
+<streaminginfo>
+	<cname>Coming soon</cname>
+	<item>
+	<title>Med</title>
+	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link>
+	</item>
+</streaminginfo> 
+
+</streamingInfos>
