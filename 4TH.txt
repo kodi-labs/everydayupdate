@@ -1,5 +1,5 @@
 <streamingInfos><item> 
-            <title>Bliss Tv 04</title> 
+            <title>Bliss Tv 04 by Dave</title> 
 	     <link>ignore</link>
    <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
