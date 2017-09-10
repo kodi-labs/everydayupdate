@@ -2,7 +2,7 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>med</title>
+	<title>Testing</title>
 <link>ignore</link>
    <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
@@ -10,7 +10,7 @@
 <streaminginfo>
 	<cname>Coming soon</cname>
 	<item>
-	<title>Med</title>
+	<title>Coming soon!!</title>
 	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link>
 	</item>
 </streaminginfo> 
