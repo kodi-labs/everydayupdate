@@ -30,7 +30,7 @@ plugin://plugin.video.f4mTester/?url=http://46.105.119.223:8000/live/hasanturan/
 plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/1574.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
 
-#EXTINF:-1,Sky Sports F1 HD UK
+#EXTINF:-1,Sky Sports F1 HD UK 
 plugin://plugin.video.f4mTester/?url=http://hd.guardatv.eu:8000/live/09092017/10092017/1567.ts&amp;streamtype=TSDOWNLOADER&amp;name=BlissTv
 
 #EXTINF:-1,UK: Sky Sport F1 HD
