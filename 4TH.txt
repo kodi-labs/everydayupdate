@@ -2,10 +2,12 @@
             <title>Bliss Tv 04 by Dave</title> 
 	     <link>ignore</link>
    <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	     <page></page>
-	     
-	     <title>Coming soon!!</title> 
+	     <page></page>	    
+        </item></streamingInfos> 
+	
+	<streamingInfos><item> 
+            <title>Coming soon</title> 
 	     <link>ignore</link>
-   <externallink>ignore</externallink>
-	     <page></page>
+   <externallink>http://hd.guardatv.eu:8000/get.php?username=09092017&amp;password=10092017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	     <page></page>	    
         </item></streamingInfos> 
