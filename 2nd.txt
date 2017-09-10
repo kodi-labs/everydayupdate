@@ -10,7 +10,7 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Bliss Tv 02</title>
+	<title>Bliss Tv - USA Special</title>
 <link>ignore</link>
    <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
@@ -18,7 +18,7 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Bliss Tv 03</title>
+	<title>Bliss Tv - U.K. Special</title>
 <link>ignore</link>
    <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
