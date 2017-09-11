@@ -10,6 +10,15 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
+	<title>Bliss Tv - Best playlist</title>
+<link>ignore</link>
+   <externallink>http://system.fpiptv.com:8080/get.php?username=rober&amp;password=rober&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
 	<title>Bliss Tv - New few channels</title>
 <link>ignore</link>
    <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
