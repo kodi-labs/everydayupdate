@@ -10,6 +10,15 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
+	<title>Bliss Tv - New few channels</title>
+<link>ignore</link>
+   <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
 	<title>Bliss Tv - USA Special</title>
 <link>ignore</link>
    <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
