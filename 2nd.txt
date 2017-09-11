@@ -12,7 +12,7 @@
 	<item>
 	<title>Bliss Tv - Best playlist</title>
 <link>ignore</link>
-   <externallink>http://system.fpiptv.com:8080/get.php?username=rober&amp;password=rober&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+   <externallink>http://system.fpiptv.com:8080/get.php?username=robe&amp;password=robe&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink>
 	</item>
 </streaminginfo>
