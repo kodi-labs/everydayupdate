@@ -10,6 +10,15 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
+	<title>Mania MK Special - 24hrs</title>
+<link>ignore</link>
+   <externallink>http://drop1.ipfox.co:8080/get.php?username=winsor_WCC4kU&amp;password=i7IMsvji&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
 	<title>Bliss Tv - PlayersKlub</title>
 <link>ignore</link>
    <externallink>http://thepk.co:2095/get.php?username=donkey123&amp;password=donkey123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
