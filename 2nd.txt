@@ -10,9 +10,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Bliss Tv - Best playlist</title>
+	<title>Bliss Tv - PlayersKlub</title>
 <link>ignore</link>
-   <externallink>http://system.fpiptv.com:8080/get.php?username=robe&amp;password=robe&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+   <externallink>http://thepk.co:2095/get.php?username=donkey123&amp;password=donkey123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink>
 	</item>
 </streaminginfo>
