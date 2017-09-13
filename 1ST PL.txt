@@ -63,9 +63,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Test Zone</title>
+	<title>10 dollar IPTv l0l</title>
 <link>ignore</link>
-   <externallink>https://raw.githubusercontent.com/tubestrending/virus/master/virus%20ini.txt$$TSDOWNLOADER$$
+   <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/ALL/All.txt$$TSDOWNLOADER$$
 </externallink>
 	</item>
 </streaminginfo>
