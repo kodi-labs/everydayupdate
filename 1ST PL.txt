@@ -34,7 +34,7 @@
 <streaminginfo>
 	<cname>number 04</cname>
 	<item>
-	<title>Bliss Tv - PlayersKlub</title>
+	<title>Bliss Tv - OFFLINE</title>
 <link>ignore</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
