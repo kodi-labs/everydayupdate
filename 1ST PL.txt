@@ -37,7 +37,7 @@
 	<title>Bliss Tv - OFFLINE</title>
 <link>ignore</link>
 <fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
    <externallink>http://thepk.co:2095/get.php?username=donkey123&amp;password=donkey123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink>
 	</item>
