@@ -3,11 +3,19 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>A John Bliss' Project | Donate to => paypal.me/optimumbliss</title>
+	<title>| A John Bliss' Project |</title>
 <link>ignore</link>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Donate to => paypal.me/optimumbliss</title>
+<link>ignore</link>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
