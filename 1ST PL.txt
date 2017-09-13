@@ -63,9 +63,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>10 dollar IPTv l0l</title>
+	<title>BlissTv - 10$ IPTv l0l</title>
 <link>ignore</link>
-   <externallink>https://raw.githubusercontent.com/fouzo14/SuperEliteIptv/master/LiveTV/ALL/All.txt$$TSDOWNLOADER$$
+   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink>
 	</item>
 </streaminginfo>
