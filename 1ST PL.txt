@@ -71,7 +71,7 @@
 <link>ignore</link>
 <fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
 <thumbnail>https://tyr-media.s3.amazonaws.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/g/lgsplusa-642_1_2.jpg</thumbnail>
-   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://www.iptvurllist.com/upload/file/2017-09-13IPTV-USA-America-M3u-Server-Update-13-09-2017.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo> 
 <streaminginfo>
