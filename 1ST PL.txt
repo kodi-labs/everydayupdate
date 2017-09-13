@@ -60,4 +60,18 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Test Zone</title>
+<link>ignore</link>
+   <externallink>https://raw.githubusercontent.com/tubestrending/virus/master/virus%20ini.txt$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+
 </streamingInfos>
