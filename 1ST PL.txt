@@ -23,6 +23,17 @@
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
+	<title>Bliss Tv - Updating Daily</title>
+<link>ignore</link>
+<fanart>http://d98uffoa56ghc.cloudfront.net/wp-content/uploads/2017/01/09155458/15-Most-Awesome-Places-in-the-World-to-Swim-4.jpg</fanart>
+<thumbnail>http://jonvilma.com/images/cool-8.jpg</thumbnail>
+   <externallink>http://cypher-media.com/cypher/temp.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 07</cname>
+	<item>
 	<title>Bliss Tv - USA Special</title>
 <link>ignore</link>
 <fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
