@@ -8,7 +8,35 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
-#EXTM3U
+#EXTINF:0,BTSport1
+http://185.53.163.205:2700
+#EXTINF:0,BTSport2
+http://185.53.163.205:2506
+#EXTINF:0,BTSport3
+http://185.53.163.205:2701
+#EXTINF:0,BTSportESPN
+http://185.53.163.205:2507
+#EXTINF:0,BTSportExtra1
+http://185.53.163.205:2707
+#EXTINF:0,BTSportExtra2
+http://185.53.163.205:2500
+#EXTINF:0,BTSportExtra3
+http://185.53.163.205:2501
+#EXTINF:0,BTSportExtra4
+http://185.53.163.205:2502
+#EXTINF:0,BTSportExtra5
+http://185.53.163.205:2503
+#EXTINF:0,BTSportExtra6
+http://185.53.163.205:2504
+
+#EXTINF:0,FOX EN
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0,C-SPAN HD
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:0,C-SPAN 2 HD
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:0,C-SPAN 3 HD
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,3E
 http://62.210.141.126:8080/3e/mpegts
@@ -180,6 +208,132 @@ http://62.210.141.126:8080/vh1/mpegts
 http://62.210.141.126:8080/viva/mpegts
 #EXTINF:-1,Yesterday
 http://62.210.141.126:8080/yesterday/mpegts
+
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,Betis tv
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,ABC NEWS HD
+http://abclive.abcnews.com/i/abc_live1@136327/master.m3u8
+
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",ITV SD
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Heart TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Capital TV SD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",CBN TV News SD
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",ABC News SD
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Mello Tv HD
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
+
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",TBN HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Dubai One (Entertainment) (AE) (English)
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+
+
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Bloomberg TV
+http://x4012c4000.edge.core-cdn.net/40000mb/live/4012hbbtv/bloomberg.ts
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Alb UK HD
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Alb UK Plus HD
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Alb Music HD
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",Super Sport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:0,MATCH BOETS
+http://163.172.187.253:80/matchboets/tracks-v1a1/index.m3u8
+#EXTINF:0,KHL TV
+http://163.172.187.253:80/khl/tracks-v1a1/index.m3u8
+#EXTINF:0,MATCH FUTBOL 1
+http://163.172.187.253:80/match-futboll-1/tracks-v1a1/index.m3u8
+#EXTINF:0,MATCH IGRA
+http://163.172.187.253:80/match-igra/tracks-v1a1/index.m3u8
+#EXTINF:0,NASH football
+http://163.172.187.253:80/nashfutboll/tracks-v1a1/index.m3u8
+#EXTINF:0,NASH sport
+http://163.172.187.253:80/match-sport/tracks-v1a1/index.m3u8
+#EXTINF:0,MATCH TV
+http://163.172.187.253:80/matchtv/tracks-v1a1/index.m3u8
+
+
+#EXTINF:0,SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:0,Landscape TV
+http://130.88.20.237:1235/monitor.flv
+#EXTINF:0,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+
+#EXTINF:0,Pac-12 National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:0,Pac-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:0,Pac-12  Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:0,Pac-12 Mountain HD
+http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:0,Pac-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:0,Pac-12 Washington HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:0,Pac-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:0,Pac-12 National Full HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,Pac-12 Arizona Full HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,Pac-12  Los Angeles Full HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,Pac-12 Mountain Full HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,Pac-12 Oregon Full HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,Pac-12 Washington Full HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,Pac-12 Bay Area Full HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+
+
+
+
+
+#EXTINF:-1,test1
+http://185.53.163.205:2700
+
+
+
+
 
 #EXTINF:-0 tvg-logo="http://repo.run/cypher/images/cypheriptv.png",BBC One HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
