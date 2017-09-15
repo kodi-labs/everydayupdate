@@ -8,6 +8,15 @@ plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http:/
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
+
+<item> 
+<title>NFL NETWORK HD </title>
+<link>http://nlds127.cdnak.neulion.com/nlds/nfl/nfc/as/live/nfc_hd_4500.m3u8?nltid=nflgp&nltdt=6&nltnt=1&uid=1662623&hdnea=expires=1485736728~access=/nlds/nfl/nfc/as/live/*~md5=c4aa59418d446bee396530300ed2e87a|Connection=keep-alive&Cookie=nlqptid=nltid=nflgp&nltdt=6&nltnt=1&uid=1662623&hdnea=expires=1485736728~access=/nlds/nfl/nfc/as/live/*~md5=c4aa59418d446bee396530300ed2e87a&Accept-encoding=identity, gzip, deflate&User-Agent=Safari/537.36 Mozilla/5.0 AppleWebKit/537.36 Chrome/31.0.1650.57</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yptxsp1478034120.png</thumbnail>
+<fanart>http://viewstationusa.org/epg/blackbk.jpg</fanart>
+</item>
+
+
 #EXTINF:0,NFL Network - Testing
 http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_3000.m3u8?nltid=nflgp&nltdt;=6&nltnt;=1&uid;=716458&hdnea;=expires=1474309313~access=/nlds/nfl/nfltv/as/live/*~md5=4f168d439aba73344c5a37b2a406bad8
 #EXTINF:0,NFL Network - Testing
