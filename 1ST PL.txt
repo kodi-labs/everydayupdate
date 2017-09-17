@@ -68,21 +68,6 @@
 	</item>
 </streaminginfo>
 
-
-
-
-
-<streaminginfo>
-	<cname>number 04</cname>
-	<item>
-	<title>Bliss Tv - TPK</title>
-<link>ignore</link>
-<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
-<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
-   <externallink>http://thepk.co:2095/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
 <streaminginfo>
 	<cname>number 05</cname>
 	<item>
@@ -94,6 +79,7 @@
 </externallink>
 	</item>
 </streaminginfo>
+
 <streaminginfo>
 	<cname>number 06</cname>
 	<item>
@@ -111,11 +97,12 @@
 	<item>
 	<title>Bliss Tv - U.K. Special</title>
 <link>ignore</link>
-<fanart></fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>http://c1038.r38.cf3.rackcdn.com/group1/building9062/media/02dvbm0.jpg</fanart>
+<thumbnail>https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2017/04/17/15/union-jack.jpg</thumbnail>
    <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
 
 <streaminginfo>
 	<cname>number 09</cname>
@@ -129,7 +116,42 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>Bliss Tv - TPK TEMP 01</title>
+<link>ignore</link>
+<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
+<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
 
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>Bliss Tv - TPK TEMP 02</title>
+<link>ignore</link>
+<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
+<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=bigal1&amp;password=bigal1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 04</cname>
+	<item>
+	<title>Bliss Tv - TPK TEMP 03</title>
+<link>ignore</link>
+<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
+<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
+   <externallink>http://thepk.co:2095/get.php?username=free4me&amp;password=free4me&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+</externallink>
+	</item>
+</streaminginfo>
 
 
 
