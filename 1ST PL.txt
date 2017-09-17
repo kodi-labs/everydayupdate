@@ -83,12 +83,11 @@
 <streaminginfo>
 	<cname>number 06</cname>
 	<item>
-	<title>Bliss Tv - New few channels</title>
+	<title>Bliss Tv - Offline</title>
 <link>ignore</link>
-<fanart></fanart>
+<fanart>https://images.techhive.com/images/article/2017/03/offline-100713020-large.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
+   <externallink>http://144.217.76.96:8003/get.php?username=armindo&amp;password=armindo&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
  
