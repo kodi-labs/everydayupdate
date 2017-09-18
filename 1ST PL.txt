@@ -27,7 +27,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>NAME THIS PLAYLIST</title>
+	<title>WHAT SHOULD I NAME THIS?</title>
 <link>ignore</link>
 <fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
 <thumbnail>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</thumbnail>
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <link>ignore</link>
 <fanart>http://cdn.archinect.net/images/1200x/ag/ag24fujli2xo3l6m.jpg</fanart>
 <thumbnail>http://www.latina.com/featured/magazine/2016/eva-mendes/img/eva/5.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/123000000.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
