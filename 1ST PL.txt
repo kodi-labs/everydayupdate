@@ -81,6 +81,17 @@
 </streaminginfo>
 
 <streaminginfo>
+	<cname>number 03</cname>
+	<item>
+	<title>Bliss Tv - Mania MK Weekend gift</title>
+<link>ignore</link>
+<fanart>http://cdn.archinect.net/images/1200x/ag/ag24fujli2xo3l6m.jpg</fanart>
+<thumbnail>http://i2.cdn.cnn.com/cnnnext/dam/assets/140110100339-jessica-alba-0110-2-horizontal-large-gallery.jpg</thumbnail>
+   <externallink>http://ip.cs4ip.com:8000/get.php?username=7200335724878733&amp;password=7200335724878733&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
 	<cname>number 05</cname>
 	<item>
 	<title>Bliss Tv - Stable IptV</title>
