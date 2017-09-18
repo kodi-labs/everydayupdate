@@ -86,7 +86,7 @@
 	<title>Bliss Tv - Spanish Channels by Anonymous buddy</title>
 <link>ignore</link>
 <fanart>http://cdn.archinect.net/images/1200x/ag/ag24fujli2xo3l6m.jpg</fanart>
-<thumbnail>http://media.santabanta.com/gallery/global%20celebrities(f)/eva%20mendes/eva-mendes-43-e.jpg</thumbnail>
+<thumbnail>http://www.latina.com/featured/magazine/2016/eva-mendes/img/eva/5.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
