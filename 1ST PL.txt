@@ -27,10 +27,10 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Donate to => paypal.me/optimumbliss</title>
+	<title>NAME THIS PLAYLIST</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+<fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
+<thumbnail>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
