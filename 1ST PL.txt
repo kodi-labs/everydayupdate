@@ -36,6 +36,18 @@
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
+	<title>Bliss Tv - Sports, more channels coming soon!!</title>
+<link>ignore</link>
+<fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
+<thumbnailhttp://7-themes.com/data_images/out/27/6860480-football-wallpaper.jpg</thumbnail>
+   <externallink>http://iptvfreeforyou.tk:8000/get.php?username=freeworldwideiptv.com&amp;password=sports0213&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 07</cname>
+	<item>
 	<title>Bliss Tv - Updated 17/09 USA Special</title>
 <link>ignore</link>
 <fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
@@ -143,12 +155,24 @@
 <streaminginfo>
 	<cname>number 04</cname>
 	<item>
-	<title>Bliss Tv - TPK TEMP 03</title>
+	<title>Bliss Tv - Offline</title>
 <link>ignore</link>
 <fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
 <thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
-   <externallink>http://thepk.co:2095/get.php?username=free4me&amp;password=free4me&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
+   <externallink>http://thepk.co:2095/get.php?username=freeme&amp;password=free4me&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
 </externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 07</cname>
+	<item>
+	<title>INTERESTING SECTION - COMING SOON</title>
+<link>ignore</link>
+<fanart>http://p1.pichost.me/i/42/1650746.jpg</fanart>
+<thumbnail>http://www.affaritaliani.it/static/upl2014/robe/0007/roberta-gemma-film-07.jpg</thumbnail>
+   <externallink>http://ipyou.tk:8000/get.php?username=freeworldwideiptv.com&amp;password=sports0213&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
