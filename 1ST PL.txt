@@ -15,7 +15,8 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Donate to => paypal.me/optimumbliss</title>
+	<title>Donate to => paypal.me/optimumbliss
+	Don't choose GOODS & SERVICES while donating</title>
 <link>ignore</link>
 <fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
 <thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
@@ -42,7 +43,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - Updating Daily</title>
+	<title>Bliss Tv - Updating Daily - Online</title>
 <link>ignore</link>
 <fanart>http://d98uffoa56ghc.cloudfront.net/wp-content/uploads/2017/01/09155458/15-Most-Awesome-Places-in-the-World-to-Swim-4.jpg</fanart>
 <thumbnail>http://jonvilma.com/images/cool-8.jpg</thumbnail>
@@ -54,7 +55,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - Sports OFFLINE</title>
+	<title>Bliss Tv - Sports - OFFLINE</title>
 <link>ignore</link>
 <fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
 <thumbnailhttp://7-themes.com/data_images/out/27/6860480-football-wallpaper.jpg</thumbnail>
@@ -78,7 +79,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 03</cname>
 	<item>
-	<title>Bliss Tv - Mania MK Special UPDATED</title>
+	<title>Bliss Tv - Mania MK Special - Online</title>
 <link>ignore</link>
 <fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
 <thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
