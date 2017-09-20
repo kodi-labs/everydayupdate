@@ -29,7 +29,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Local Channels & Radio</title>
+	<title>Bliss Tv - Local Channels & Radio</title>
 <link>ignore</link>
 <fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
 <thumbnail>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</thumbnail>
