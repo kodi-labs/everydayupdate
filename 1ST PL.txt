@@ -16,7 +16,8 @@
 	<cname>number 02</cname>
 	<item>
 	<title>Donate to => paypal.me/optimumbliss
-	Don't choose GOODS & SERVICES while donating</title>
+	Don't choose GOODS & SERVICES 
+	while sending donation</title>
 <link>ignore</link>
 <fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
 <thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
@@ -28,11 +29,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>WHAT SHOULD I NAME THIS?</title>
+	<title>Local Channels & Radio</title>
 <link>ignore</link>
 <fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
 <thumbnail>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -88,6 +89,16 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 </streaminginfo>
 
 
+<streaminginfo>
+	<cname>number 03</cname>
+	<item>
+	<title>Bliss Tv - Marko Special - Online</title>
+<link>ignore</link>
+<fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
+<thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
+   <externallink>http://live.thecableguytv.com:25461/get.php?username=markochisholm@gmail.com&amp;password=58696345&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 
 <streaminginfo>
