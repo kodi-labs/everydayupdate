@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <link>ignore</link>
 <fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
 <thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
-   <externallink>http://http://portal.geniptv.com:8080/get.php?username=IQFtWtjVHC&amp;password=4CVyJC3udD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://portal.geniptv.com:8080/get.php?username=IQFtWtjVHC&amp;password=4CVyJC3udD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
