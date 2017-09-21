@@ -56,11 +56,11 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - Sports - OFFLINE</title>
+	<title>Bliss Tv - Sports - Online</title>
 <link>ignore</link>
 <fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
 <thumbnailhttp://7-themes.com/data_images/out/27/6860480-football-wallpaper.jpg</thumbnail>
-   <externallink>http://iptvfreeforyou.tk:8000/get.php?username=freeworldwideiptv.com&amp;password=sports0213&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=ryan&amp;password=ryan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
