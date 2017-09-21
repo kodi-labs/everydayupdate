@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <link>ignore</link>
 <fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
 <thumbnail>https://tyr-media.s3.amazonaws.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/g/lgsplusa-642_1_2.jpg</thumbnail>
-<externallink>http://live.thecableguytv.com:25461/get.php?username=yar7p@tech69.com&amp;password=67921458&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://live.thecableguytv.com:25461/get.php?username=captainthe@hotmail.com&amp;password=46879124&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <link>ignore</link>
 <fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
 <thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
-   <externallink>http://live.thecableguytv.com:25461/get.php?username=markochisholm@gmail.com&amp;password=58696345&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://live.thecableguytv.com:25461/get.php?username=captainthe@hotmail.com&amp;password=46879124&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
