@@ -33,7 +33,7 @@
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>http://163.172.217.107:1944/get.php?username=WWW.CAFE-TV.CO.UK-22-9&amp;password=UjQ517RQHC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://163.172.217.107:1944/get.php?username=WWW.IPTV2424.COM-23-9&amp;password=oUujCrkNfI&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
