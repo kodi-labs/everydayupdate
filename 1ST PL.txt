@@ -117,11 +117,11 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - Updated 20/09 USA Special</title>
+	<title>Bliss Tv - USA Special - Online</title>
 <link>ignore</link>
 <fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
 <thumbnail>https://tyr-media.s3.amazonaws.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/g/lgsplusa-642_1_2.jpg</thumbnail>
-<externallink>http://iptv.myeasytv.xyz:8000/get.php?username=beda&amp;password=beda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://major2.ipfox.co:8080/get.php?username=winsor_bqxAoO&amp;password=fMXqwyPO&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <link>ignore</link>
 <fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
 <thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=murray&amp;password=murray&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://major2.ipfox.co:8080/get.php?username=winsor_ZdtMSC&amp;password=GhAUwb3w&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
