@@ -105,11 +105,11 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - Sports - Online</title>
+	<title>Bliss Tv - Sports - Fixed</title>
 <link>ignore</link>
 <fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
 <thumbnail>http://www.sportsnexus.in/wp-content/uploads/2015/10/iStock_000026709187_Small-1260x840.jpg</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=ryan&amp;password=ryan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=shane&amp;password=shane&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
