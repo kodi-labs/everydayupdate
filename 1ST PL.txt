@@ -61,6 +61,19 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - The Best</title>
+<link>ignore</link>
+<fanart>https://i.ytimg.com/vi/Sc_8A31r_ck/maxresdefault.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <externallink>http://nitrotv.for-the.biz:25461/get.php?username=easy4545&amp;password=4444&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
