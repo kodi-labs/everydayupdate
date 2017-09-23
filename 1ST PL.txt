@@ -26,10 +26,23 @@
 </streaminginfo>
 
 
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - Weekend Special - 01</title>
+	<title>Bliss Tv - FREAKN AWESOME</title>
+<link>ignore</link>
+<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <externallink>http://root-iptv.is-found.org:25461/get.php?username=its.mujbi&amp;password=its.mujbi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - 01</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -41,7 +54,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - Weekend Special - 02</title>
+	<title>Bliss Tv - 02</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -53,7 +66,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - Weekend Special - 03</title>
+	<title>Bliss Tv - 03</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
