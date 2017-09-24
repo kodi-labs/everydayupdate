@@ -15,7 +15,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Donate to => paypal.me/optimumbliss
+	<title>Donate to => paypal.me/blissproject
 	Don't choose GOODS & SERVICES 
 	while sending donation</title>
 <link>ignore</link>
