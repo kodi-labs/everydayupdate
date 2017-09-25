@@ -63,7 +63,16 @@
 </streaminginfo>
 
 
-
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - Game Changer</title>
+<link>ignore</link>
+<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <externallink>https://goo.gl/aQFQhV$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 
 
