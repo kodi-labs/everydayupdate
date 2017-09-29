@@ -15,9 +15,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Donate to => paypal.me/blissproject
-	Don't choose GOODS & SERVICES 
-	while sending donation</title>
+	<title>[COLOR green][B] Send John Bliss a message if you want to send a donation[/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
 <thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
