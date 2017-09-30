@@ -1,104 +1,5 @@
 #EXTM3U
-#EXTINF:0,AR:BEIN_SPORTS_1_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.ts
-#EXTINF:0,AR:BEIN_SPORTS_2_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.ts
-#EXTINF:0,AR:BEIN_SPORTS_3_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.ts
-#EXTINF:0,AR:BEIN_SPORTS_4_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.ts
-#EXTINF:0,AR:BEIN_SPORTS_5_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.ts
-#EXTINF:0,AR:BEIN_SPORTS_6_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.ts
-#EXTINF:0,AR:BEIN_SPORTS_7_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.ts
-#EXTINF:0,AR:BEIN_SPORTS_8_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.ts
-#EXTINF:0,AR:BEIN_SPORTS_9_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.ts
-#EXTINF:0,AR:BEIN_SPORTS_10_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.ts
-#EXTINF:0,|AR| BEIN SPORT HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.ts
-#EXTINF:0,AR:BEIN_NEWS_HD
-http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.ts
-#EXTINF:0,|AR| Bein Sports HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3176.ts
-#EXTINF:0,|AR| Bein Sports News
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3175.ts
-#EXTINF:0,BEIN SPORTS 1 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/117.ts
-#EXTINF:0,BEIN SPORTS 2 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/115.ts
-#EXTINF:0,BEIN SPORTS 3 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/113.ts
-#EXTINF:0,BEIN SPORTS 4 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/111.ts
-#EXTINF:0,BEIN SPORTS 5 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/109.ts
-#EXTINF:0,BEIN SPORTS 6 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/107.ts
-#EXTINF:0,BEIN SPORTS 7 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/105.ts
-#EXTINF:0,BEIN SPORTS 8 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/103.ts
-#EXTINF:0,BEIN SPORTS 9 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/101.ts
-#EXTINF:0,BEIN SPORTS 10 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/121.ts
-#EXTINF:0,BEIN SPORTS 11 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/420.ts
-#EXTINF:0,BEIN SPORTS 12 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/421.ts
-#EXTINF:0,BEIN SPORTS 13 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1030.ts
-#EXTINF:0,BEIN SPORTS 14 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1031.ts
-#EXTINF:0,BEIN SPORTS 15 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1032.ts
-#EXTINF:0,|AR| DMC Sports
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3174.ts
-#EXTINF:0,|AR| AD SPORT 1
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3173.ts
-#EXTINF:0,|AR| AD SPORT 2
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3172.ts
-#EXTINF:0,Abu Dhabi Sports 3 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2418.ts
-#EXTINF:0,Abu Dhabi Sports 4 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2419.ts
-#EXTINF:0,Abu Dhabi Sports 5 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2420.ts
-#EXTINF:0,|AR| DUBAI SPORT 1
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3170.ts
-#EXTINF:0,|AR| DUBAI SPORT 4
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3169.ts
-#EXTINF:0,|AR| DUBAI RACING
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3168.ts
-#EXTINF:0,|AR| Al AHLY
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3167.ts
-#EXTINF:0,|NL| Fox Sport 3
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/250.ts
-#EXTINF:0,|NL| Fox Sport 2
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/251.ts
-#EXTINF:0,|NL| Fox Sport 1
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/252.ts
-#EXTINF:0,|NL| EUROSPORT 1
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2013.ts
-#EXTINF:0,|NL| EUROSPORT 2
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2012.ts
-#EXTINF:0,|NL| Fox Sports 4
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2011.ts
-#EXTINF:0,|NL| Fox Sports 5
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2010.ts
-#EXTINF:0,|NL| Fox Sports 6
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2009.ts
-#EXTINF:0,|TR| BEIN SPORT 1 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2389.ts
-#EXTINF:0,|TR| BEIN SPORT 2 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2390.ts
-#EXTINF:0,|TR| BEIN SPORT 3 HD
-http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2391.ts
+
 #EXTINF:0,|IN| Ten Sport
 http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2709.ts
 #EXTINF:0,|IN| Ten Sport 1
@@ -235,6 +136,106 @@ http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1899.ts
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1898.ts
 #EXTINF:0,UK: SKY SPORTS 1 HD
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/1900.ts
+#EXTINF:0,AR:BEIN_SPORTS_1_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.ts
+#EXTINF:0,AR:BEIN_SPORTS_2_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.ts
+#EXTINF:0,AR:BEIN_SPORTS_3_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.ts
+#EXTINF:0,AR:BEIN_SPORTS_4_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.ts
+#EXTINF:0,AR:BEIN_SPORTS_5_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.ts
+#EXTINF:0,AR:BEIN_SPORTS_6_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.ts
+#EXTINF:0,AR:BEIN_SPORTS_7_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.ts
+#EXTINF:0,AR:BEIN_SPORTS_8_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.ts
+#EXTINF:0,AR:BEIN_SPORTS_9_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.ts
+#EXTINF:0,AR:BEIN_SPORTS_10_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.ts
+#EXTINF:0,|AR| BEIN SPORT HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.ts
+#EXTINF:0,AR:BEIN_NEWS_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.ts
+#EXTINF:0,|AR| Bein Sports HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3176.ts
+#EXTINF:0,|AR| Bein Sports News
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3175.ts
+#EXTINF:0,BEIN SPORTS 1 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/117.ts
+#EXTINF:0,BEIN SPORTS 2 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/115.ts
+#EXTINF:0,BEIN SPORTS 3 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/113.ts
+#EXTINF:0,BEIN SPORTS 4 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/111.ts
+#EXTINF:0,BEIN SPORTS 5 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/109.ts
+#EXTINF:0,BEIN SPORTS 6 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/107.ts
+#EXTINF:0,BEIN SPORTS 7 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/105.ts
+#EXTINF:0,BEIN SPORTS 8 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/103.ts
+#EXTINF:0,BEIN SPORTS 9 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/101.ts
+#EXTINF:0,BEIN SPORTS 10 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/121.ts
+#EXTINF:0,BEIN SPORTS 11 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/420.ts
+#EXTINF:0,BEIN SPORTS 12 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/421.ts
+#EXTINF:0,BEIN SPORTS 13 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1030.ts
+#EXTINF:0,BEIN SPORTS 14 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1031.ts
+#EXTINF:0,BEIN SPORTS 15 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/1032.ts
+#EXTINF:0,|AR| DMC Sports
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3174.ts
+#EXTINF:0,|AR| AD SPORT 1
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3173.ts
+#EXTINF:0,|AR| AD SPORT 2
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3172.ts
+#EXTINF:0,Abu Dhabi Sports 3 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2418.ts
+#EXTINF:0,Abu Dhabi Sports 4 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2419.ts
+#EXTINF:0,Abu Dhabi Sports 5 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2420.ts
+#EXTINF:0,|AR| DUBAI SPORT 1
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3170.ts
+#EXTINF:0,|AR| DUBAI SPORT 4
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3169.ts
+#EXTINF:0,|AR| DUBAI RACING
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3168.ts
+#EXTINF:0,|AR| Al AHLY
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/3167.ts
+#EXTINF:0,|NL| Fox Sport 3
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/250.ts
+#EXTINF:0,|NL| Fox Sport 2
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/251.ts
+#EXTINF:0,|NL| Fox Sport 1
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/252.ts
+#EXTINF:0,|NL| EUROSPORT 1
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2013.ts
+#EXTINF:0,|NL| EUROSPORT 2
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2012.ts
+#EXTINF:0,|NL| Fox Sports 4
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2011.ts
+#EXTINF:0,|NL| Fox Sports 5
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2010.ts
+#EXTINF:0,|NL| Fox Sports 6
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2009.ts
+#EXTINF:0,|TR| BEIN SPORT 1 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2389.ts
+#EXTINF:0,|TR| BEIN SPORT 2 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2390.ts
+#EXTINF:0,|TR| BEIN SPORT 3 HD
+http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2391.ts
 #EXTINF:0,AR: BEIN SPORTS 1 HD
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/3539.ts
 #EXTINF:0,AR: BEIN SPORTS 2 HD
@@ -345,7 +346,7 @@ http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1041.ts
 http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1040.ts
 #EXTINF:0,|PT| Sport TV 5
 http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1039.ts
-#EXTINF:0,|SP| beIN Sports España
+#EXTINF:0,|SP| beIN Sports EspaÃ±a
 http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1135.ts
 #EXTINF:0,Sky Sports Main Event HD
 http://iptv.myeasytv.xyz:8000/live/cameron/cameron/14376.ts
@@ -593,7 +594,7 @@ http://tvip2017.ddns.net:8000/live/meo/meo/651.ts
 http://tvip2017.ddns.net:8000/live/meo/meo/247.ts
 #EXTINF:0,ES: Canal   Deportes 2
 http://tvip2017.ddns.net:8000/live/meo/meo/248.ts
-#EXTINF:0,ES: Canal   Fútbol
+#EXTINF:0,ES: Canal   FÃºtbol
 http://tvip2017.ddns.net:8000/live/meo/meo/249.ts
 #EXTINF:0,ES: Canal   Liga
 http://tvip2017.ddns.net:8000/live/meo/meo/250.ts
