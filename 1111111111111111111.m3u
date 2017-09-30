@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:0,[COLOR aqua][B] Sports Heaven [/B][/COLOR]
+http://ignore.ts
+
+#EXTINF:0,Sky Sports 1 uk
+http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1057.ts
+#EXTINF:0,Sky Sports 2 uk
+http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1058.ts
+#EXTINF:0,Sky Sports 3 uk
+http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1059.ts
+#EXTINF:0,Sky Sports 4 uk
+http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1072.ts
+#EXTINF:0,Sky Sports 5 uk
+http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1073.ts
 #EXTINF:0,|IN| Ten Sport
 http://major1.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/2709.ts
 #EXTINF:0,|IN| Ten Sport 1
@@ -90,16 +103,7 @@ http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/44.ts
 http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/43.ts
 #EXTINF:0,Fox Sports 6 Eredivisie nl
 http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/42.ts
-#EXTINF:0,Sky Sports 1 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1057.ts
-#EXTINF:0,Sky Sports 2 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1058.ts
-#EXTINF:0,Sky Sports 3 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1059.ts
-#EXTINF:0,Sky Sports 4 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1072.ts
-#EXTINF:0,Sky Sports 5 uk
-http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1073.ts
+
 #EXTINF:0,Sport TV 1 HD slo
 http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1467.ts
 #EXTINF:0,Sport TV 2 HD slo
