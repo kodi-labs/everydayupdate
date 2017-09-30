@@ -28,11 +28,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR blue][B] 01 [/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR aqua][B] 01 [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>http://best.ultrahd5.com:8000/get.php?username=suatbas46&amp;password=jqLIMNZGFk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://1sn.ns1.name:18800/get.php?username=barwa&amp;password=ki86gvd78h&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -52,7 +52,19 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - 03</title>
+	<title>Bliss Tv - [COLOR aqua][B] 03 [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=cameron&amp;password=cameron&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR aqua][B] 04[/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -64,7 +76,22 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - Game Changer</title>
+	<title>Bliss Tv - [COLOR orange][B] Bliss Sports [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
+<thumbnail>https://i.pinimg.com/736x/ce/34/4f/ce344f8d940a4ec86b87b0ab20db4216--nfl-arizona-cardinals.jpg</thumbnail>
+   <externallink>https://goo.gl/FwErbN$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red][B] Game Changer [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -100,6 +127,8 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 	</item>
 </streaminginfo>
 
+
+http://cypher-media.com/cypher/temp.m3u
 
 <streaminginfo>
 	<cname>number 07</cname>
