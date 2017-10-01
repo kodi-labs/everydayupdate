@@ -1,8 +1,68 @@
 #EXTM3U
 
-#EXTINF:0,[COLOR aqua][B] Sports Heaven [/B][/COLOR]
+#EXTINF:0,[COLOR aqua][B] Sports Heaven by BlissTv[/B][/COLOR]
 http://ignore.ts
 
+#EXTINF:0,|UK| BT Sports 1 FHD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/117.ts
+#EXTINF:0,|UK| BT Sports 2 FHD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/116.ts
+#EXTINF:0,|UK| BT Sports 3 FHD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/115.ts
+#EXTINF:0,|UK| BT Sports ESPN
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/114.ts
+#EXTINF:0,|UK| EIR SPORT 1 HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/27.ts
+#EXTINF:0,|UK| EIR SPORT 2 HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/26.ts
+#EXTINF:0,|UK| Sky Sport Arena HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/45.ts
+#EXTINF:0,|UK| Sky Sport Football HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/44.ts
+#EXTINF:0,|UK| Sky Sports Action HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/43.ts
+#EXTINF:0,|UK| Sky Sports Cricket HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/42.ts
+#EXTINF:0,|UK| SKY Sports F1 HD*
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/41.ts
+#EXTINF:0,|UK| Sky Sports Golf HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/40.ts
+#EXTINF:0,|UK| Sky Sports Main Events HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/39.ts
+#EXTINF:0,|UK| Sky Sports Mix HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/38.ts
+#EXTINF:0,|UK| Sky Sports News HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/37.ts
+#EXTINF:0,|UK| Sky Sports Premier League HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/36.ts
+#EXTINF:0,|FR| Bein Sport 1
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/225.ts
+#EXTINF:0,|FR| Bein Sport 2
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/224.ts
+#EXTINF:0,|FR| Bein Sport 3
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/223.ts
+#EXTINF:0,|US| Fox Sports 1 HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/320.ts
+#EXTINF:0,|US| Fox Sports 2 HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/319.ts
+#EXTINF:0,|US| Fox Sports West
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/278.ts
+#EXTINF:0,|US| WWE Network HD
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/311.ts
+#EXTINF:0,|PT| Sport TV
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1044.ts
+#EXTINF:0,|PT| Sport TV 1
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1043.ts
+#EXTINF:0,|PT| Sport TV 2
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1042.ts
+#EXTINF:0,|PT| Sport TV 3
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1041.ts
+#EXTINF:0,|PT| Sport TV 4
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1040.ts
+#EXTINF:0,|PT| Sport TV 5
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1039.ts
+#EXTINF:0,|SP| beIN Sports España
+http://major2.ipfox.co:8080/live/Etronics_kPPG8Q/7EreZB7S/1135.ts
 #EXTINF:0,Sky Sports 1 uk
 http://iptv-munja.ddns.net:8000/live/bozoboki/bokibozo/1057.ts
 #EXTINF:0,Sky Sports 2 uk
