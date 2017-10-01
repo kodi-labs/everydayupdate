@@ -28,10 +28,10 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] Video on Demand [/B][/COLOR]</title>
+	<title>[COLOR brown][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] Video on Demand by John Bliss [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>https://goo.gl/WMHBxN$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
