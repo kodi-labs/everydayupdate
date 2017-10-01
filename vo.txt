@@ -1,14 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erfUW4u.jpg" group-title="LABEL",* [COLOR red][B] A John Bliss' Project [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrlSOSH.jpg" group-title="LABEL",* [COLOR red][B] A John Bliss' Project [/B][/COLOR]
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/erfUW4u.jpg" group-title="LABEL",*  [COLOR purple][B] VOD by Optimum Bliss [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erfUW4u.jpg" group-title="LABEL",*  [COLOR gold][B] VOD by Optimum Bliss [/B][/COLOR]
 http://149.56.23.7:20082/stream
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
-http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/6-days-2017.87073.jpg" group-title="MOVIES",6 Days (2017)
 http://dl.movieo.ir/dlha/files/2017/6.Days.2017.720p.WEB-DL_(wWw.Movieo.IR).mkv.mp4
