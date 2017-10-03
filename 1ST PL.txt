@@ -27,11 +27,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR brown][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] WWE Collections & Shows [/B][/COLOR]</title>
+	<title>[COLOR yellow][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] WWE Collections & Shows [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://goo.gl/Uk4pqL</thumbnail>
-   <externallink>https://goo.gl/AQLofz$$TSDOWNLOADER$$</externallink>
+   <externallink>https://goo.gl/AQLofz</externallink>
 	</item>
 </streaminginfo>
 
