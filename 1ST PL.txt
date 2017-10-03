@@ -24,16 +24,9 @@
 </streaminginfo>
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR YELLOW][B] CRACK HEAD!![/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>https://goo.gl/URshSJ</externallink>
-	</item>
-</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
@@ -45,6 +38,8 @@
    <externallink>http://meowyapmeow.com:8080/get.php?username=saoohzpz&amp;password=pey8015UcC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
@@ -62,7 +57,30 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 01 [/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR red][B] Game Changer [/B][/COLOR] - Online</title>
+<link>ignore</link>
+<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
+<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <externallink>http://bit.ly/2xRQd5O$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR yellow][B] CRACK HEAD!![/B][/COLOR] - Satlinks working</title>
+<link>ignore</link>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>https://goo.gl/URshSJ</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -74,7 +92,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 02 [/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -86,7 +104,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 03 [/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -98,7 +116,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 04[/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
 <thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -122,16 +140,7 @@
 
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red][B] Game Changer [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>https://goo.gl/aQFQhV$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
+
 
 
 
