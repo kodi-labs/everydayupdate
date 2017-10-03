@@ -28,7 +28,7 @@
 	<cname>number 02</cname>
 	<item>
 	<title>[COLOR yellow][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] WWE Collections & Shows [/B][/COLOR]</title>
-<link>ignore</link>
+<link>https://goo.gl/AQLofz</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://goo.gl/Uk4pqL</thumbnail>
    <externallink>https://goo.gl/AQLofz</externallink>
