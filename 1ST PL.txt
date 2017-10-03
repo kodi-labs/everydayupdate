@@ -35,7 +35,16 @@
 	</item>
 </streaminginfo>
 
-
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR red][B] Bliss Tv [/B][/COLOR] - [COLOR lime][B] A GIFT from John Bliss [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://meowyapmeow.com:8080/get.php?username=saoohzpz&amp;password=pey8015UcC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 <streaminginfo>
 	<cname>number 02</cname>
