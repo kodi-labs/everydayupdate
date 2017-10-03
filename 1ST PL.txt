@@ -24,6 +24,13 @@
 </streaminginfo>
 
 
+<item>
+<title>[COLOR yellow]T[COLOR aqua]est Zone[/COLOR]</title>
+<Test>noop</Test>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
