@@ -27,11 +27,14 @@
 
 
 <streaminginfo>
+<cname>number 02</cname>
 <item>
 <title>[COLOR yellow]T[COLOR aqua]est Zone[/COLOR]</title>
+<link>ignore</link>
 <Test>noop</Test>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink>http://meowyapmeow.com:8080/get.php?username=saoohzpz&amp;password=pey8015UcC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 </streaminginfo>
 
