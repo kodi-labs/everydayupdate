@@ -48,7 +48,7 @@
 	<title>Bliss Tv - [COLOR lime][B] USA & U.K. - Sports channels included [/B][/COLOR] - Online</title>
 <link>ignore</link>
 <fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
    <externallink>http://bit.ly/2xYJqJ6</externallink>
 	</item>
 </streaminginfo>
