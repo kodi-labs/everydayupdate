@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1, -I WILL BAN YOU IF YOU SHARE ANY PLAYLIST ⊙﹏⊙
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
-#EXTINF:-1, -Donate to ==> paypal.me/optimumbliss
-plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
-#EXTINF:-1,-Donate to keep BliSSTv Alive
-plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
+
 #EXTINF:-1,-If a playlist is down try a diffrent playlist
 plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://LEAVEMYSTUFFCUNT.com
 
