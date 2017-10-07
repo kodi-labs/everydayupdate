@@ -41,6 +41,20 @@
 
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]A weekend gift from John[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://flawless-iptv.net:4545/get.php?username=b.irdycanflyy@gmail.com&amp;password=16k4ecHKn2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
