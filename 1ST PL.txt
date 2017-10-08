@@ -25,6 +25,39 @@
 
 
 
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR brown][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] Video on Demand by John Bliss [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://goo.gl/WMHBxN$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]Another weekend gift[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://anonymustv.tk:8000/get.php?username=27SIMOSul071017&amp;password=IxwrkregY5&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
@@ -67,19 +100,6 @@
    <externallink>http://bit.ly/2xYJqJ6</externallink>
 	</item>
 </streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] Video on Demand by John Bliss [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/WMHBxN$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
 
 
 <streaminginfo>
