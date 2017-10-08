@@ -25,18 +25,19 @@
 
 
 
-
 <streaminginfo>
-<cname>number 02</cname>
-<item>
-<title>[COLOR yellow]T[COLOR aqua]est Zone[/COLOR]</title>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR]</title>
 <link>ignore</link>
-<Test>noop</Test>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://meowyapmeow.com:8080/get.php?username=saoohzpz&amp;password=pey8015UcC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-</item>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://major2.ipfox.co:8080/get.php?username=winsor_ZdtMSC&amp;password=GhAUwb3w&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
 </streaminginfo>
+
 
 
 
@@ -86,8 +87,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR red][B] Game Changer [/B][/COLOR] - Online</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://bit.ly/2xRQd5O$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -98,8 +99,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR yellow][B] CRACK HEAD!! [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/2ND%20PL.txt$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -112,8 +113,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR lime][B] Mixed List [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://bit.ly/dailyupdatebliss$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -124,8 +125,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=ast&amp;password=ast&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -136,8 +137,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=cameron&amp;password=cameron&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -148,8 +149,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=beda&amp;password=beda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -160,8 +161,8 @@
 	<item>
 	<title>Bliss Tv - [COLOR orange][B] Bliss Sports [/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.pinimg.com/originals/c2/d6/ae/c2d6ae01eee313f9eaa02d78060c23da.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/ce/34/4f/ce344f8d940a4ec86b87b0ab20db4216--nfl-arizona-cardinals.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>https://goo.gl/FwErbN$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -179,8 +180,8 @@
 	<item>
 	<title>Bliss Tv - Local Channels & Radio</title>
 <link>ignore</link>
-<fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
-<thumbnail>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -191,19 +192,13 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 
 
 
-
-http://cypher-media.com/cypher/temp.m3u
-
-
-
-
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
 	<title>Bliss Tv - USA Special - Online</title>
 <link>ignore</link>
-<fanart>http://www.intrawallpaper.com/static/images/3D-WALLPAPER-5F7.jpg</fanart>
-<thumbnail>https://tyr-media.s3.amazonaws.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/g/lgsplusa-642_1_2.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
 <externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -214,8 +209,8 @@ http://cypher-media.com/cypher/temp.m3u
 	<item>
 	<title>Bliss Tv - [COLOR navy][B] Mania MK Special [/B][/COLOR] - UPDATED</title>
 <link>ignore</link>
-<fanart>http://motorcycle.com.vsassets.com/blog/wp-content/uploads/2014/08/080714-best-dirtbike-honorable-mention-2014-Yamaha-YZ250F-I.jpg</fanart>
-<thumbnail>http://2.bp.blogspot.com/-JU2G8LIPfHE/TaEZP7S1biI/AAAAAAAAJwo/rc4oE4weyh4/s1600/logo_mania_blog.jpg</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://major2.ipfox.co:8080/get.php?username=Etronics_kPPG8Q&amp;password=7EreZB7S&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -228,8 +223,8 @@ winsor_ZdtMSC&amp;password=GhAUwb3
 	<item>
 	<title>Bliss Tv - [COLOR navy][B] Marko Special [/B][/COLOR] - UPDATED</title>
 <link>ignore</link>
-<fanart>http://moshlab.com/wp-content/uploads/2015/06/England-Flag-3D-Unique-Wallpaper-Picture-Background-982820108233.jpg</fanart>
-<thumbnail>http://www.marko.tips/img/creator.png</thumbnail>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://slingiptv.ddns.net:9999/get.php?username=6FpeaNCFEL&amp;password=ZPldVwIQZi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
@@ -239,8 +234,10 @@ winsor_ZdtMSC&amp;password=GhAUwb3
 	<item>
 	<title>Bliss Tv - Stable IptV UPDATED</title>
 <link>ignore</link>
-<fanart>http://www.intrawallpaper.com/static/images/3d_wallpaper_pictures_2020_high_definition.jpeg</fanart>
-<thumbnail>http://www.intrawallpaper.com/static/images/supranatural-3d-wallpaper-images_FexRCUQ.jpg</thumbnail><externallink>http://smartiptvspain1.mine.nu:980/get.php?username=Ronnie&amp;password=Ronnie&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+
+<externallink>http://smartiptvspain1.mine.nu:980/get.php?username=Ronnie&amp;password=Ronnie&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
