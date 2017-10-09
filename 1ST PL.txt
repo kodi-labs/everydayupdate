@@ -69,12 +69,12 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow]ABSOLUTELY FANTASTIC[/COLOR]</title>
+	<title>Bliss Tv - [COLOR yellow]ABSOLUTELY FANTASTIC..[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://31.220.2.50:25461/get.php?username=Free200&amp;password=Free200&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://31.220.2.50:25461/get.php?username=Free200&password=Free200&type=m3u</externallink>
    
 	</item>
 </streaminginfo>
