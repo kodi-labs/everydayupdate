@@ -65,32 +65,6 @@
 
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow]Another weekend gift[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-
-   <externallink>http://anonymustv.tk:8000/get.php?username=27SIMOSul071017&amp;password=IxwrkregY5&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-   
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow]ABSOLUTELY FANTASTIC - wORKING[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-
-   <externallink>http://31.220.2.50:25461/get.php?username=Free200&password=Free200&type=m3u$$TSDOWNLOADER$$</externallink>
-   
-	</item>
-</streaminginfo>
 
 
 
@@ -111,17 +85,7 @@
 
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow]A weekend gift from John[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
-   <externallink>http://flawless-iptv.net:4545/get.php?username=b.irdycanflyy@gmail.com&amp;password=16k4ecHKn2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
 
 
@@ -203,7 +167,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -215,7 +179,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR orange][B] Bliss Sports [/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR orange][B] Bliss Sports [/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -251,7 +215,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 07</cname>
 	<item>
-	<title>Bliss Tv - USA Special - Online</title>
+	<title>Bliss Tv - USA Special - [COLOR red] OFFLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -263,7 +227,7 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 <streaminginfo>
 	<cname>number 03</cname>
 	<item>
-	<title>Bliss Tv - [COLOR navy][B] Mania MK Special [/B][/COLOR] - UPDATED</title>
+	<title>Bliss Tv - [COLOR navy][B] Mania MK Special [/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -277,7 +241,7 @@ winsor_ZdtMSC&amp;password=GhAUwb3
 <streaminginfo>
 	<cname>number 03</cname>
 	<item>
-	<title>Bliss Tv - [COLOR navy][B] Marko Special [/B][/COLOR] - UPDATED</title>
+	<title>Bliss Tv - [COLOR navy][B] Marko Special[COLOR red] OFFLINE[/COLOR] [/B][/COLOR] - UPDATED</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -288,7 +252,7 @@ winsor_ZdtMSC&amp;password=GhAUwb3
 <streaminginfo>
 	<cname>number 05</cname>
 	<item>
-	<title>Bliss Tv - Stable IptV UPDATED</title>
+	<title>Bliss Tv - Stable IptV -[COLOR red] OFFLINE[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -315,116 +279,7 @@ http://sekoiptv.ddns.net:8080/get.php?username=ism&amp;password=ism&amp;type=m3u
 http://no1dadicated.tk:8000/get.php?username=cuda&amp;password=cuda&amp;type=m3u&amp;output=mpegts
 
 
-<streaminginfo>
-	<cname>number 06</cname>
-	<item>
-	<title>Bliss Tv - Polish</title>
-<link>ignore</link>
-<fanart>https://images.techhive.com/images/article/2017/03/offline-100713020-large.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>http://xc.cobra-iptv.com:25461/get.php?username=polonia-v2&amp;password=QgCj3B6VSz&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
-
-<streaminginfo>
-	<cname>number 06</cname>
-	<item>
-	<title>Bliss Tv - Italiano</title>
-<link>ignore</link>
-<fanart>https://images.techhive.com/images/article/2017/03/offline-100713020-large.jpg</fanart>
-<thumbnail>https://yt3.ggpht.com/-vbJI3xc3EgA/AAAAAAAAAAI/AAAAAAAAAAA/BHrKEdOu2eA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-   <externallink>http://cdnlive1.win/get.php?username=nm91gFBeKa&amp;password=6FHUMQynRW&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
- 
-<streaminginfo>
-	<cname>number 08</cname>
-	<item>
-	<title>Bliss Tv - U.K. Special</title>
-<link>ignore</link>
-<fanart>http://c1038.r38.cf3.rackcdn.com/group1/building9062/media/02dvbm0.jpg</fanart>
-<thumbnail>https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2017/04/17/15/union-jack.jpg</thumbnail>
-   <externallink>http://we-you-iptv.tv:8000/get.php?username=active&amp;password=active&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 09</cname>
-	<item>
-	<title>BlissTv - 10$ IPTv l0l OFFLINE</title>
-<link>ignore</link>
-<fanart>https://lh3.googleusercontent.com/Jaf2loxMTNo0Fzn-3NaSO8U4SYsX12L4qZEsUYgF28pLHWmBgMcNiwk4YBGBWV4hl1NN=h900</fanart>
-<thumbnail>http://www.freakingnews.com/pictures/112000/100-Dollar-Bill-with-Barack-Obama-112416.jpg</thumbnail>
-   <externallink>http://midnightiptvstreams.ddns.net:5050/get.php?username=wolf&amp;password=wolf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo
-	<cname>number 04</cname>
-	<item>
-	<title>Bliss Tv - TPK TEMP 01 OFFLINE</title>
-<link>ignore</link>
-<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
-<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
-   <externallink>http://thepk.co:209/get.php?username=tyler&amp;password=tyler2017&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo
-	<cname>number 04</cname>
-	<item>
-	<title>Bliss Tv - TPK TEMP 02 OFFLINE</title>
-<link>ignore</link>
-<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
-<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
-   <externallink>http://thepk.co:2095/get.php?username=bigal1&amp;password=bigal1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 04</cname>
-	<item>
-	<title>Bliss Tv - Offline</title>
-<link>ignore</link>
-<fanart>https://cnet3.cbsistatic.com/img/X1IQS8awJ2BdXCcnLvBO-CP4oYs=/1600x900/2017/08/16/6f313636-ac89-494e-b9ca-c144d7cea84e/terminator-2-3d-arnie-movie-screenfinal-hero-2000.jpg</fanart>
-<thumbnail>http://www.intrawallpaper.com/static/images/3d-wallpaper-etcfn-19.jpg</thumbnail>
-   <externallink>http://thepk.co:2095/get.php?username=freeme&amp;password=free4me&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$
-</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR red][B] Bliss Tv [/B][/COLOR] - [COLOR lime][B] OFFLINE [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://meowyapmeow.com:8080/get.php?username=saoohzpz&amp;password=pey8015UcC&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-<streaminginfo
-	<cname>number 07</cname>
-	<item>
-	<title>INTERESTING SECTION - COMING SOON</title>
-<link>ignore</link>
-<fanart>http://p1.pichost.me/i/42/1650746.jpg</fanart>
-<thumbnail>http://www.affaritaliani.it/static/upl2014/robe/0007/roberta-gemma-film-07.jpg</thumbnail>
-   <externallink>http://ipyou.tk:8000/get.php?username=freeworldwideiptv.com&amp;password=sports0213&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
 
 
