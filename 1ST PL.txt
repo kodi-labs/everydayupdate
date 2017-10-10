@@ -51,6 +51,19 @@
 
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR red] Bliss Tv [/COLOR] - [COLOR cyan][B] Mania MK Returns [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>http://www.excelmotorcycletraining.co.uk/images/1.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://bit.ly/maniaricks</externallink>
+	</item>
+</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
