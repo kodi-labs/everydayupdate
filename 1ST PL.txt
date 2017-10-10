@@ -12,6 +12,19 @@
 </streaminginfo> 
 
 
+
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title>| [COLOR cyan] Hope you're enjoying the playlists :) [/COLOR] |</title>
+<link>ignore</link>
+<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
+<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
@@ -83,6 +96,28 @@
 
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 01</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://goo.gl/hJqDYp$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 02</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://goo.gl/TX7Wvv$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 
 
@@ -102,16 +137,7 @@
 </streaminginfo>
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red][B] Game Changer [/B][/COLOR] - Online</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bit.ly/2xRQd5O$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
