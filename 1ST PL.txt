@@ -89,7 +89,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][I][B] Blazing Mode [/B][/I][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR red][I][B] Blazing Mode [/B][/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
