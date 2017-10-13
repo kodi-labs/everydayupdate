@@ -85,11 +85,24 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][i] Quality Streaming but trial account [/i][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://bestvision.selfip.biz:10051/get.php?username=Antonio.digennaro&amp;password=tYRJFgKFeh&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR]</title>
+	<title>Bliss Tv - [COLOR yellow][i]Buffering Klub :P[/i][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
