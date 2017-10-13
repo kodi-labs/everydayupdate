@@ -88,7 +88,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][i] Quality Streaming but trial account [/i][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][I] Quality Streaming but trial account [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -102,7 +102,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow][i]Buffering Klub :P[/i][/COLOR]</title>
+	<title>Bliss Tv - [COLOR yellow][I]Buffering Klub :P[/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
