@@ -12,17 +12,41 @@
 </streaminginfo> 
 
 
-
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR cyan] Hope you're enjoying the playlists :) [/COLOR] |</title>
+	<title> [COLOR cyan] I am not the owner of any of these servers, links in this playlist acquire from the free internet resources [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title> [COLOR cyan] I don't like complains :) So please.. [/COLOR] </title>
+<link>ignore</link>
+<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
+<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title>| [COLOR red] 13th October - More servers added [/COLOR] |</title>
+<link>ignore</link>
+<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
+<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
 
 
 <streaminginfo>
@@ -62,25 +86,6 @@
 </streaminginfo>
 
 
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR red] Bliss Tv [/COLOR] - [COLOR cyan][B] Mania MK Returns [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>http://www.excelmotorcycletraining.co.uk/images/1.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bit.ly/maniaricks</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
@@ -91,6 +96,62 @@
 
    <externallink>http://major2.ipfox.co:8080/get.php?username=winsor_ZdtMSC&amp;password=GhAUwb3w&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
    
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR] Line 02</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://major2.ipfox.co:8080/get.php?username=winsor_BRKdS5&amp;password=G4lOS1yD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR gold]Vanquisher[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://drop1.ipfox.co:8080/get.php?username=winsor_BRKdS5&amp;password=G4lOS1yD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B] Power House [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://server.poweriptv.cl:25461/get.php?username=asd123&amp;password=asd123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B] Attitude Adjustment [/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://server.poweriptv.cl:25461/get.php?username=pato&amp;password=pato&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
