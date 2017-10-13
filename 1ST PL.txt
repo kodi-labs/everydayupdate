@@ -94,6 +94,22 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
 
+   <externallink>http://thepk.co:2086/get.php?username=viking15&amp;password=viking15&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+http://thepk.co:2086/live/viking15/viking15/187.ts
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
    <externallink>http://major2.ipfox.co:8080/get.php?username=winsor_ZdtMSC&amp;password=GhAUwb3w&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
    
 	</item>
@@ -120,7 +136,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR gold]Vanquisher[/COLOR]</title>
+	<title>Bliss Tv - [COLOR gold]Vanquisher - Indian Channels inside[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
@@ -129,6 +145,25 @@
    
 	</item>
 </streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR pink]AURIBUS TENEO LUPUM[/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://us.iptvlatino.xyz:25461/get.php?username=lucas&amp;password=lucas&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
+	</item>
+</streaminginfo>
+
+
+
+
+
 
 
 <streaminginfo>
