@@ -85,6 +85,21 @@
 	</item>
 </streaminginfo>
 
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][I][B] Blazing Mode [B][/I][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://1pipo.ca:25461/get.php?username=1255&amp;password=1255&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+http://1pipo.ca:25461/get.php?username=1255&password=1255&type=m3u
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
