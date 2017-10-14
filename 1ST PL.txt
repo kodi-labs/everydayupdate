@@ -89,11 +89,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR red][I][B] Blazing Mode [/B][/I][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR gold][I][B] Blazing Mode [/B][/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://1pipo.ca:25461/get.php?username=1255&amp;password=1255&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://ok2.se:8000/get.php?username=birdy.canflyy.@gmail.com&amp;password=wszqvatt&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
