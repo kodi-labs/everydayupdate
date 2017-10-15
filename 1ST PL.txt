@@ -101,7 +101,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR red] Bliss Tv [/COLOR] - [COLOR gold][I][B] Working 100% [/B][/I][/COLOR]</title>
+	<title>[COLOR purple][B] Bliss Tv [/B][/COLOR] - [COLOR gold][I][B] Working 100% [/B][/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
