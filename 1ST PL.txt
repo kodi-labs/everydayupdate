@@ -87,7 +87,16 @@
 
 
 
-
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] [/I][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/sports.txt$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 
 
