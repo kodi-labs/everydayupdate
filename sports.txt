@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,FR: BeinSports 1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/1.ts
+#EXTINF:-1,FR: BeinSports 2 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/2.ts
+#EXTINF:-1,FR: BeinSports 3 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/3.ts
+#EXTINF:-1,FR: BeinSports 4 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/4.ts
+#EXTINF:-1,FR: BeinSports 5 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/5.ts
+#EXTINF:-1,FR: BeinSports 6 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/6.ts
+#EXTINF:-1,FR: BeinSports 7 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/7.ts
+#EXTINF:-1,FR: BeinSports 8 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/8.ts
+#EXTINF:-1,FR: BeinSports 9 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/9.ts
+#EXTINF:-1,FR: BeinSports 10 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/10.ts
+#EXTINF:-1,FR: CANAL  SPORT --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/16.ts
+#EXTINF:-1,FR: TF1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/42.ts
+#EXTINF:-1,FR: HD 1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/43.ts
+#EXTINF:-1,AR: Bein sport 1 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/49.ts
+#EXTINF:-1,AR: Bein sport 1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/24.ts
+#EXTINF:-1,AR: Bein sport 2 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/50.ts
+#EXTINF:-1,AR: Bein sport 2 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/25.ts
+#EXTINF:-1,AR: Bein sport 3 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/51.ts
+#EXTINF:-1,AR: Bein sport 3 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/26.ts
+#EXTINF:-1,AR: Bein sport 4 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/52.ts
+#EXTINF:-1,AR: Bein sport 4 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/27.ts
+#EXTINF:-1,AR: Bein sport 5 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/53.ts
+#EXTINF:-1,AR: Bein sport 5 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/28.ts
+#EXTINF:-1,AR: Bein sport 6 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/54.ts
+#EXTINF:-1,AR: Bein sport 6 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/29.ts
+#EXTINF:-1,AR: Bein sport 7 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/55.ts
+#EXTINF:-1,AR: Bein sport 7 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/30.ts
+#EXTINF:-1,AR: Bein sport 8 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/56.ts
+#EXTINF:-1,AR: Bein sport 8 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/31.ts
+#EXTINF:-1,AR: Bein sport 9 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/57.ts
+#EXTINF:-1,AR: Bein sport 9 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/32.ts
+#EXTINF:-1,AR: Bein sport 10 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/33.ts
+#EXTINF:-1,AR: AD Sport 1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/45.ts
+#EXTINF:-1,AR: AD Sport 2 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/46.ts
+#EXTINF:-1,Uk: Sky Sports 1 --www. ipmagtv.com
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/64.ts
+#EXTINF:-1,Uk: Sky Sports 2 --www. ipmagtv.com
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/65.ts
+#EXTINF:-1,Uk: Sky Sports 3 --www. ipmagtv.com
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/66.ts
+#EXTINF:-1,Uk: Sky Sports 4 --www. ipmagtv.com
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/67.ts
+#EXTINF:-1,UK: BT Sport 1 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/59.ts
+#EXTINF:-1,UK: BT Sport 2 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/60.ts
+#EXTINF:-1,UK: BT Sport 3 --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/61.ts
+#EXTINF:-1,Sport klub 1 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/84.ts
+#EXTINF:-1,Sport klub 2 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/85.ts
+#EXTINF:-1,Sport klub 3 HD --BlissTv
+http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/86.ts
