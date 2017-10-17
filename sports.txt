@@ -67,13 +67,13 @@ http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/33.ts
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/45.ts
 #EXTINF:-1,AR: AD Sport 2 --BlissTv
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/46.ts
-#EXTINF:-1,Uk: Sky Sports 1 --www. ipmagtv.com
+#EXTINF:-1,Uk: Sky Sports 1 --
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/64.ts
-#EXTINF:-1,Uk: Sky Sports 2 --www. ipmagtv.com
+#EXTINF:-1,Uk: Sky Sports 2 -
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/65.ts
-#EXTINF:-1,Uk: Sky Sports 3 --www. ipmagtv.com
+#EXTINF:-1,Uk: Sky Sports 3 --
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/66.ts
-#EXTINF:-1,Uk: Sky Sports 4 --www. ipmagtv.com
+#EXTINF:-1,Uk: Sky Sports 4 --
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/67.ts
 #EXTINF:-1,UK: BT Sport 1 --BlissTv
 http://185.13.36.27:8080/live/1710-BlissTv/FghbJjuY7jk/59.ts
