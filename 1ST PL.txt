@@ -131,7 +131,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR]</title>
+	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR] Offline</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
@@ -145,7 +145,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR] Line 02</title>
+	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR] Offline</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
@@ -162,7 +162,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR gold]Vanquisher - Indian Channels inside[/COLOR]</title>
+	<title>Bliss Tv - [COLOR gold]Vanquisher - Offline[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
