@@ -39,7 +39,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR cyan] 20th October - All playlists are fixed [/COLOR] |</title>
+	<title>| [COLOR yellow] 21st October - All playlists are fixed [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -103,7 +103,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] [/I][/COLOR]</title>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] - Fixed [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -118,13 +118,15 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR cyan][I][B] Quality Streaming  [/B] [/I][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Weekend here, Gift is back lmao  [/B] [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://tv2iptv.com:8000/get.php?username=laurent&amp;password=123456&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://power-iptv.dynu.net:12580/get.php?username=Poweriptv20102&amp;password=U2NLNdhlxg&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
+
 
 
 
