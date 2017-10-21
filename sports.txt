@@ -72,3 +72,913 @@ http://163.172.18.54:8000/live/5245G0LCKqd94P/25TE014mD41788/38.ts
 http://163.172.18.54:8000/live/5245G0LCKqd94P/25TE014mD41788/37.ts
 #EXTINF:-1,SPAIN | BeIN Sports
 http://163.172.18.54:8000/live/5245G0LCKqd94P/25TE014mD41788/26.ts
+
+#EXTINF:0,AR:BEIN_SPORTS_1_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7767.ts
+#EXTINF:0,AR:BEIN_SPORTS_2_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7766.ts
+#EXTINF:0,AR:BEIN_SPORTS_3_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7765.ts
+#EXTINF:0,AR:BEIN_SPORTS_4_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7764.ts
+#EXTINF:0,AR:BEIN_SPORTS_5_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7763.ts
+#EXTINF:0,AR:BEIN_SPORTS_6_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7762.ts
+#EXTINF:0,AR:BEIN_SPORTS_7_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7761.ts
+#EXTINF:0,AR:BEIN_SPORTS_8_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7760.ts
+#EXTINF:0,AR:BEIN_SPORTS_9_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7759.ts
+#EXTINF:0,AR:BEIN_SPORTS_10_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7758.ts
+#EXTINF:0,|AR| BEIN SPORT HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12745.ts
+#EXTINF:0,AR:BEIN_NEWS_HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7757.ts
+#EXTINF:0,|AR| BEIN SPORTS NEWS HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12744.ts
+#EXTINF:0,FR BEIN SPORT 1 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7117.ts
+#EXTINF:0,FR BEIN SPORT 2 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7118.ts
+#EXTINF:0,FR BEIN SPORT 3 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7119.ts
+#EXTINF:0,FR BEIN SPORT 4 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/7130.ts
+#EXTINF:0,BEIN SPORT 5 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/11862.ts
+#EXTINF:0,BEIN SPORT 6 HD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/11861.ts
+#EXTINF:0,FR: SFR SPORT 1 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12193.ts
+#EXTINF:0,FR: SFR SPORT 1 FHD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12194.ts
+#EXTINF:0,|FR| SFR SPORT 1 FHD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12786.ts
+#EXTINF:0,|FR| SFR SPORT 2 FHD 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12787.ts
+#EXTINF:0,FR SFR SPORT 2 FHD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12192.ts
+#EXTINF:0,FR SFR SPORT 3 FHD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12191.ts
+#EXTINF:0,FR SFR SPORT 5 HD
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12189.ts
+#EXTINF:0,[FR] CANAL+ SPORT 
+http://look02.vipid.org:8000/live/smartsat4.144/NetJWEBm/12783.ts
+#EXTINF:0,bein3 backup1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5731.ts
+#EXTINF:0,bein3 backup-2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5732.ts
+#EXTINF:0,bein3 backup-3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5733.ts
+#EXTINF:0,bein3 backup-4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5734.ts
+#EXTINF:0,bein3 backup-5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5735.ts
+#EXTINF:0,bein3 backup-6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5736.ts
+#EXTINF:0,FR: BEIN SPORT MAX 4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5661.ts
+#EXTINF:0,FR: BEIN SPORT MAX 5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5662.ts
+#EXTINF:0,FR: BEIN SPORT MAX 6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5663.ts
+#EXTINF:0,FR: BEIN SPORT MAX 7
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5664.ts
+#EXTINF:0,|FR| BEIN MAX 8
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5665.ts
+#EXTINF:0,|FR| BEIN MAX 9
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5666.ts
+#EXTINF:0,|FR| BEIN MAX 10
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5667.ts
+#EXTINF:0,bein1.backup-1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5659.ts
+#EXTINF:0,BeinSports1.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1952.ts
+#EXTINF:0,BeinSports2.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1953.ts
+#EXTINF:0,BeinSports3.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1954.ts
+#EXTINF:0,BeinSports4.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1955.ts
+#EXTINF:0,BeinSports5.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1956.ts
+#EXTINF:0,BeinSports6.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1957.ts
+#EXTINF:0,BeinSports7.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1958.ts
+#EXTINF:0,BeinSports8.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1959.ts
+#EXTINF:0,BeinSports9.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1960.ts
+#EXTINF:0,BeinSportsNews.SD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1961.ts
+#EXTINF:0,BeinSports1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/971.ts
+#EXTINF:0,BeinSports2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/972.ts
+#EXTINF:0,BeinSports3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/973.ts
+#EXTINF:0,BeinSports4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/974.ts
+#EXTINF:0,BeinSports5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/975.ts
+#EXTINF:0,BeinSports6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/976.ts
+#EXTINF:0,BeinSports7
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/977.ts
+#EXTINF:0,BeinSports8
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/978.ts
+#EXTINF:0,BeinSports9
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/979.ts
+#EXTINF:0,BeinSports10
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/980.ts
+#EXTINF:0,beinsports11
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/981.ts
+#EXTINF:0,beinsports12
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/982.ts
+#EXTINF:0,beinsports13
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/984.ts
+#EXTINF:0,beinsports14
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/985.ts
+#EXTINF:0,beinsports15
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/986.ts
+#EXTINF:0,BeinSports.16
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1937.ts
+#EXTINF:0,beINSPORTNews
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2878.ts
+#EXTINF:0,RO=Digi-Sport-1-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5692.ts
+#EXTINF:0,RO=Digi-Sport-2-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5693.ts
+#EXTINF:0,RO=Digi-Sport-3-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5694.ts
+#EXTINF:0,RO=Digi-Sport-4-HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5695.ts
+#EXTINF:0,EX-YU:Sport_Klub1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5698.ts
+#EXTINF:0,EX-YU:Sport_Klub2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5697.ts
+#EXTINF:0,EX-YU:Sport_Klub3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5696.ts
+#EXTINF:0,MBCProSport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2873.ts
+#EXTINF:0,MBCProSport2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2874.ts
+#EXTINF:0,MBCProSport3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2875.ts
+#EXTINF:0,MBCProSport4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2876.ts
+#EXTINF:0,ADSport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2869.ts
+#EXTINF:0,ADSport2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2870.ts
+#EXTINF:0,ADSport3
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2607.ts
+#EXTINF:0,ADSport4
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2608.ts
+#EXTINF:0,ADSport5
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2609.ts
+#EXTINF:0,ADSport6
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/2610.ts
+#EXTINF:0,OSn-WWE
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5668.ts
+#EXTINF:0,primaFila-WWE
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/5669.ts
+#EXTINF:0,FR-BEINSPORT1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1145.ts
+#EXTINF:0,FR-BEINSPORT2hd
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1146.ts
+#EXTINF:0,FR-BEINSPORT3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1147.ts
+#EXTINF:0,FR-SFRSPORT1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3421.ts
+#EXTINF:0,FR-SFRSPORT2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3422.ts
+#EXTINF:0,FR-SFRSPORT3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3423.ts
+#EXTINF:0,FR-Eurosport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1022.ts
+#EXTINF:0,FR-Eurosport2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1021.ts
+#EXTINF:0,FR-InfoSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1012.ts
+#EXTINF:0,FR-MaChaineSport
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1007.ts
+#EXTINF:0,IT-SkySport.HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1283.ts
+#EXTINF:0,IT-SkySport.F1.HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1253.ts
+#EXTINF:0,IT-SkySport.1.HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1281.ts
+#EXTINF:0,IT-SkySport.24
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1282.ts
+#EXTINF:0,IT-SkySport.3.HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1284.ts
+#EXTINF:0,DE-SkySport1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1157.ts
+#EXTINF:0,DE-Sky-Sport2.HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1158.ts
+#EXTINF:0,DE-Sport1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1159.ts
+#EXTINF:0,ES.Canal Futbol
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1925.ts
+#EXTINF:0,Tr-LIGTV3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3426.ts
+#EXTINF:0,Tr-LIGTV2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3425.ts
+#EXTINF:0,Tr-LIGTV1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3424.ts
+#EXTINF:0,UK.BT-Sports1
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1349.ts
+#EXTINF:0,UK.BT-Sports2
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1348.ts
+#EXTINF:0,UK.Sky-Sports1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1324.ts
+#EXTINF:0,UK.Sky-Sports2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1323.ts
+#EXTINF:0,UK.Sky-Sports3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1322.ts
+#EXTINF:0,UK.Sky-Sports4HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1321.ts
+#EXTINF:0,UK.Sky-Sports5HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/3070.ts
+#EXTINF:0,UK.SkySports.F1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1320.ts
+#EXTINF:0,SPORTKLUB3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1969.ts
+#EXTINF:0,SPORTKLUB2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1970.ts
+#EXTINF:0,SPORTKLUB1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1971.ts
+#EXTINF:0,SLO-SPORTTV1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1977.ts
+#EXTINF:0,AL.SuperSport.1HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1693.ts
+#EXTINF:0,AL.SuperSport.2HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1692.ts
+#EXTINF:0,AL.SuperSport.3HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1691.ts
+#EXTINF:0,AL.SuperSport.4HD
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1690.ts
+#EXTINF:0,ARENASPORT1HDHR
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1976.ts
+#EXTINF:0,ARENASPORT2HDHR
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1975.ts
+#EXTINF:0,ARENASPORT3HDHR
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1974.ts
+#EXTINF:0,ARENASPORT4HDHR
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1973.ts
+#EXTINF:0,ARENASPORT5HDHR
+http://iptv333.expertshort.net:8000/live/mounir/mimouna/1972.ts
+#EXTINF:0,beinsport FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/11448.ts
+#EXTINF:0,Bein Sports News HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/585.ts
+#EXTINF:0,Bein Movie 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/586.ts
+#EXTINF:0,Bein Movie 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/587.ts
+#EXTINF:0,Bein Movies 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/781.ts
+#EXTINF:0,Bein Movies 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4697.ts
+#EXTINF:0,BeinSports News HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6226.ts
+#EXTINF:0,BeInSport 1 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/13.ts
+#EXTINF:0,BeInSport 2 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/14.ts
+#EXTINF:0,BeInSport 3 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/15.ts
+#EXTINF:0,BeInSport 4 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/16.ts
+#EXTINF:0,BeInSport 5 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/17.ts
+#EXTINF:0,BeInSport 6 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/18.ts
+#EXTINF:0,BeInSport 7 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/19.ts
+#EXTINF:0,BeInSport 8 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/20.ts
+#EXTINF:0,BeInSport 9 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/21.ts
+#EXTINF:0,BeInSport 10 HD (AR)
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/22.ts
+#EXTINF:0,BeInSport 11 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3714.ts
+#EXTINF:0,BeInSport 12 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3715.ts
+#EXTINF:0,BeInSport 13 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3716.ts
+#EXTINF:0,BeInSport 14 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3717.ts
+#EXTINF:0,BeInSport 15 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3718.ts
+#EXTINF:0,BeInSport 16 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3719.ts
+#EXTINF:0,VIP: BeiN Sports hd1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3778.ts
+#EXTINF:0,VIP: BeiN Sports hd2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3779.ts
+#EXTINF:0,VIP: BeiN Sports hd3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3780.ts
+#EXTINF:0,VIP: BeiN Sports hd4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3781.ts
+#EXTINF:0,VIP: BeiN Sports hd5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3782.ts
+#EXTINF:0,VIP: BeiN Sports hd6
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3783.ts
+#EXTINF:0,VIP: BeiN Sports hd7
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3784.ts
+#EXTINF:0,VIP: BeiN Sports hd8
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3785.ts
+#EXTINF:0,VIP: BeiN Sports hd9
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3786.ts
+#EXTINF:0,VIP: BeiN Sports hd10
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3787.ts
+#EXTINF:0,VIP: BeiN Sports hd11
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3788.ts
+#EXTINF:0,VIP: BeiN Sports hd12
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3789.ts
+#EXTINF:0,VIP: BeiN Sports hd13
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3790.ts
+#EXTINF:0,VIP: BeiN Sports hd14
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3791.ts
+#EXTINF:0,VIP: BeiN Sports hd15
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3792.ts
+#EXTINF:0,VIP: BeiN Sports hd16
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3793.ts
+#EXTINF:0,Arabe: AD SPORT 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9617.ts
+#EXTINF:0,Arabe: AD SPORT 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9618.ts
+#EXTINF:0,Arabe: AD SPORT 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3761.ts
+#EXTINF:0,Arabe: AD SPORT 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3762.ts
+#EXTINF:0,Arabe: AD SPORT 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3763.ts
+#EXTINF:0,Arabe: ON Sport
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10935.ts
+#EXTINF:0,FR: Beinsport 1 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6154.ts
+#EXTINF:0,FR: Beinsport 1 FHD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6840.ts
+#EXTINF:0,FR: beINSport 1 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5426.ts
+#EXTINF:0,Beinsport HD 1 LOCAL
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6225.ts
+#EXTINF:0,FR: beINSport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/51.ts
+#EXTINF:0,FR: beINSport 1 SD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6168.ts
+#EXTINF:0,FR: Beinsport 2 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6155.ts
+#EXTINF:0,FR: Beinsport 2 FHD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6839.ts
+#EXTINF:0,FR: beINSport 2 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5427.ts
+#EXTINF:0,Beinsport HD 2 LOCAL
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6238.ts
+#EXTINF:0,FR: beINSport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/52.ts
+#EXTINF:0,FR: beINSport 2 SD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6169.ts
+#EXTINF:0,FR: Beinsport 3 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6156.ts
+#EXTINF:0,FR: Beinsport 3 FHD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6838.ts
+#EXTINF:0,FR: beINSport 3 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5428.ts
+#EXTINF:0,FR: beINSport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/53.ts
+#EXTINF:0,FR: beINSport 3 SD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6170.ts
+#EXTINF:0,FR: Canal+ Sport FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6694.ts
+#EXTINF:0,FR: Canal+ Sport HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5949.ts
+#EXTINF:0,FR: Canal+ Sport HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/74.ts
+#EXTINF:0,FR: Canal+ Sport SD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10418.ts
+#EXTINF:0,FR: BEIN MAX 4 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6198.ts
+#EXTINF:0,FR: BEIN MAX 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1282.ts
+#EXTINF:0,FR: BEIN MAX 5 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6199.ts
+#EXTINF:0,FR: BEIN MAX 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1283.ts
+#EXTINF:0,FR: BEIN MAX 6 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6200.ts
+#EXTINF:0,FR: BEIN MAX 6 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1284.ts
+#EXTINF:0,FR: BEIN MAX 7 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6201.ts
+#EXTINF:0,FR: BEIN MAX 7 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1285.ts
+#EXTINF:0,FR: BEIN MAX 8 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6202.ts
+#EXTINF:0,FR: BEIN MAX 8 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1320.ts
+#EXTINF:0,FR: BEIN MAX 9 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6203.ts
+#EXTINF:0,FR: BEIN MAX 10 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6204.ts
+#EXTINF:0,FR: Foot+ 24/24 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10607.ts
+#EXTINF:0,FR: Foot+ 24/24 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/56.ts
+#EXTINF:0,FR: InfoSport FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10608.ts
+#EXTINF:0,FR: InfoSport HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10609.ts
+#EXTINF:0,FR: InfoSport HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/57.ts
+#EXTINF:0,FR: OM TV HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6869.ts
+#EXTINF:0,FR: Eurosport 1 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10611.ts
+#EXTINF:0,FR: Eurosport 1 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6185.ts
+#EXTINF:0,FR: Eurosport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/54.ts
+#EXTINF:0,FR: Eurosport 2 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6186.ts
+#EXTINF:0,FR: Eurosport 2 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10610.ts
+#EXTINF:0,FR: Eurosport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1927.ts
+#EXTINF:0,FR: Equipe 21 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10612.ts
+#EXTINF:0,FR: Equipe 21 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10613.ts
+#EXTINF:0,FR: Equipe 21 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1546.ts
+#EXTINF:0,FR: Equidia Live FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10615.ts
+#EXTINF:0,FR: Equidia Live HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10614.ts
+#EXTINF:0,FR: Equidia Live HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1545.ts
+#EXTINF:0,FR: Equidia Life FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10616.ts
+#EXTINF:0,FR: Equidia Life HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10617.ts
+#EXTINF:0,FR: EQUIDIA LIFE HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4260.ts
+#EXTINF:0,FR: SFR Sport 1 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9594.ts
+#EXTINF:0,FR: SFR Sport 1 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5876.ts
+#EXTINF:0,FR: SFR Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3765.ts
+#EXTINF:0,FR: SFR Sport 2 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9595.ts
+#EXTINF:0,FR: SFR Sport 2 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6159.ts
+#EXTINF:0,FR: SFR Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3726.ts
+#EXTINF:0,FR: SFR Sport 3 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9596.ts
+#EXTINF:0,FR: SFR Sport 3 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6160.ts
+#EXTINF:0,FR: SFR Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3798.ts
+#EXTINF:0,FR: SFR Sport 5 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9607.ts
+#EXTINF:0,FR: SFR Sport 5 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6161.ts
+#EXTINF:0,FR: SFR Sport 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4723.ts
+#EXTINF:0,FR: MultiSport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10601.ts
+#EXTINF:0,FR: MultiSport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10602.ts
+#EXTINF:0,FR: MultiSport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10603.ts
+#EXTINF:0,FR: MultiSport 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10604.ts
+#EXTINF:0,FR: MultiSport 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10605.ts
+#EXTINF:0,FR: MultiSport 6 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10606.ts
+#EXTINF:0,FR: BFM SPORT HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4734.ts
+#EXTINF:0,FR: AB MOTEUR HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2154.ts
+#EXTINF:0,FR: Golf + FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5528.ts
+#EXTINF:0,FR: Golf + HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10619.ts
+#EXTINF:0,FR: Golf Channel FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10620.ts
+#EXTINF:0,FR: Golf Channel HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10621.ts
+#EXTINF:0,FR: Golf Channel HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9605.ts
+#EXTINF:0,FR: MOTORS TV HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6868.ts
+#EXTINF:0,FR: Trace Sport Stars FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9864.ts
+#EXTINF:0,BE: VOO SPORT 1 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4540.ts
+#EXTINF:0,BE: VOO SPORT 1 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/722.ts
+#EXTINF:0,BE: VOO SPORT 2 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6664.ts
+#EXTINF:0,BE: VOO SPORT 2 HD-S
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6158.ts
+#EXTINF:0,BE: VOO SPORT 3 FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9597.ts
+#EXTINF:0,IT: Rai Sport 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/454.ts
+#EXTINF:0,IT: Rai Sport 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/455.ts
+#EXTINF:0,IT: SKY SPORT 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/461.ts
+#EXTINF:0,IT: SKY SPORT 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/462.ts
+#EXTINF:0,IT: SKY Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/447.ts
+#EXTINF:0,IT: Sky Sport 24 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/460.ts
+#EXTINF:0,IT: Sky Fox Sports HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/451.ts
+#EXTINF:0,IT: Eurosport 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/459.ts
+#EXTINF:0,IT: Eurosport 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/458.ts
+#EXTINF:0,IT: Sky Super Tennis HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/445.ts
+#EXTINF:0,IT: Sky Sport MotoGp HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/446.ts
+#EXTINF:0,IT: Sky Sports F1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3444.ts
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/363.ts
+#EXTINF:0,DE: Sky Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/358.ts
+#EXTINF:0,DE: SKY SPORT Austria HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2198.ts
+#EXTINF:0,DE: EuroSport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/383.ts
+#EXTINF:0,DE: EuroSport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5484.ts
+#EXTINF:0,DE: Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2003.ts
+#EXTINF:0,DE: Sky sport news
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2001.ts
+#EXTINF:0,DE: ORF Sport + HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2004.ts
+#EXTINF:0,DE: Motorvision
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2012.ts
+#EXTINF:0,DE: Sport Digital HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2197.ts
+#EXTINF:0,SPA: BEIN LA LIGA
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10309.ts
+#EXTINF:0,SPA: BEIN LA LIGA 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10274.ts
+#EXTINF:0,SPA: BEIN LA LIGA 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10273.ts
+#EXTINF:0,SPA: BEIN LA LIGA 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10272.ts
+#EXTINF:0,SPA: BEIN LA LIGA 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10271.ts
+#EXTINF:0,SPA: BEIN LA LIGA 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10270.ts
+#EXTINF:0,SPA: BEIN LA LIGA 6
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10269.ts
+#EXTINF:0,SPA: BEIN LA LIGA 7
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10268.ts
+#EXTINF:0,SPA: BEIN LA LIGA 8
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10267.ts
+#EXTINF:0,SPA: BEIN LA LIGA HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10310.ts
+#EXTINF:0,SPA: BEIN MAX 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10285.ts
+#EXTINF:0,SPA: BEIN MAX 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10284.ts
+#EXTINF:0,SPA: BEIN MAX 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10283.ts
+#EXTINF:0,SPA: BEIN MAX 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10282.ts
+#EXTINF:0,SPA: BEIN MAX 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10281.ts
+#EXTINF:0,SPA: BEIN MAX 6
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10280.ts
+#EXTINF:0,SPA: BEIN MAX 7
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10279.ts
+#EXTINF:0,SPA: BEIN MAX 8
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10278.ts
+#EXTINF:0,SPA: BEIN SPORT
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10311.ts
+#EXTINF:0,SPA: BEIN SPORTS HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10312.ts
+#EXTINF:0,SPA: M. DEPORTES 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10302.ts
+#EXTINF:0,SPA: M. DEPORTES 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10303.ts
+#EXTINF:0,SPA: M. DEPORTES 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10300.ts
+#EXTINF:0,SPA: M. DEPORTES 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10301.ts
+#EXTINF:0,SPA: M. FUTBOL
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10304.ts
+#EXTINF:0,SPA: M. FUTBOL HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10305.ts
+#EXTINF:0,SPA: REAL MADRID TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10286.ts
+#EXTINF:0,SPA: BARCA TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10288.ts
+#EXTINF:0,SPA: EUROSPORT 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10293.ts
+#EXTINF:0,SPA: EUROSPORT 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10292.ts
+#EXTINF:0,SPA: EUROSPORT 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10291.ts
+#EXTINF:0,SPA: 24 HORAS
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10387.ts
+#EXTINF:0,SPA: TOROS TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10289.ts
+#EXTINF:0,SPA: TOROS TV HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10290.ts
+#EXTINF:0,SPA: M. FORMULA 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10296.ts
+#EXTINF:0,SPA: M. FORMULA 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/10297.ts
+#EXTINF:0,NL: Ziggo Sport
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3408.ts
+#EXTINF:0,NL: Ziggo Sport HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9885.ts
+#EXTINF:0,NL: Ziggo Sport1 Voetbal
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/786.ts
+#EXTINF:0,NL: Ziggo Sport1 Voetbal HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9884.ts
+#EXTINF:0,NL: Ziggo Sport1 Racing
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/787.ts
+#EXTINF:0,NL: Ziggo Sport1 Racing HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9883.ts
+#EXTINF:0,NL: Ziggo Sport1 Golf
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/788.ts
+#EXTINF:0,NL: Ziggo Sport1 Golf HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9882.ts
+#EXTINF:0,NL: Ziggo Sport Select HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9879.ts
+#EXTINF:0,NL: Ziggo Sport Select
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3409.ts
+#EXTINF:0,NL: Ziggo Sport Extra 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3406.ts
+#EXTINF:0,NL: Ziggo Sport Extra 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9881.ts
+#EXTINF:0,NL: Ziggo Sport Extra 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3407.ts
+#EXTINF:0,NL: Ziggo Sport Extra 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9880.ts
+#EXTINF:0,NL: Fox Sport 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5900.ts
+#EXTINF:0,NL: Fox Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9878.ts
+#EXTINF:0,NL: Fox Sport 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/794.ts
+#EXTINF:0,NL: Fox Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9877.ts
+#EXTINF:0,NL: Fox Sport 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/793.ts
+#EXTINF:0,NL: Fox Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9876.ts
+#EXTINF:0,NL: Fox Sport 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/796.ts
+#EXTINF:0,NL: Fox Sport 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9875.ts
+#EXTINF:0,NL: Fox Sport 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/795.ts
+#EXTINF:0,NL: Fox Sport 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9874.ts
+#EXTINF:0,NL: Fox Sport 6
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/5901.ts
+#EXTINF:0,NL: Fox Sport 6 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9873.ts
+#EXTINF:0,NL: Eurosport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9872.ts
+#EXTINF:0,NL: Eurosport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9871.ts
+#EXTINF:0,NL: Extreme Sports HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9870.ts
+#EXTINF:0,UK: EIR SPORT 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4354.ts
+#EXTINF:0,UK: EIR SPORT 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4355.ts
+#EXTINF:0,UK: EUROSPORT 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2031.ts
+#EXTINF:0,UK: EUROSPORT 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2032.ts
+#EXTINF:0,UK: SKY SPORTS Main Event HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/551.ts
+#EXTINF:0,UK: SKY SPORTS Premier League HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/555.ts
+#EXTINF:0,UK: SKY PREMIER SPORTS HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4353.ts
+#EXTINF:0,UK: SKY SPORTS Football HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9837.ts
+#EXTINF:0,UK: SKY SPORTS Arena HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/9838.ts
+#EXTINF:0,UK: SKY SPORTS MIX HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/550.ts
+#EXTINF:0,UK: SKY SPORTS Action HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/552.ts
+#EXTINF:0,UK: SKY SPORTS Cricket HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/553.ts
+#EXTINF:0,UK: SKY SPORTS Golf HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/554.ts
+#EXTINF:0,UK: SKY SPORTS F1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/561.ts
+#EXTINF:0,UK: BT Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/562.ts
+#EXTINF:0,UK: BT Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/563.ts
+#EXTINF:0,UK: BT Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/4352.ts
+#EXTINF:0,UK: BT Sport Eur HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/564.ts
+#EXTINF:0,UK: BT Sport ESPN
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/565.ts
+#EXTINF:0,UK: BT SPORT EXTRA 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/568.ts
+#EXTINF:0,UK: BT SPORT EXTRA 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/11481.ts
+#EXTINF:0,UK: BT SPORT EXTRA 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/11482.ts
+#EXTINF:0,UK: BT SPORT EXTRA 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/11483.ts
+#EXTINF:0,UK: BT SPORT EXTRA 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/11484.ts
+#EXTINF:0,UK: FOX SPORTS 1 US HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/548.ts
+#EXTINF:0,UK: FOX SPORTS 2 US HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/549.ts
+#EXTINF:0,UK: BOX NATION HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3797.ts
+#EXTINF:0,UK: CHELSEA TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2262.ts
+#EXTINF:0,UK: MUTV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2788.ts
+#EXTINF:0,UK: Setanta Sport
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2256.ts
+#EXTINF:0,UK: Motors TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/3709.ts
+#EXTINF:0,AL: Tring Sport News HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/951.ts
+#EXTINF:0,AL: Tring Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/952.ts
+#EXTINF:0,AL: Tring Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/953.ts
+#EXTINF:0,AL: Tring Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/954.ts
+#EXTINF:0,AL: Tring Sport 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/955.ts
+#EXTINF:0,AL: Super Sport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/970.ts
+#EXTINF:0,AL: Super Sport 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/971.ts
+#EXTINF:0,AL: Super Sport 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/972.ts
+#EXTINF:0,AL: Super Sport 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/973.ts
+#EXTINF:0,AL: Super Sport 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/974.ts
+#EXTINF:0,AL: Super Sport 6 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/975.ts
+#EXTINF:0,AL: Super Sport Kosova
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/968.ts
+#EXTINF:0,PTS: Sport TV + HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8710.ts
+#EXTINF:0,PTS: Sport TV Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8708.ts
+#EXTINF:0,PTS: Sport TV HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8709.ts
+#EXTINF:0,PTS: Sport TV +
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8711.ts
+#EXTINF:0,PTS: Sport TV 1 Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8705.ts
+#EXTINF:0,PTS: Sport TV 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8706.ts
+#EXTINF:0,PTS: Sport TV 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8707.ts
+#EXTINF:0,PTS: Sport TV 2 Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8702.ts
+#EXTINF:0,PTS: Sport TV 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8703.ts
+#EXTINF:0,PTS: Sport TV 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8704.ts
+#EXTINF:0,PTS: Sport TV 3 Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8699.ts
+#EXTINF:0,PTS: Sport TV 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8700.ts
+#EXTINF:0,PTS: Sport TV 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8701.ts
+#EXTINF:0,PTS: Sport TV 4 Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8696.ts
+#EXTINF:0,PTS: Sport TV 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8697.ts
+#EXTINF:0,PTS: Sport TV 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8698.ts
+#EXTINF:0,PTS: Sport TV 5 Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8693.ts
+#EXTINF:0,PTS: Sport TV 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8694.ts
+#EXTINF:0,PTS: Sport TV 5
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8695.ts
+#EXTINF:0,PTS: Sporting TV HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8687.ts
+#EXTINF:0,PTS: Sporting TV FHD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8686.ts
+#EXTINF:0,PTS: Benfica TV Full HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8690.ts
+#EXTINF:0,PTS: Benfica TV HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8691.ts
+#EXTINF:0,PTS: Benfica TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8692.ts
+#EXTINF:0,PTS: Eurosport 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8678.ts
+#EXTINF:0,PTS: Eurosport 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8679.ts
+#EXTINF:0,PTS: Eurosport 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8677.ts
+#EXTINF:0,PTS: Eurosport News
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8680.ts
+#EXTINF:0,PTS: Porto Canal
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8727.ts
+#EXTINF:0,PTS: Real Madrid TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8672.ts
+#EXTINF:0,PTS: PFC HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8685.ts
+#EXTINF:0,PTS: Kombat Sports
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8682.ts
+#EXTINF:0,PTS: Motors TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8676.ts
+#EXTINF:0,PTS: Motorvision HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8675.ts
+#EXTINF:0,PTS: NBA HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8688.ts
+#EXTINF:0,PTS: Poker Central
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8671.ts
+#EXTINF:0,PTS: Fight Box
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8684.ts
+#EXTINF:0,PTS: Toros TV
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8674.ts
+#EXTINF:0,PTS: Fight Channel / Network
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8683.ts
+#EXTINF:0,TUR:  EUROSPORT 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6822.ts
+#EXTINF:0,TUR: EUROSPORT 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6823.ts
+#EXTINF:0,TUR: Bein Sport HD 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/827.ts
+#EXTINF:0,TUR: Bein Sport HD 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/828.ts
+#EXTINF:0,TUR: Bein Sport HD 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/829.ts
+#EXTINF:0,TUR: Bein Sport HD 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6819.ts
+#EXTINF:0,TUR: TIVIBUSPOR 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2272.ts
+#EXTINF:0,TUR: TIVIBUSPOR 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/2273.ts
+#EXTINF:0,TUR: TIVIBUSPOR 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6820.ts
+#EXTINF:0,TUR: TIVIBUSPOR 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/6821.ts
+#EXTINF:0,TUR: TRT SPOR HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/632.ts
+#EXTINF:0,TUR: NTV SPOR
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/631.ts
+#EXTINF:0,GR: OTE Sports 1 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8878.ts
+#EXTINF:0,GR: OTE Sports 2 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8877.ts
+#EXTINF:0,GR: OTE Sports 3 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8876.ts
+#EXTINF:0,GR: OTE Sports 4 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8875.ts
+#EXTINF:0,GR: OTE Sports 5 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8874.ts
+#EXTINF:0,GR: OTE Sports 6 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8873.ts
+#EXTINF:0,GR: OTE Sports 7 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8872.ts
+#EXTINF:0,GR: OTE Sports 8 HD
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/8871.ts
+#EXTINF:0,RO: Digi Sport 1
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1606.ts
+#EXTINF:0,RO: Digi Sport 2
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1605.ts
+#EXTINF:0,RO: Digi Sport 3
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1604.ts
+#EXTINF:0,RO: Digi Sport 4
+http://maestro.xtream.top:8000/live/Maestro1usr834/d03727d468/1603.ts
+
