@@ -39,7 +39,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] 21st October - All playlists are fixed [/COLOR] |</title>
+	<title>| [COLOR yellow] 24th October - All playlists are fixed [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -88,11 +88,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] Testing USA  [/B] [/I][/COLOR]</title>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] Seems good  [/B] [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/virus/master/fight.txt$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -375,31 +375,6 @@ https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>number 03</cname>
-	<item>
-	<title>Bliss Tv - [COLOR navy][B] Mania MK Special [/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://major2.ipfox.co:8080/get.php?username=Etronics_kPPG8Q&amp;password=7EreZB7S&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-winsor_ZdtMSC&amp;password=GhAUwb3
-
-<streaminginfo>
-	<cname>number 03</cname>
-	<item>
-	<title>Bliss Tv - [COLOR navy][B] Marko Special[COLOR red] OFFLINE[/COLOR] [/B][/COLOR] - UPDATED</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://slingiptv.ddns.net:9999/get.php?username=6FpeaNCFEL&amp;password=ZPldVwIQZi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>number 05</cname>
