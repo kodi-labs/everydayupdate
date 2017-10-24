@@ -88,7 +88,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] Seems good  [/B] [/I][/COLOR]</title>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] UkTvNow [/B] [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
