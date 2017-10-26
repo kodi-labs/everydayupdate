@@ -90,11 +90,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Weekend here, Gift is back lmao  [/B] [/I][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Boom Shakalaka  [/B] [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://power-iptv.dynu.net:12580/get.php?username=Poweriptv20102&amp;password=U2NLNdhlxg&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/dquk%20Indian.txt$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
