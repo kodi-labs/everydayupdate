@@ -100,6 +100,30 @@
 
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - BEST [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://superstreams.tv:8080/get.php?username=abc&amp;password=abc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 00 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://superstreams.tv:8080/get.php?username=Z1&amp;password=Z1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
 
 <streaminginfo>
 	<cname>number 02</cname>
