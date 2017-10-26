@@ -90,7 +90,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Boom Shakalaka  [/B] [/I][/COLOR]</title>
+	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Boom Shakalaka :P [/B] [/I][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
