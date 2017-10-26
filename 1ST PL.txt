@@ -39,7 +39,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] 24th October - All playlists are fixed [/COLOR] |</title>
+	<title>| [COLOR yellow] 27th October - All playlists are fixed [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -94,7 +94,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/dquk%20Indian.txt$$TSDOWNLOADER$$</externallink>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/dquk%20Indian.txt</externallink>
 	</item>
 </streaminginfo>
 
