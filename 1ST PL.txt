@@ -85,34 +85,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] UkTvNow [/B] [/I][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] - Fixed [/I][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/sports.txt$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
 
 
 <streaminginfo>
@@ -129,6 +101,44 @@
 
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 01 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://iptv-ghost.ddns.net:8000/get.php?username=website&amp;password=R5Wn67Nt35&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 02 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://alohaserver.ddns.net:2300/get.php?username=studio001&amp;password=studio002&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 03 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://list9.isonline.me:8000/get.php?username=5245G0LCKqd94P&amp;password=25TE014mD41788&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
@@ -137,7 +147,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://vip.webvps.de:25443/get.php?username=VIPTVT1780&amp;password=oM6aeTudb0&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://ghosttechuk.ddns.net:25461/get.php?username=Lz2L84DBFh&amp;password=F6L5F7APCb&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -335,6 +345,34 @@
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>https://goo.gl/FwErbN$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] UkTvNow [/B] [/I][/COLOR] - offline</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] - offline [/I][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/sports.txt$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
