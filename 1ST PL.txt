@@ -87,14 +87,15 @@
 
 
 
+
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR yellow][I][B] Boom Shakalaka :P [/B] [/I][/COLOR]</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] Best of 28th October [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/dquk%20Indian.txt</externallink>
+   <externallink>http://3arabiptv.ddns.net:8000/get.php?username=dawoodhashmi39@gmail.com&amp;password=GamdnTw3yZ&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
