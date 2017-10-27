@@ -85,7 +85,28 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 01</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://goo.gl/hJqDYp$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 02</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://goo.gl/TX7Wvv$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
 
 <streaminginfo>
@@ -104,58 +125,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - BEST [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://superstreams.tv:8080/get.php?username=abc&amp;password=abc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 00 [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://superstreams.tv:8080/get.php?username=Z1&amp;password=Z1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
 	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 01 [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptv-ghost.ddns.net:8000/get.php?username=website&amp;password=R5Wn67Nt35&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 02 [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://alohaserver.ddns.net:2300/get.php?username=studio001&amp;password=studio002&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 03 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -247,28 +217,7 @@
 
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 01</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/hJqDYp$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 02</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/TX7Wvv$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
 
 
