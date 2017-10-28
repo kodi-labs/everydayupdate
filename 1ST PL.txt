@@ -125,11 +125,35 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 01 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 01 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://list9.isonline.me:8000/get.php?username=5245G0LCKqd94P&amp;password=25TE014mD41788&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://freeiptv.geantsat.com:56666/get.php?username=free-geantsat2017&amp;password=13fg07fgf2017fgvgf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 02 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://144.217.181.197:25461/get.php?username=demo10usdlibre&amp;password=iscar96eqveJXEn10usd&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 03 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://54.36.51.53:8000/get.php?username=iFDF7hpXsC&amp;password=HMTnU6Jh06&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
