@@ -27,7 +27,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan] I don't like complains :) So please.. [/COLOR] </title>
+	<title> [COLOR cyan] Do you have a m3u link? PM me the link ;) [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -39,7 +39,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] 27th October - All playlists are fixed [/COLOR] |</title>
+	<title>| [COLOR yellow] 1st November - Latest Updates [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -108,6 +108,18 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Best of 1st November[/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://clientportalpro.com:2500/get.php?username=VE5DWv4Ait&amp;password=7KHLqRRZ9E&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
 
 <streaminginfo>
 	<cname>number 02</cname>
@@ -125,11 +137,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 01 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - 01 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://freeiptv.geantsat.com:56666/get.php?username=free-geantsat2017&amp;password=13fg07fgf2017fgvgf&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://iptv.oirza.com:8000/get.php?username=zdxquqgu&amp;password=30Uzy0m8Iv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -137,23 +149,24 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 02 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - 02 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://144.217.181.197:25461/get.php?username=demo10usdlibre&amp;password=iscar96eqveJXEn10usd&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://cloudiptv.cf/get.php?username=Katrina1&amp;password=Katrina1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
 
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Temporary - 29/10/2017 - 03 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - Sports [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://54.36.51.53:8000/get.php?username=iFDF7hpXsC&amp;password=HMTnU6Jh06&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://iptvsports.net:8080/get.php?username=skype4xchnge&amp;password=jibrankhuhro&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
