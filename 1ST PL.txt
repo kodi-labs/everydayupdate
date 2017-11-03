@@ -124,7 +124,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Best of 28th October [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] Best of 3rd November [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
@@ -137,36 +137,37 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - 01 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 3rd November, 2017 - 01 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptv.oirza.com:8000/get.php?username=zdxquqgu&amp;password=30Uzy0m8Iv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://www.tbs-tv.com:25461/get.php?username=charlesbon&amp;password=monthsubscrip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - 02 [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://cloudiptv.cf/get.php?username=Katrina1&amp;password=Katrina1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
 
 
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 01/11/2017 - Sports [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 3rd November, 2017 - Sports [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
    <externallink>http://iptvsports.net:8080/get.php?username=skype4xchnge&amp;password=jibrankhuhro&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR lime][B][I] Unknown list [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/2nd.txt</externallink>
 	</item>
 </streaminginfo>
 
