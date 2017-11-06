@@ -111,7 +111,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR purple][I] Best Discovery by John - Temporary playlist [/COLOR][/I] </title>
+	<title>Bliss Tv - [COLOR purple][B][I] Best Discovery by John - Temporary playlist [/COLOR][/I][/B] </title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
