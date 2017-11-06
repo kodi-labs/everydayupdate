@@ -111,6 +111,18 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
+	<title>Bliss Tv - [COLOR purple][I] Best Discovery by John - Temporary playlist [/COLOR][/I] </title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://67.219.148.18:7000/get.php?username=b.irdycanflyy@gmail.com&amp;password=5ILkiE8EmN&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
 	<title>Bliss Tv - [COLOR cyan][B][I] Best of 1st November[/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
