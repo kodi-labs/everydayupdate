@@ -15,7 +15,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan] I am not the owner of any of these servers, links in this playlist acquire from the free internet resources [/COLOR] </title>
+	<title> [COLOR cyan] I am not the owner of any of these servers, links in this playlist acquired from the free internet resources [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -108,26 +108,15 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR green][B][I] Best Discovery by John - Temporary playlist [/COLOR][/I][/B] </title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://67.219.148.18:7000/get.php?username=b.irdycanflyy@gmail.com&amp;password=5ILkiE8EmN&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Best of 1st November[/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B] Mixed List [/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://clientportalpro.com:2500/get.php?username=VE5DWv4Ait&amp;password=7KHLqRRZ9E&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://bit.ly/dailyupdatebliss$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -136,11 +125,26 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Best of 3rd November [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR green][B][I] 01 [/COLOR][/I][/B] </title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://3arabiptv.ddns.net:8000/get.php?username=dawoodhashmi39@gmail.com&amp;password=GamdnTw3yZ&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://titan-servers.sytes.net:8000/get.php?username=dean&amp;password=dean&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://isriptv.com:25461/get.php?username=Fahmi&amp;password=Fahmi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -149,11 +153,25 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 3rd November, 2017 - 01 [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] 03 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://www.tbs-tv.com:25461/get.php?username=charlesbon&amp;password=monthsubscrip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://cdnlive1.win/get.php?username=KdQqYChC5x&amp;password=JWDy34IRHA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR lime][B][I] 04 [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://superstreams.tv/get.php?username=WINSTON&amp;password=WINSTON&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -313,16 +331,7 @@
 
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR lime][B] Mixed List [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bit.ly/dailyupdatebliss$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
@@ -352,11 +361,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
+	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR] - [COLOR red] Online[/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=beda&amp;password=beda&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://clientportalpro.com:2500/get.php?username=VE5DWv4Ait&amp;password=7KHLqRRZ9E&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
