@@ -3,7 +3,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] A John Bliss' Project [/B][/COLOR] |</title>
+	<title>| [COLOR aqua][B] It's a free project for everyone to use [/B][/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -15,7 +15,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan] I am not the owner of any of these servers, links in this playlist acquired from the free internet resources [/COLOR] </title>
+	<title> [COLOR cyan]Shove a cactus up their cunt if anyone sold you this playlist!! [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -27,7 +27,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan] Do you have a m3u link? PM me the link ;) [/COLOR] </title>
+	<title> [COLOR cyan] http://bit.ly/johnbliss - Join the telegram group  [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -39,7 +39,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] 1st November - Latest Updates [/COLOR] |</title>
+	<title>| [COLOR yellow] November 18, 2017 - Latest Updates [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -129,7 +129,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://titan-servers.sytes.net:8000/get.php?username=dean&amp;password=dean&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://zeebra.tv:8000/get.php?username=121212&amp;password=121212&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
@@ -140,13 +140,15 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR] - The best</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://isriptv.com:25461/get.php?username=Fahmi&amp;password=Fahmi&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://ace-tv.xyz:25461/get.php?username=Andrea&amp;password=Andrea&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
+
 
 
 
@@ -157,7 +159,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://cdnlive1.win/get.php?username=KdQqYChC5x&amp;password=JWDy34IRHA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://zeebra.tv:8000/get.php?username=salauddin&amp;password=salauddin&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
