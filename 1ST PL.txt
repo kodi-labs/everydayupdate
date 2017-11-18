@@ -121,6 +121,30 @@
 </streaminginfo>
 
 
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow][B][I] Weekend fun [/COLOR][/I][/B] </title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://79.137.70.141:25461/get.php?username=Global1WeekTrial&amp;password=Global1WeekTrial&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR yellow][B][I] Weekend fun [/COLOR][/I][/B] - 02 </title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://104.24.114.20:2086/get.php?username=gears&amp;password=tv&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+http://104.24.114.20:2086/get.php?username=gears&password=tv&type=m3u&output=m3u8
 
 <streaminginfo>
 	<cname>number 02</cname>
