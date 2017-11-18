@@ -136,11 +136,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR yellow][B][I] WeekenD fun [/COLOR][/I][/B] - 02 </title>
+	<title>Bliss Tv - [COLOR yellow][B][I] Weekend fun [/COLOR][/I][/B] - 02 </title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://gorilladick4.us:2086/get.php?username=gears&password=tv&type=m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://gorilladick4.us:2086/get.php?username=gears&password=tv&type=m3u</externallink>
 	</item>
 </streaminginfo>
 
