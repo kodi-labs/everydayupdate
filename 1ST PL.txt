@@ -140,7 +140,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://gorilladick4.us:2086/get.php?username=gears&password=tv&type=m3u</externallink>
+   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt</externallink>
 	</item>
 </streaminginfo>
 
