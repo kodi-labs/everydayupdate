@@ -1,39 +1,961 @@
 #EXTM3U
-
-EXTINF:-1,Chelsea TV
-http://play.uktvnow.net:1935/live/chelsea.stream/playlist.m3u8
-#EXTINF:-1,NBA TV
-http://play.uktvnow.net:1935/live/nba.stream/playlist.m3u8
-#EXTINF:-1,FOOLBALL TV
-http://play.uktvnow.net:1935/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport MIX
-http://play.uktvnow.net:1935/live/skysportsmix.stream/playlist.m3u8
-#EXTINF:-1,TSN 1 HD
-http://play.uktvnow.net:1935/live/tsn11.stream/playlist.m3u8
-#EXTINF:-1,TSN 2 HD 
-http://play.uktvnow.net:1935/live/tsn2.stream/playlist.m3u8
-#EXTINF:-1,TSN 3 HD
-http://play.uktvnow.net:1935/live/tsn3.stream/playlist.m3u8
-#EXTINF:-1,F1 RACE
-http://play.uktvnow.net:1935/live/skysportsf120.stream/playlist.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://play.uktvnow.net:1935/live/discovery.stream/playlist.m3u8
-#EXTINF:-1,Discovery Science
-http://play.uktvnow.net:1935/live/discoverys.stream/playlist.m3u8
-#EXTINF:-1,History
-http://play.uktvnow.net:1935/live/history.stream/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://play.uktvnow.net:1935/live/natgeowild.stream/playlist.m3u8
-#EXTINF:-1,National Geographic
-http://play.uktvnow.net:1935/live/natgeo.stream/playlist.m3u8
-#EXTINF:-1,Discovery Turbo
-http://play.uktvnow.net:1935/live/discoveryturbo.stream/playlist.m3u8
-#EXTINF:-1,Discovery History
-http://play.uktvnow.net:1935/live/discoveryh.stream/playlist.m3u8
-#EXTINF:-1,Discovery Shed
-http://play.uktvnow.net:1935/live/discoveryshed.stream/playlist.m3u8
-#EXTINF:-1,Discovery Investigation
-http://play.uktvnow.net:1935/live/discoveryi.stream/playlist.m3u8
-#EXTINF:-1,Nat Geo USA
-http://play.uktvnow.net:1935/live/natgeo9.stream/playlist.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]BeyondTheSummit [COLOR white] - Counter-Strike: Global Offensive[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1653.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]C9Sneaky [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1656.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]Doublelift [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1649.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]LIRIK [COLOR white] - Variety[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1650.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]NALCS1 [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1651.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]NALCS2 [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1652.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]Starladder1 [COLOR white] - Dota 2[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1654.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]TSM_Bjergsen [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1646.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]imaqtpie [COLOR white] - League of Legends[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1648.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BBC 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1038.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ANIMAL PLANET UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1079.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BBC 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1037.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BBC 4 / CBEEBIES[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1039.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BOXNATION[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1009.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ALIBI[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1071.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BT SPORTS 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1005.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]4SEVEN[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1070.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BT SPORTS 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1006.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BT SPORTS 3[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1007.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]sodapoppin [COLOR white] - Variety[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1647.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]5STAR[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1056.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CBS REALITY[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1059.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CHANNEL 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1046.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX MOREMAX[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/351.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX LATINO[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1693.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX 5STAR MAX[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1695.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CARTOONITO[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1036.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CHANNEL 5[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1047.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CBS ACTION[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1069.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX ACTION MAX[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1681.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BT SPORTS ESPN[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1008.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]ESL_CSGO [COLOR white] - Counter-Strike: Global Offensive[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1655.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]COMEDY CENTRAL UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1065.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DISCOVERY SCIENCE UK[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1028.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DISCOVERY TURBO[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1029.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DISCOVERY HISTORY[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1030.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DRAMA[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1050.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/414.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DISCOVERY UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1027.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]EDEN[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1078.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]E4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1049.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]CINEMAX THRILLER MAX[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/397.m3u8
+#EXTINF:-1,[COLOR darkorchid][B]summit1g [COLOR white] - Variety[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1645.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HBO COMEDY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/500.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]GOLD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1062.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ITV 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1044.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ID UK[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1031.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ITV 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1042.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]FX[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/429.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HORROR CHANNEL[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1074.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HBO LATINO[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1684.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HBO 2[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/348.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ITV 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1041.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ITV 3[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1043.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 103[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1101.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ITV BE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1045.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 102[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1100.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]EURO SPORTS 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1010.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]FXX[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/372.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HBO ZONE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/345.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]HBO[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/502.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]FILM 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1048.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]FOX UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1061.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]EURO SPORTS 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1011.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]FX MOVIES[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1643.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]ENCORE ACTION[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1694.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]BBC NEWS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1040.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 105[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1103.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 107[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1105.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MOVIES 24[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1075.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MTV CLASSIC[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1024.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MOVIES 4 MEN[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1068.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MORE 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1052.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 106[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1104.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MIO Stadium 104[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1102.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]DAVE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1051.m3u8
+#EXTINF:-1,[COLOR red][B]NFL NETWORK[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1671.m3u8
+#EXTINF:-1,[COLOR red][B]NHL NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/363.m3u8
+#EXTINF:-1,[COLOR red][B]NESN[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1713.m3u8
+#EXTINF:-1,[COLOR red][B]FUSE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1714.m3u8
+#EXTINF:-1,[COLOR red][B]AWE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1715.m3u8
+#EXTINF:-1,[COLOR orangered][B]CP 24[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1082.m3u8
+#EXTINF:-1,[COLOR orangered][B]CITY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1081.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX SPICE TV [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/985.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] 90'S[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1579.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] ALTERNATIVE[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1565.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] BRITISH HITS[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1564.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] DANCE/EDM[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1566.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] HIT LIST[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1568.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] INDIE[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1569.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] KIDS ONLY[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1586.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] MC PLAY[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1588.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] METAL[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1570.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] MEXICANA[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1582.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] MUSICA URBANA[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1583.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] POP & COUNTRY[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1571.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] POP HITS[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1572.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] POP LATINO[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1584.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] R&B SOUL[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1573.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] RAP 00'S[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1575.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] RAP[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1574.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] ROCK[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1576.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] TEEN BEATS[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1577.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] THROWBACK JAMS[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1580.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] TODAY'S COUNTRY[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1578.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] TODDLER TUNES[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1587.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] TROPICALES[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1585.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] Y2K[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1581.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] CASH MONEY RECORDS[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1710.m3u8
+#EXTINF:-1,[COLOR orangered][B]CBC CA[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1080.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY LIVING[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1057.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/996.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/997.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX MIAMI TV [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/977.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/999.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS 5[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1000.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX PENTHOUSE ASIA [COLOR white] [/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/940.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS MIX[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1002.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS NEWS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1003.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX PJ GIRLS [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/935.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SHOWTIME WOMEN[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1699.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX MASSAGE PARLOR [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/934.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]STARZ ENCORE[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1700.m3u8
+#EXTINF:-1,[COLOR orangered][B]SLICE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1086.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX JASMIN TV[COLOR white] HD[/B][/COLOR]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SHOWTIME 2[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1500.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX SC STRIP CLUB DRESSING ROOM [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/942.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]TRUE MOVIES 2[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1076.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NICK JR UK[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1544.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]TRUE MOVIES 1[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1077.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]STARZ IN BLACK[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1682.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX SC STRIP CLUB MAIN STAGE [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/943.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX HARDCORE GANGBANG [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/941.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SHOWTIME EXTREME[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1501.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]UNIVERSAL UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1063.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES DISNEY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1015.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX PLAYBOY TV[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1025.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX PORN MIX [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/937.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX SC STRIP CLUB BACK ROOM [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/914.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SHOWTIME SHOWCASE[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1680.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]TRUE CRIME[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1067.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]REALLY[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1055.m3u8
+#EXTINF:-1,[COLOR orangered][B]GLOBAL[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1084.m3u8
+#EXTINF:-1,[COLOR indigo][B]MUSIC CHOICE[COLOR white][/B] HIP HOP & R&B[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1567.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX MOFOS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/938.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS 3[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/998.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]W[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1064.m3u8
+#EXTINF:-1,[COLOR gold][B]THE FRESH PRINCE OF BEL-AIR [COLOR white]24/7[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1631.m3u8
+#EXTINF:-1,[COLOR gold][B]MARTIN [COLOR white]24/7[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1630.m3u8
+#EXTINF:-1,[COLOR gold][B]FAMILY MATTERS [COLOR white]24/7[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1626.m3u8
+#EXTINF:-1,[COLOR gold][B]THE X-FILES [COLOR white]24/7[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1628.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]QUEST[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1058.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]YESTERDAY[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1054.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES ACTION[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1013.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES COMEDY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1014.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES DRAMA & ROMANCE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1016.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES FAMILY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1017.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES GREATS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1018.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES HITS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1019.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]PREMIER SPORTS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1012.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES PREMIER[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1020.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES SCI-FI/HORROR[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1021.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]PICK TV[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1053.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]STARZ COMEDY[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1697.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES SELECT[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1022.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SHOWTIME BEYOND[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1696.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX BRAZZERS 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/939.m3u8
+#EXTINF:-1,[COLOR gold][B]SKY MOVIES THRILLER[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1023.m3u8
+#EXTINF:-1,[COLOR hotpink][B]***XXX SECTION IS UNDER MAINTENANCE[COLOR white] UNTIL FURTHER NOTICE***[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1220.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX 1 [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/917.m3u8
+#EXTINF:-1,[COLOR hotpink][B]XXX BRAZZERS [COLOR white]HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/936.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 1[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1112.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 2[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1109.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 4[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1107.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 5[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1106.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 6[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1111.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 7[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1110.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NBC EXTRA TIME 3[COLOR white] HD(MATCH TIME)[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1108.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]MTV UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1034.m3u8
+#EXTINF:-1,[COLOR orangered][B]TSN 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1099.m3u8
+#EXTINF:-1,[COLOR red][B]OXYGEN[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1507.m3u8
+#EXTINF:-1,[COLOR red][B]POP[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1505.m3u8
+#EXTINF:-1,[COLOR red][B]TEEN NICK[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1221.m3u8
+#EXTINF:-1,[COLOR red][B]OWN[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/391.m3u8
+#EXTINF:-1,[COLOR red][B]PAC 12 ARIZONA[COLOR white] HD[/B][/COLOR]
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_1164_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 BAY AREA[COLOR white] HD[/B][/COLOR]
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 LA[COLOR white] HD[/B][/COLOR]
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 MOUNTAIN[COLOR white] HD[/B][/COLOR]
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 NATIONAL[COLOR white] HD[/B][/COLOR]
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 OREGON[COLOR white] HD[/B][/COLOR]
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]PAC 12 WASHINGTON[COLOR white] HD[/B][/COLOR]
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,[COLOR red][B]SEC[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/365.m3u8
+#EXTINF:-1,[COLOR red][B]SHOWTIME[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/418.m3u8
+#EXTINF:-1,[COLOR red][B]SPIKE[COLOR white][/B] 1080[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/371.m3u8
+#EXTINF:-1,[COLOR red][B]STARZ KIDS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/364.m3u8
+#EXTINF:-1,[COLOR red][B]STARZ[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/404.m3u8
+#EXTINF:-1,[COLOR red][B]SUNDANCE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/347.m3u8
+#EXTINF:-1,[COLOR red][B]SYFY[COLOR white][/B] 1080[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/380.m3u8
+#EXTINF:-1,[COLOR red][B]TBS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/362.m3u8
+#EXTINF:-1,[COLOR red][B]TENNIS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/517.m3u8
+#EXTINF:-1,[COLOR red][B]TLC[COLOR white][/B] 1080[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/379.m3u8
+#EXTINF:-1,[COLOR red][B]TNT[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/387.m3u8
+#EXTINF:-1,[COLOR red][B]TRAVEL CHANNEL[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/538.m3u8
+#EXTINF:-1,[COLOR red][B]TRU TV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/360.m3u8
+#EXTINF:-1,[COLOR red][B]TV LAND[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/378.m3u8
+#EXTINF:-1,[COLOR red][B]USA NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/921.m3u8
+#EXTINF:-1,[COLOR red][B]VELOCITY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/357.m3u8
+#EXTINF:-1,[COLOR red][B]VH1[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/400.m3u8
+#EXTINF:-1,[COLOR red][B]VIRGIN MUSIC[COLOR white] HD[/B][/COLOR]
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1,[COLOR red][B]WE TV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/377.m3u8
+#EXTINF:-1,[COLOR red][B]WWE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/542.m3u8
+#EXTINF:-1,[COLOR red][B]WWE[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/543.m3u8
+#EXTINF:-1,[COLOR red][B]OUTDOOR[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/393.m3u8
+#EXTINF:-1,[COLOR red][B]PIX 11 NY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1558.m3u8
+#EXTINF:-1,[COLOR red][B]REVOLT[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/409.m3u8
+#EXTINF:-1,[COLOR red][B]SMITHSONIAN [COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/472.m3u8
+#EXTINF:-1,[COLOR red][B]SNY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1546.m3u8
+#EXTINF:-1,[COLOR red][B]SPORTSMAN[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1591.m3u8
+#EXTINF:-1,[COLOR red][B]SPORTSNET LA DODGERS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1634.m3u8
+#EXTINF:-1,[COLOR red][B]SPORTSNET LA LAKERS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1635.m3u8
+#EXTINF:-1,[COLOR red][B]SPROUT[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1510.m3u8
+#EXTINF:-1,[COLOR red][B]TELEMUNDO[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/487.m3u8
+#EXTINF:-1,[COLOR red][B]TV ONE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/399.m3u8
+#EXTINF:-1,[COLOR red][B]UNIMAS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/534.m3u8
+#EXTINF:-1,[COLOR red][B]UNIVISION TDN[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1666.m3u8
+#EXTINF:-1,[COLOR red][B]UNIVISION[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/535.m3u8
+#EXTINF:-1,[COLOR red][B]VICELAND[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/467.m3u8
+#EXTINF:-1,[COLOR red][B]WAPA AMERICA[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1555.m3u8
+#EXTINF:-1,[COLOR red][B]WGN AMERICA[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1548.m3u8
+#EXTINF:-1,[COLOR red][B]WGN CHICAGO NEWS[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,[COLOR red][B]YES NETWORK[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1545.m3u8
+#EXTINF:-1,[COLOR red][B]THE WEATHER CHANNEL[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1712.m3u8
+#EXTINF:-1,[COLOR red][B]ONE AMERICA NEWS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1716.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NAT GEO UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1032.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NAT GEO WILD UK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1033.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]NICK JR TOO[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1035.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY 1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1026.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY ATLANTIC[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1073.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS F1[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1001.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SPIKE UK[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1060.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]STAR PLUS[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1072.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]STARZ ENCORE WESTERNS[COLOR white] 1080[COLOR red] EXCLUSIVE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1698.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]TRUE ENTERTAINMENT[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1066.m3u8
+#EXTINF:-1,[COLOR orangered][B]CTV[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1083.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET 360[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1093.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET EAST[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1088.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET ONE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1092.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET ONTARIO[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1091.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET PACIFIC[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1090.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET WEST[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1089.m3u8
+#EXTINF:-1,[COLOR orangered][B]SPORTS NET WORLD[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1087.m3u8
+#EXTINF:-1,[COLOR orangered][B]TSN 2[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1098.m3u8
+#EXTINF:-1,[COLOR orangered][B]TSN 3[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1097.m3u8
+#EXTINF:-1,[COLOR orangered][B]TSN 4[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1096.m3u8
+#EXTINF:-1,[COLOR orangered][B]TSN 5[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1095.m3u8
+#EXTINF:-1,[COLOR orangered][B]WORLD[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1094.m3u8
+#EXTINF:-1,[COLOR red][B]A&E[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/396.m3u8
+#EXTINF:-1,[COLOR red][B]ABC LA 1080[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1636.m3u8
+#EXTINF:-1,[COLOR red][B]ABC NY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1557.m3u8
+#EXTINF:-1,[COLOR red][B]ABC PHILLY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/419.m3u8
+#EXTINF:-1,[COLOR red][B]AMC[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/435.m3u8
+#EXTINF:-1,[COLOR red][B]AMERICAN HEROES CHANNEL[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/545.m3u8
+#EXTINF:-1,[COLOR red][B]ANIMAL PLANET[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/383.m3u8
+#EXTINF:-1,[COLOR red][B]AUDIENCE NETWORK[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1679.m3u8
+#EXTINF:-1,[COLOR red][B]AXS TV[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1508.m3u8
+#EXTINF:-1,[COLOR red][B]BBC AMERICA[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/531.m3u8
+#EXTINF:-1,[COLOR red][B]BEIN SPORTS ESPANOL[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1668.m3u8
+#EXTINF:-1,[COLOR red][B]BEIN SPORTS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/350.m3u8
+#EXTINF:-1,[COLOR red][B]BET JAMS[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1560.m3u8
+#EXTINF:-1,[COLOR red][B]BET SOUL[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1691.m3u8
+#EXTINF:-1,[COLOR red][B]BET[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/417.m3u8
+#EXTINF:-1,[COLOR red][B]BIG TEN NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/390.m3u8
+#EXTINF:-1,[COLOR red][B]BOOMERANG[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/686.m3u8
+#EXTINF:-1,[COLOR red][B]BOUNCE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1593.m3u8
+#EXTINF:-1,[COLOR red][B]BRAVO[COLOR white][/B] 1080[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/437.m3u8
+#EXTINF:-1,[COLOR red][B]C-SPAN 1[COLOR white] HD[/B][/COLOR]
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,[COLOR red][B]C-SPAN 2[COLOR white] HD[/B][/COLOR]
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,[COLOR red][B]C-SPAN 3[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/873.m3u8
+#EXTINF:-1,[COLOR red][B]CARTOON NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/416.m3u8
+#EXTINF:-1,[COLOR red][B]CBS LA[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1638.m3u8
+#EXTINF:-1,[COLOR red][B]CBS NY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1550.m3u8
+#EXTINF:-1,[COLOR red][B]CBS PHILLY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/415.m3u8
+#EXTINF:-1,[COLOR red][B]CBS SPORTS NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/375.m3u8
+#EXTINF:-1,[COLOR red][B]CENTRIC[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1549.m3u8
+#EXTINF:-1,[COLOR red][B]CHILLER[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/426.m3u8
+#EXTINF:-1,[COLOR red][B]CMT[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/933.m3u8
+#EXTINF:-1,[COLOR red][B]CNBC[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/394.m3u8
+#EXTINF:-1,[COLOR red][B]CNN[COLOR white][/B] HD[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/369.m3u8
+#EXTINF:-1,[COLOR red][B]CNN[COLOR white][/B] MOBILE[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1563.m3u8
+#EXTINF:-1,[COLOR red][B]COMCAST SPORTSNET[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/483.m3u8
+#EXTINF:-1,[COLOR red][B]COMCAST SPORTSNET[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1562.m3u8
+#EXTINF:-1,[COLOR red][B]COMEDY CENTRAL[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/436.m3u8
+#EXTINF:-1,[COLOR red][B]COOKING CHANNEL[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/932.m3u8
+#EXTINF:-1,[COLOR red][B]CRIME AND INVESTIGATION[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/516.m3u8
+#EXTINF:-1,[COLOR red][B]CW PHILLY [COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1592.m3u8
+#EXTINF:-1,[COLOR red][B]DESTINATION AMERICA[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/411.m3u8
+#EXTINF:-1,[COLOR red][B]DISCOVERY FAMILY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/385.m3u8
+#EXTINF:-1,[COLOR red][B]DISCOVERY LIFE[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1644.m3u8
+#EXTINF:-1,[COLOR red][B]DISCOVERY SCIENCE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/465.m3u8
+#EXTINF:-1,[COLOR red][B]DISCOVERY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/402.m3u8
+#EXTINF:-1,[COLOR red][B]DISNEY JR.[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/374.m3u8
+#EXTINF:-1,[COLOR red][B]DISNEY XD[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/520.m3u8
+#EXTINF:-1,[COLOR red][B]DISNEY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/410.m3u8
+#EXTINF:-1,[COLOR red][B]DIY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/434.m3u8
+#EXTINF:-1,[COLOR red][B]E![COLOR white][/B] HD[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/381.m3u8
+#EXTINF:-1,[COLOR red][B]EL REY NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/432.m3u8
+#EXTINF:-1,[COLOR red][B]EPIX 2[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/349.m3u8
+#EXTINF:-1,[COLOR red][B]EPIX[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/366.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN [COLOR white]1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/468.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN [COLOR white]MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/477.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN 2[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/478.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN 2[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/469.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN CLASSICS[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1509.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN DEPORTES[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1641.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN NEWS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1113.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN U[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/470.m3u8
+#EXTINF:-1,[COLOR red][B]ESPN U[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/479.m3u8
+#EXTINF:-1,[COLOR red][B]FOOD NETWORK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/438.m3u8
+#EXTINF:-1,[COLOR red][B]FOX BUSINESS[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/518.m3u8
+#EXTINF:-1,[COLOR red][B]FOX DEPORTES[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1642.m3u8
+#EXTINF:-1,[COLOR red][B]FOX LA[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1637.m3u8
+#EXTINF:-1,[COLOR red][B]FOX NEWS[COLOR white][/B] 1080[/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/361.m3u8
+#EXTINF:-1,[COLOR red][B]FOX NY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1552.m3u8
+#EXTINF:-1,[COLOR red][B]FOX PHILLY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/401.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SOCCER PLUS[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1502.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS 1[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/541.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS 2[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/384.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS 2[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1542.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS FLORIDA[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1688.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS SUN[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1689.m3u8
+#EXTINF:-1,[COLOR red][B]FOX SPORTS WEST[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1633.m3u8
+#EXTINF:-1,[COLOR red][B]FREEFORM[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/373.m3u8
+#EXTINF:-1,[COLOR red][B]FYI[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/539.m3u8
+#EXTINF:-1,[COLOR red][B]GOLF CHANNEL[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/448.m3u8
+#EXTINF:-1,[COLOR red][B]GSN[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/398.m3u8
+#EXTINF:-1,[COLOR red][B]HALLMARK MOVIES & MYSTERIES[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/431.m3u8
+#EXTINF:-1,[COLOR red][B]HALLMARK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/544.m3u8
+#EXTINF:-1,[COLOR red][B]HBO FAMILY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/341.m3u8
+#EXTINF:-1,[COLOR red][B]HBO SIGNATURE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/346.m3u8
+#EXTINF:-1,[COLOR red][B]HGTV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/412.m3u8
+#EXTINF:-1,[COLOR red][B]HISTORY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/425.m3u8
+#EXTINF:-1,[COLOR red][B]HLN [COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1554.m3u8
+#EXTINF:-1,[COLOR red][B]IFC[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/540.m3u8
+#EXTINF:-1,[COLOR red][B]INVESTIGATION DISCOVERY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/407.m3u8
+#EXTINF:-1,[COLOR red][B]KTLA 1080[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1701.m3u8
+#EXTINF:-1,[COLOR red][B]LIFETIME MOVIE NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/532.m3u8
+#EXTINF:-1,[COLOR red][B]LIFETIME[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/533.m3u8
+#EXTINF:-1,[COLOR red][B]LOGO[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1506.m3u8
+#EXTINF:-1,[COLOR red][B]MAV TV[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1664.m3u8
+#EXTINF:-1,[COLOR red][B]MILITARY HISTORY[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/480.m3u8
+#EXTINF:-1,[COLOR red][B]MLB NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/420.m3u8
+#EXTINF:-1,[COLOR red][B]MLB NETWORK[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1670.m3u8
+#EXTINF:-1,[COLOR red][B]MSG [COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1547.m3u8
+#EXTINF:-1,[COLOR red][B]MSNBC[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/354.m3u8
+#EXTINF:-1,[COLOR red][B]MTV 2[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/376.m3u8
+#EXTINF:-1,[COLOR red][B]MTV CLASSIC[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1690.m3u8
+#EXTINF:-1,[COLOR red][B]MTV TR3S[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1678.m3u8
+#EXTINF:-1,[COLOR red][B]MTV U[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1692.m3u8
+#EXTINF:-1,[COLOR red][B]MTV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/422.m3u8
+#EXTINF:-1,[COLOR red][B]MY TV PHILLY[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1596.m3u8
+#EXTINF:-1,[COLOR red][B]NAT GEO WILD[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/358.m3u8
+#EXTINF:-1,[COLOR red][B]NATIONAL GEOGRAPHIC[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/537.m3u8
+#EXTINF:-1,[COLOR red][B]NBA TV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/403.m3u8
+#EXTINF:-1,[COLOR red][B]NBA TV[COLOR white] MOBILE[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1669.m3u8
+#EXTINF:-1,[COLOR red][B]NBC LA[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1639.m3u8
+#EXTINF:-1,[COLOR red][B]NBC NY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1551.m3u8
+#EXTINF:-1,[COLOR red][B]NBC PHILLY 1080[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1594.m3u8
+#EXTINF:-1,[COLOR red][B]NBC SPORTS NETWORK[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/367.m3u8
+#EXTINF:-1,[COLOR red][B]NFL NETWORK[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/405.m3u8
+#EXTINF:-1,[COLOR red][B]NICK JR.[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/395.m3u8
+#EXTINF:-1,[COLOR red][B]NICKELODEON[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/423.m3u8
+#EXTINF:-1,[COLOR red][B]NICKTOONS[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/353.m3u8
+#EXTINF:-1,[COLOR blue][B]*************NEXT NFL GAME ON 11/16/2017*************[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1717.m3u8
+#EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS BOX OFFICE PPV[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1004.m3u8
+#EXTINF:-1,[COLOR red][B]ANTENNA TV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1597.m3u8
+#EXTINF:-1,[COLOR red][B]NBC UNIVERSO[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1553.m3u8
+#EXTINF:-1,[COLOR red][B]MTV LIVE[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/519.m3u8
+#EXTINF:-1,[COLOR red][B]WILLOW [COLOR white]MOBILE[COLOR magenta] 720[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1677.m3u8
+#EXTINF:-1,[COLOR red][B]WILLOW[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1676.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 1[COLOR white]---------- 1080[COLOR red] 8:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1756.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 1[COLOR white]---------- 720[COLOR red] 8:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1757.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 14[COLOR white] --------------- 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1758.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 14[COLOR white] --------------- 720[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1759.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/677.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/754.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/909.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1541.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/907.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1528.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/684.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1540.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/991.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1532.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1708.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1707.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1706.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1522.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] --------------- 1080[COLOR red] 4:05 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1533.m3u8
+#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] --------------- 720[COLOR red] 4:05 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1704.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] --------------- 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1703.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] --------------- 720[COLOR red] 4:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1740.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] --------------- 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1741.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] --------------- 720[COLOR red] 4:25 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1742.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] --------------- 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1743.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] --------------- 720[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1744.m3u8
+#EXTINF:-1,[COLOR red][B]BABY FIRST[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1724.m3u8
+#EXTINF:-1,[COLOR red][B]CARS TV[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1725.m3u8
+#EXTINF:-1,[COLOR red][B]COMEDY TV[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1726.m3u8
+#EXTINF:-1,[COLOR red][B]FLIX[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1727.m3u8
+#EXTINF:-1,[COLOR red][B]FUSION[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1728.m3u8
+#EXTINF:-1,[COLOR red][B]GREAT AMERICAN COUNTRY[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1729.m3u8
+#EXTINF:-1,[COLOR red][B]MGM[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1730.m3u8
+#EXTINF:-1,[COLOR red][B]NICK 2[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1731.m3u8
+#EXTINF:-1,[COLOR red][B]NICK MUSIC[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1732.m3u8
+#EXTINF:-1,[COLOR red][B]TCM[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1734.m3u8
+#EXTINF:-1,[COLOR red][B]TMC EXTRA[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1736.m3u8
+#EXTINF:-1,[COLOR red][B]TMC[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1735.m3u8
+#EXTINF:-1,[COLOR red][B]UP[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1739.m3u8
+#EXTINF:-1,[COLOR white][B]*************NBA GAMES FOR 11/18/2017*************[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1781.m3u8
+#EXTINF:-1,[COLOR white][B]NBA YES [COLOR red]---------- 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1800.m3u8
+#EXTINF:-1,[COLOR white][B]NBA YES [COLOR red]---------- 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1801.m3u8
+#EXTINF:-1,[COLOR white][B]*NBA CSN [COLOR red]WARRIORS @ 76ERS 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1802.m3u8
+#EXTINF:-1,[COLOR white][B]*NBA CSN [COLOR red]WARRIORS @ 76ERS 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1803.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]JAZZ @ MAGIC 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1784.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]JAZZ @ MAGIC 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1785.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]CELTICS @ HAWKS 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1786.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]CELTICS @ HAWKS 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1787.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]ROCKETS @ GRIZZLIES 1080[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1788.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]ROCKETS @ GRIZZLIES 720[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1789.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]BUCKS @ MAVERICKS 1080[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1790.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]BUCKS @ MAVERICKS 720[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1791.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]KINGS @ TRAILBLAZERS 1080[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1792.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]KINGS @ TRAILBLAZERS 720[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1793.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 6 [COLOR red]---------- 8:00 PM ET 1080[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1794.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 6 [COLOR red]---------- 8:00 PM ET 720[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1795.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 7 [COLOR red]---------- 1080[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1796.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 7 [COLOR red]---------- 720[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1797.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 8 [COLOR red]--------------- 1080[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1798.m3u8
+#EXTINF:-1,[COLOR white][B]NBA 8 [COLOR red]--------------- 720[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1799.m3u8
+#EXTINF:-1,[COLOR white][B]NBA SNLA [COLOR red]---------- 1080[B][COLOR white] 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1804.m3u8
+#EXTINF:-1,[COLOR white][B]NBA SNLA [COLOR red]---------- 720[B][COLOR white] 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1805.m3u8
+#EXTINF:-1,[COLOR red][B]MSG+[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1780.m3u8
+#EXTINF:-1,[COLOR white][B]**NBA FS PRIME TICKET [COLOR red]CLIPPERS @ HORNETS 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1808.m3u8
+#EXTINF:-1,[COLOR white][B]**NBA FS PRIME TICKET [COLOR red]CLIPPERS @ HORNETS 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1809.m3u8
+#EXTINF:-1,[COLOR white][B]NBA FS SUN [COLOR red]---------- 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1810.m3u8
+#EXTINF:-1,[COLOR white][B]NBA FS SUN [COLOR red]---------- 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1811.m3u8
+#EXTINF:-1,[COLOR white][B]NBA MSG [COLOR red]---------- 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1812.m3u8
+#EXTINF:-1,[COLOR white][B]NBA MSG [COLOR red]---------- 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1813.m3u8
+#EXTINF:-1,[COLOR white][B]NBA ESPN [COLOR red]--------------- 1080[B][COLOR white] 8 & 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1806.m3u8
+#EXTINF:-1,[COLOR white][B]NBA ESPN [COLOR red]--------------- 720[B][COLOR white] 8 & 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1807.m3u8
+#EXTINF:-1,[COLOR white][B]*************NHL GAMES FOR 11/18/2017*************[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1775.m3u8
+#EXTINF:-1,[COLOR white][B]NHL MSG [COLOR hotpink]----------[COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1771.m3u8
+#EXTINF:-1,[COLOR white][B]**NHL FSW [COLOR hotpink]PANTHERS @ KINGS[COLOR white] 4:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1773.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 1 [COLOR hotpink]COYOTES @ SENATORS[COLOR white]  PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1760.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 2 [COLOR hotpink]OILERS @ STARS[COLOR white]  PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1761.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 3 [COLOR hotpink]MAPLE LEAFS @ CANADIENS[COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1766.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 4 [COLOR hotpink]HURRICANES @ SABRES[COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1762.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 5 [COLOR hotpink]WILD @ CAPITALS[COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1767.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 6 [COLOR hotpink]AVALANCHE @ PREDATORS[COLOR white] 8:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1768.m3u8
+#EXTINF:-1,[COLOR white][B]****NHL CSN  [COLOR hotpink]FLAMES @ FLYERS[COLOR white]  PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1774.m3u8
+#EXTINF:-1,[COLOR white][B]NHL FOX PRIME TICKET [COLOR hotpink]----------[COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1764.m3u8
+#EXTINF:-1,[COLOR white][B]NHL FS FLORIDA [COLOR hotpink]----------[COLOR white] 7:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1772.m3u8
+#EXTINF:-1,[COLOR white][B]*NHL NETWORK [COLOR hotpink]BLACKHAWKS @ PENGUINS[COLOR white] 7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1770.m3u8
+#EXTINF:-1,[COLOR white][B]***NHL MSG+ [COLOR hotpink]DEVILS @ JETS & ISLANDERS @ LIGHTNING[COLOR white] 3 &7:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1765.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 8 [COLOR hotpink]BRUINS @ SHARKS[COLOR white] 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1763.m3u8
+#EXTINF:-1,[COLOR white][B]NHL 7 [COLOR hotpink]BLUES @ CANUCKS[COLOR white] 10:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1769.m3u8
+#EXTINF:-1,[COLOR orangered][B]SHOWCASE[COLOR white] HD[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1085.m3u8
+#EXTINF:-1,[COLOR red][B]HERE TV[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1779.m3u8
+#EXTINF:-1,[COLOR red][B]COZI TV[COLOR white] 1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1599.m3u8
+#EXTINF:-1,[COLOR red][B]BUZZR[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1559.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 13[COLOR white] --------------- 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1754.m3u8
+#EXTINF:-1,[COLOR blue][B]NFL 13[COLOR white] --------------- 720[COLOR red] 8:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1755.m3u8
+#EXTINF:-1,[COLOR blue][B]****NFL [COLOR red]SUNDAY TICKET[COLOR blue] GAME MIX [COLOR white] 720[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1777.m3u8
+#EXTINF:-1,[COLOR blue][B]****NFL [COLOR red]SUNDAY TICKET[COLOR blue] GAME MIX [COLOR white]1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1776.m3u8
+#EXTINF:-1,[COLOR blue][B]***NFL [COLOR red]FANTASY [COLOR blue]ZONE [COLOR white]1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1745.m3u8
+#EXTINF:-1,[COLOR blue][B]***NFL [COLOR red]FANTASY [COLOR blue]ZONE [COLOR white]720[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1746.m3u8
+#EXTINF:-1,[COLOR blue][B]**NFL [COLOR red]RED[COLOR blue]ZONE [COLOR white]1080[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1747.m3u8
+#EXTINF:-1,[COLOR blue][B]**NFL [COLOR red]RED[COLOR blue]ZONE[COLOR white] 720[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1748.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV UFC FIGHT NIGHT 121: WERDUM VS. TYBURA 1080[COLOR white] 6:30 PM EST[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/900.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV UFC FIGHT NIGHT 121: WERDUM VS. TYBURA 720[COLOR white] 6:30 PM EST[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1702.m3u8
