@@ -743,7 +743,7 @@ http://gorilladick4.us:2086/live/gears/tv/395.m3u8
 http://gorilladick4.us:2086/live/gears/tv/423.m3u8
 #EXTINF:-1,[COLOR red][B]NICKTOONS[COLOR white] 1080[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/353.m3u8
-#EXTINF:-1,[COLOR blue][B]*************NEXT NFL GAME ON 11/16/2017*************[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*************NFL GAMES FOR 11/19/2017*************[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1717.m3u8
 #EXTINF:-1,[COLOR deepskyblue][B]SKY SPORTS BOX OFFICE PPV[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1004.m3u8
@@ -757,57 +757,57 @@ http://gorilladick4.us:2086/live/gears/tv/519.m3u8
 http://gorilladick4.us:2086/live/gears/tv/1677.m3u8
 #EXTINF:-1,[COLOR red][B]WILLOW[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1676.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 1[COLOR white]---------- 1080[COLOR red] 8:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 1[COLOR white]LIONS @ BEARS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1756.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 1[COLOR white]---------- 720[COLOR red] 8:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 1[COLOR white]LIONS @ BEARS 720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1757.m3u8
 #EXTINF:-1,[COLOR blue][B]NFL 14[COLOR white] --------------- 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1758.m3u8
 #EXTINF:-1,[COLOR blue][B]NFL 14[COLOR white] --------------- 720[COLOR red] 8:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1759.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] JAGUARS @ BROWNS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/677.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 2[COLOR white] JAGUARS @ BROWNS 720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/754.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] RAVENS @ PACKERS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/909.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 3[COLOR white] RAVENS @ PACKERS  720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1541.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] CARDINALS @ TEXANS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/907.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 4[COLOR white] CARDINALS @ TEXANS  720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1528.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] RAMS @ VIKINGS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/684.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 5[COLOR white] RAMS @ VIKINGS 720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1540.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] REDSKINS @ SAINTS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/991.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 6[COLOR white] REDSKINS @ SAINTS  720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1532.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] CHIEFS @ GIANTS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1708.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] ---------------  720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 7[COLOR white] CHIEFS @ GIANTS  720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1707.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] --------------- 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] BUCCANEERS @ DOLPHINS 1080[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1706.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] --------------- 720[COLOR red] 1:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 8[COLOR white] BUCCANEERS @ DOLPHINS 720[COLOR red] 1:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1522.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] --------------- 1080[COLOR red] 4:05 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] BILLS @ CHARGERS 1080[COLOR red] 4:05 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1533.m3u8
-#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] --------------- 720[COLOR red] 4:05 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]*NFL 9[COLOR white] BILLS @ CHARGERS 720[COLOR red] 4:05 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1704.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] --------------- 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] BENGALS @ BRONCOS 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1703.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] --------------- 720[COLOR red] 4:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 10[COLOR white] BENGALS @ BRONCOS 720[COLOR red] 4:25 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1740.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] --------------- 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] PATRIOTS @ RAIDERS 1080[COLOR red] 4:25 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1741.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] --------------- 720[COLOR red] 4:25 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 11[COLOR white] PATRIOTS @ RAIDERS 720[COLOR red] 4:25 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1742.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] --------------- 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] EAGLES @ COWBOYS 1080[COLOR red] 8:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1743.m3u8
-#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] --------------- 720[COLOR red] 8:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR blue][B]NFL 12[COLOR white] EAGLES @ COWBOYS 720[COLOR red] 8:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1744.m3u8
 #EXTINF:-1,[COLOR red][B]BABY FIRST[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1724.m3u8
@@ -835,35 +835,35 @@ http://gorilladick4.us:2086/live/gears/tv/1736.m3u8
 http://gorilladick4.us:2086/live/gears/tv/1735.m3u8
 #EXTINF:-1,[COLOR red][B]UP[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1739.m3u8
-#EXTINF:-1,[COLOR white][B]*************NBA GAMES FOR 11/18/2017*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]*************NBA GAMES FOR 11/19/2017*************[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1781.m3u8
-#EXTINF:-1,[COLOR white][B]NBA YES [COLOR red]---------- 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]**NBA YES [COLOR red]WARRIORS @ NETS 1080[B][COLOR white] 6:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1800.m3u8
-#EXTINF:-1,[COLOR white][B]NBA YES [COLOR red]---------- 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]**NBA YES [COLOR red]WARRIORS @ NETS 720[B][COLOR white] 6:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1801.m3u8
-#EXTINF:-1,[COLOR white][B]*NBA CSN [COLOR red]WARRIORS @ 76ERS 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA CSN [COLOR red]--------------- 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1802.m3u8
-#EXTINF:-1,[COLOR white][B]*NBA CSN [COLOR red]WARRIORS @ 76ERS 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA CSN [COLOR red]--------------- 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1803.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]JAZZ @ MAGIC 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]WIZARDS @ RAPTORS 1080[B][COLOR white] 3:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1784.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]JAZZ @ MAGIC 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 1 [COLOR red]WIZARDS @ RAPTORS 720[B][COLOR white] 3:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1785.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]CELTICS @ HAWKS 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]PISTONS @ TIMBERWOLVES 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1786.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]CELTICS @ HAWKS 720[B][COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 2 [COLOR red]PISTONS @ TIMBERWOLVES 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1787.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]ROCKETS @ GRIZZLIES 1080[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]BULLS @ SUNS 1080[B][COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1788.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]ROCKETS @ GRIZZLIES 720[B][COLOR white] 8:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 3 [COLOR red]BULLS @ SUNS 720[B][COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1789.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]BUCKS @ MAVERICKS 1080[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]--------------- 1080[B][COLOR white] 9:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1790.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]BUCKS @ MAVERICKS 720[B][COLOR white] 9:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 4 [COLOR red]--------------- 720[B][COLOR white] 9:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1791.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]KINGS @ TRAILBLAZERS 1080[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]--------------- 1080[B][COLOR white] 10:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1792.m3u8
-#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]KINGS @ TRAILBLAZERS 720[B][COLOR white] 10:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA 5 [COLOR red]--------------- 720[B][COLOR white] 10:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1793.m3u8
 #EXTINF:-1,[COLOR white][B]NBA 6 [COLOR red]---------- 8:00 PM ET 1080[B][COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1794.m3u8
@@ -877,19 +877,19 @@ http://gorilladick4.us:2086/live/gears/tv/1797.m3u8
 http://gorilladick4.us:2086/live/gears/tv/1798.m3u8
 #EXTINF:-1,[COLOR white][B]NBA 8 [COLOR red]--------------- 720[B][COLOR white] 9:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1799.m3u8
-#EXTINF:-1,[COLOR white][B]NBA SNLA [COLOR red]---------- 1080[B][COLOR white] 10:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]*NBA SNLA [COLOR red]NUGGETS @ LAKERS 1080[B][COLOR white] 9:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1804.m3u8
-#EXTINF:-1,[COLOR white][B]NBA SNLA [COLOR red]---------- 720[B][COLOR white] 10:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]*NBA SNLA [COLOR red]NUGGETS @ LAKERS 720[B][COLOR white] 9:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1805.m3u8
 #EXTINF:-1,[COLOR red][B]MSG+[COLOR white] 1080[COLOR lime] RELOADED[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1780.m3u8
-#EXTINF:-1,[COLOR white][B]**NBA FS PRIME TICKET [COLOR red]CLIPPERS @ HORNETS 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA FS PRIME TICKET [COLOR red]--------------- 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1808.m3u8
-#EXTINF:-1,[COLOR white][B]**NBA FS PRIME TICKET [COLOR red]CLIPPERS @ HORNETS 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NBA FS PRIME TICKET [COLOR red]--------------- 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1809.m3u8
-#EXTINF:-1,[COLOR white][B]NBA FS SUN [COLOR red]---------- 1080[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]***NBA FS SUN [COLOR red]PACERS @ HEAT 1080[B][COLOR white] 5:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1810.m3u8
-#EXTINF:-1,[COLOR white][B]NBA FS SUN [COLOR red]---------- 720[B][COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]***NBA FS SUN [COLOR red]PACERS @ HEAT 720[B][COLOR white] 5:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1811.m3u8
 #EXTINF:-1,[COLOR white][B]NBA MSG [COLOR red]---------- 1080[B][COLOR white] 7:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1812.m3u8
@@ -899,37 +899,37 @@ http://gorilladick4.us:2086/live/gears/tv/1813.m3u8
 http://gorilladick4.us:2086/live/gears/tv/1806.m3u8
 #EXTINF:-1,[COLOR white][B]NBA ESPN [COLOR red]--------------- 720[B][COLOR white] 8 & 10:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1807.m3u8
-#EXTINF:-1,[COLOR white][B]*************NHL GAMES FOR 11/18/2017*************[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]*************NHL GAMES FOR 11/19/2017*************[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1775.m3u8
-#EXTINF:-1,[COLOR white][B]NHL MSG [COLOR hotpink]----------[COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]***NHL MSG [COLOR hotpink]SENATORS @ RANGERS[COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1771.m3u8
-#EXTINF:-1,[COLOR white][B]**NHL FSW [COLOR hotpink]PANTHERS @ KINGS[COLOR white] 4:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]*NHL FSW [COLOR hotpink]KINGS @ GOLDEN KNIGHTS[COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1773.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 1 [COLOR hotpink]COYOTES @ SENATORS[COLOR white]  PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 1 [COLOR hotpink]AVALANCHE @ RED WINGS[COLOR white]  5:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1760.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 2 [COLOR hotpink]OILERS @ STARS[COLOR white]  PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 2 [COLOR hotpink]----------[COLOR white]  PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1761.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 3 [COLOR hotpink]MAPLE LEAFS @ CANADIENS[COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 3 [COLOR hotpink]----------[COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1766.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 4 [COLOR hotpink]HURRICANES @ SABRES[COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 4 [COLOR hotpink]----------[COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1762.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 5 [COLOR hotpink]WILD @ CAPITALS[COLOR white] 7:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 5 [COLOR hotpink]----------[COLOR white] 7:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1767.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 6 [COLOR hotpink]AVALANCHE @ PREDATORS[COLOR white] 8:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 6 [COLOR hotpink]----------[COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1768.m3u8
-#EXTINF:-1,[COLOR white][B]****NHL CSN  [COLOR hotpink]FLAMES @ FLYERS[COLOR white]  PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL CSN  [COLOR hotpink]----------[COLOR white]  PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1774.m3u8
-#EXTINF:-1,[COLOR white][B]NHL FOX PRIME TICKET [COLOR hotpink]----------[COLOR white] 10:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]**NHL FOX PRIME TICKET [COLOR hotpink]PANTHERS @ DUCKS[COLOR white] 8:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1764.m3u8
 #EXTINF:-1,[COLOR white][B]NHL FS FLORIDA [COLOR hotpink]----------[COLOR white] 7:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1772.m3u8
-#EXTINF:-1,[COLOR white][B]*NHL NETWORK [COLOR hotpink]BLACKHAWKS @ PENGUINS[COLOR white] 7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL NETWORK [COLOR hotpink]----------[COLOR white] 7:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1770.m3u8
-#EXTINF:-1,[COLOR white][B]***NHL MSG+ [COLOR hotpink]DEVILS @ JETS & ISLANDERS @ LIGHTNING[COLOR white] 3 &7:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]****NHL MSG+ [COLOR hotpink]ISLANDERS @ HURRICANES[COLOR white] 5:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1765.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 8 [COLOR hotpink]BRUINS @ SHARKS[COLOR white] 10:30 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 8 [COLOR hotpink]----------[COLOR white] 10:30 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1763.m3u8
-#EXTINF:-1,[COLOR white][B]NHL 7 [COLOR hotpink]BLUES @ CANUCKS[COLOR white] 10:00 PM ET[/B][/COLOR]
+#EXTINF:-1,[COLOR white][B]NHL 7 [COLOR hotpink]----------[COLOR white] 10:00 PM ET[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1769.m3u8
 #EXTINF:-1,[COLOR orangered][B]SHOWCASE[COLOR white] HD[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1085.m3u8
@@ -955,7 +955,15 @@ http://gorilladick4.us:2086/live/gears/tv/1746.m3u8
 http://gorilladick4.us:2086/live/gears/tv/1747.m3u8
 #EXTINF:-1,[COLOR blue][B]**NFL [COLOR red]RED[COLOR blue]ZONE[COLOR white] 720[/B][/COLOR]
 http://gorilladick4.us:2086/live/gears/tv/1748.m3u8
-#EXTINF:-1,[COLOR gold][B]PPV UFC FIGHT NIGHT 121: WERDUM VS. TYBURA 1080[COLOR white] 6:30 PM EST[/B][/COLOR]
-http://gorilladick4.us:2086/live/gears/tv/900.m3u8
-#EXTINF:-1,[COLOR gold][B]PPV UFC FIGHT NIGHT 121: WERDUM VS. TYBURA 720[COLOR white] 6:30 PM EST[/B][/COLOR]
-http://gorilladick4.us:2086/live/gears/tv/1702.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV WWE SURVIVOR SERIES 2017 1080 [COLOR white] 7:00 PM EST[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1750.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV WWE SURVIVOR SERIES 2017  720 [COLOR white] 8:00 PM EST[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1751.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV THE WALKING DEAD SEASON 8 1080[COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1709.m3u8
+#EXTINF:-1,[COLOR gold][B]PPV THE WALKING DEAD SEASON 8 720[COLOR white] 9:00 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1705.m3u8
+#EXTINF:-1,[COLOR white][B]NBA TSN [COLOR red]----------------- 1080[B][COLOR white] 8 & 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1782.m3u8
+#EXTINF:-1,[COLOR white][B]NBA TSN [COLOR red]----------------- 720[B][COLOR white] 8 & 10:30 PM ET[/B][/COLOR]
+http://gorilladick4.us:2086/live/gears/tv/1783.m3u8
