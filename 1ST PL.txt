@@ -64,7 +64,7 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR cyan][B] Bliss Tv [/B][/COLOR] - [COLOR yellow][B] WWE - Offline [/B][/COLOR] </title>
+	<title>[COLOR cyan][B] Bliss Tv [/B][/COLOR] - [COLOR yellow][B] WWE - Survfivor Series - 2017 [/B][/COLOR] </title>
 <link>https://goo.gl/AQLofz</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://goo.gl/Uk4pqL</thumbnail>
