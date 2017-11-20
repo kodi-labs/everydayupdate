@@ -15,7 +15,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan]Shove a cactus up their cunt if anyone sold you this playlist!! [/COLOR] </title>
+	<title> [COLOR cyan]Box sellers stay away. Do not pay for this playlist [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -29,8 +29,8 @@
 	<item>
 	<title> [COLOR cyan] http://bit.ly/johnbliss - Join the telegram group  [/COLOR] </title>
 <link>ignore</link>
-<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</fanart>
+<thumbnail>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</thumbnail>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
