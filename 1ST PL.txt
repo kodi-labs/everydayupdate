@@ -121,29 +121,6 @@
 </streaminginfo>
 
 
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow][B][I] Weekend fun [/COLOR][/I][/B] </title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://79.137.70.141:25461/get.php?username=Global1WeekTrial&amp;password=Global1WeekTrial&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow][B][I] Weekend fun [/COLOR][/I][/B] - 02 </title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt</externallink>
-	</item>
-</streaminginfo>
-
 
 
 
@@ -165,14 +142,13 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR] - The best</title>
+	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR] </title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://ace-tv.xyz:25461/get.php?username=Andrea&amp;password=Andrea&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://iptvshare.dynu.com:12500/get.php?username=xnowqnqonccq&amp;password=bxkqkabcqiub31oip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
-
 
 
 
@@ -208,36 +184,38 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Temporary - 3rd November, 2017 - Sports [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] 05 [/I][/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptvsports.net:8080/get.php?username=skype4xchnge&amp;password=jibrankhuhro&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://bigiptv.ovh:8000/get.php?username=mounir&amp;password=mounir&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] Unknown list [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/2nd.txt</externallink>
-	</item>
-</streaminginfo>
 
 
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Attitude Adjustment [/I][/B][/COLOR]</title>
+	<title>Bliss Tv - [COLOR lime][B][I] 06 [/I][/B][/COLOR] - Private hosting</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://ghosttechuk.ddns.net:25461/get.php?username=Lz2L84DBFh&amp;password=F6L5F7APCb&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://173.212.226.236:8888/get.php?username=FreeChampionLeague&amp;password=ALBANIAIPTV.NET&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - [COLOR cyan][B][I] Attitude Adjustment .. [/I][/B][/COLOR]</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
+   <externallink>http://qapps.newgooder.com/plugintv/ProIPTVApple.m3u</externallink>
 	</item>
 </streaminginfo>
 
