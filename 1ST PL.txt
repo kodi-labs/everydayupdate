@@ -215,7 +215,7 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://qapps.newgooder.com/plugintv/ProIPTVApple.m3u</externallink>
+   <externallink>d</externallink>
 	</item>
 </streaminginfo>
 
