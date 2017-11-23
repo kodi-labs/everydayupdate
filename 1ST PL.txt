@@ -3,7 +3,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] THF Entertainment Fuck you IDIOT[/B][/COLOR] |</title>
+	<title>| [COLOR aqua][B] THF Entertainment stole my playlist[/B][/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -25,16 +25,6 @@
 
 
 
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR aqua][B] AND WAS USED FOR DONATION[/B][/COLOR] |</title>
-<link>ignore</link>
-<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5$</externallink>
-	</item>
-</streaminginfo> 
 
 
 <streaminginfo>
