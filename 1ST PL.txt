@@ -3,7 +3,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] THF Entertainment stole my playlist[/B][/COLOR] |</title>
+	<title>| [COLOR aqua][B] TH Entertainment& Tech Guide stole my playlist[/B][/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
@@ -54,7 +54,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+	<title>| [COLOR yellow] TH Entertainment& Tech Guide have stole my playlist [/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
 <thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
@@ -67,7 +67,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+	<title>| [COLOR yellow] TH Entertainment& Tech Guide have stole my playlist [/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
 <thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
@@ -78,7 +78,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+	<title>| [COLOR yellow] Don't risk your reputaion [/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
 <thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
@@ -89,7 +89,7 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+	<title>| [COLOR yellow] By stealing my playlist [/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
 <thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
@@ -97,87 +97,11 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
-<link>ignore</link>
-<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
-<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
-   <externallink>h&amp;output=mpegts</externallink>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>number 01</cname>
-	<item>
-	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+	<title>| [COLOR yellow] I will never give permission to use my playlist [/COLOR] |</title>
 <link>ignore</link>
 <fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
 <thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
