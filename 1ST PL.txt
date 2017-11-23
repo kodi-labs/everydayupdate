@@ -41,8 +41,8 @@
 	<item>
 	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
    <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
@@ -50,114 +50,124 @@
 
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-	<cname>number 02</cname>
+	<cname>number 01</cname>
 	<item>
-	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
-<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
-<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnADER$$</externallink>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
+<link>ignore</link>
+<fanart>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</fanart>
+<thumbnail>https://wab.org/wp-content/uploads/2015/10/BookThieves2-624x573.png</thumbnail>
+   <externallink>h&amp;output=mpegts</externallink>
+	</item>
+</streaminginfo>
 
 </streamingInfos>
