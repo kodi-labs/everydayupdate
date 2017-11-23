@@ -3,11 +3,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR aqua][B] It's a free project for everyone to use [/B][/COLOR] |</title>
+	<title>| [COLOR aqua][B] THF Entertainment Fuck you IDIOT[/B][/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://midnighttvstreams.ddns.net:5$</externallink>
 	</item>
 </streaminginfo> 
 
@@ -15,11 +15,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan]Box sellers stay away. Do not pay for this playlist [/COLOR] </title>
+	<title> [COLOR cyan]NO MORE PLAYLIST FOR YOU GUYS HERE [/COLOR] </title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://mi</externallink>
 	</item>
 </streaminginfo>
 
@@ -27,11 +27,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title> [COLOR cyan] http://bit.ly/johnbliss - Join the telegram group  [/COLOR] </title>
+	<title> [COLOR cyan] JOIN MY TELEGRAM GROUP  [/COLOR] </title>
 <link>ignore</link>
 <fanart>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</fanart>
 <thumbnail>https://i.ytimg.com/vi/pP2vFUh4lXc/maxresdefault.jpg</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://midnighttvs$</externallink>
 	</item>
 </streaminginfo>
 
@@ -39,11 +39,11 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-	<title>| [COLOR yellow] November 18, 2017 - Latest Updates [/COLOR] |</title>
+	<title>| [COLOR yellow] THF Entertainment IS A THIEF [/COLOR] |</title>
 <link>ignore</link>
 <fanart>http://assets.fanart.tv/fanart/movies/19995/moviebackground/avatar-502fffe3b3e78.jpg</fanart>
 <thumbnail>https://i.pinimg.com/736x/67/11/33/671133613fafe6cc50f4b4166b9bf192--deadpool-quotes-deadpool-art.jpg</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>h&amp;output=mpegts</externallink>
 	</item>
 </streaminginfo>
 
@@ -52,453 +52,112 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[COLOR green][B] Send John Bliss a message if you want to send a donation[/B][/COLOR]</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
 <fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
 <thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
-   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR cyan][B] Bliss Tv [/B][/COLOR] - [COLOR yellow][B] WWE - Survfivor Series - 2017 [/B][/COLOR] </title>
-<link>https://goo.gl/AQLofz</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://goo.gl/Uk4pqL</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/the%20rock.m3u</externallink>
-	</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown][B] Bliss Tv [/B][/COLOR] - [COLOR aqua][B] Video on Demand by John Bliss [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/WMHBxN$$TSDOWNLOADER$$</externallink>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 01</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/hJqDYp$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR red] Game Changer [/COLOR] 02</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/TX7Wvv$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B] Mixed List [/B][/COLOR]</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bit.ly/dailyupdatebliss$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR green][B][I] 01 [/COLOR][/I][/B] </title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://zeebra.tv:8000/get.php?username=121212&amp;password=121212&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] 02[/I][/B][/COLOR] </title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptvshare.dynu.com:12500/get.php?username=xnowqnqonccq&amp;password=bxkqkabcqiub31oip&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] 03 [/I][/B][/COLOR]</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://zeebra.tv:8000/get.php?username=salauddin&amp;password=salauddin&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] 04 [/I][/B][/COLOR]</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://superstreams.tv/get.php?username=WINSTON&amp;password=WINSTON&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] 05 [/I][/B][/COLOR]</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bigiptv.ovh:8000/get.php?username=mounir&amp;password=mounir&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
 
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>Bliss Tv - [COLOR lime][B][I] 06 [/I][/B][/COLOR] - Private hosting</title>
+	<title>[COLOR green][B] THF Entertainment IS A THIEF[/B][/COLOR]</title>
 <link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://173.212.226.236:8888/get.php?username=FreeChampionLeague&amp;password=ALBANIAIPTV.NET&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>http://chicagohanuman.org/images/paypal_logo_donate.gif</fanart>
+<thumbnail>https://www.paypalobjects.com/webstatic/en_US/mktg/donations/donate_hand.png</thumbnail>
+   <externallink>http://midnADER$$</externallink>
 	</item>
 </streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Attitude Adjustment .. [/I][/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>d</externallink>
-	</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow]Major Fox[/COLOR] </title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-
-   <externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-   
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR gold]Vanquisher - Offline[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-
-   <externallink>http://drop1.ipfox.co:8080/get.php?username=winsor_BRKdS5&amp;password=G4lOS1yD&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-   
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR cyan][B][I] Power House [/I][/B][/COLOR] - Fixed</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR pink]AURIBUS TENEO LUPUM[/COLOR] - Offline</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-
-   <externallink>http://us.iptvlatino.xyz:25461/get.php?username=lucas&amp;password=lucas&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-   
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR lime][B] USA & U.K. - Sports channels included [/B][/COLOR] - Online</title>
-<link>ignore</link>
-<fanart>https://www.americasbookie.com/img/sports-betting-tips.jpg</fanart>
-<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
-   <externallink>http://bit.ly/2xYJqJ6</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 03</cname>
-	<item>
-	<title>Bliss Tv -  [COLOR yellow]Spanish Channels by Anonymous buddy[/COLOR]</title>
-<link>ignore</link>
-<fanart>http://cdn.archinect.net/images/1200x/ag/ag24fujli2xo3l6m.jpg</fanart>
-<thumbnail>http://www.latina.com/featured/magazine/2016/eva-mendes/img/eva/5.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/abelcustoms/Television/master/123000000.m3u$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR yellow][B] CRACK HEAD!! [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/2ND%20PL.txt$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=ast&amp;password=ast&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR red][B] Offline [/B][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://iptv.myeasytv.xyz:8000/get.php?username=cameron&amp;password=cameron&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR aqua][B] 00[/B][/COLOR] - [COLOR red] Online[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://clientportalpro.com:2500/get.php?username=VE5DWv4Ait&amp;password=7KHLqRRZ9E&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - [COLOR orange][B] Bliss Sports [/B][/COLOR] - [COLOR red] OFFLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://goo.gl/FwErbN$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] UkTvNow [/B] [/I][/COLOR] - offline</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/Blissgen.txt$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR brown] Bliss Tv [/COLOR] - [COLOR gold][I][B] SPORTS CENTER  [/B] - offline [/I][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>https://raw.githubusercontent.com/tubestrending/everydayupdate/master/sports.txt$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>Bliss Tv - Local Channels & Radio</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-https://raw.githubusercontent.com/abelcustoms/Television/master/tele.m3u
-
-
-
-
-
-
-<streaminginfo>
-	<cname>number 07</cname>
-	<item>
-	<title>Bliss Tv - USA Special - [COLOR red] OFFLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-<externallink>http://look02.vipid.org:8000/get.php?username=smartsat4.144&amp;password=NetJWEBm&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 05</cname>
-	<item>
-	<title>Bliss Tv - Stable IptV -[COLOR red] OFFLINE[/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-
-<externallink>http://smartiptvspain1.mine.nu:980/get.php?username=Ronnie&amp;password=Ronnie&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR gold] Bliss Tv [/COLOR] - [COLOR gold][I][B] Blazing Mode - Offline [/B][/I][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://ok2.se:8000/get.php?username=birdy.canflyy.@gmail.com&amp;password=wszqvatt&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-	<cname>number 02</cname>
-	<item>
-	<title>[COLOR purple][B] Bliss Tv [/B][/COLOR] - [COLOR red][I][B] Offline [/B][/I][/COLOR]</title>
-<link>ignore</link>
-<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
-<thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://31.220.2.50:25461/get.php?username=Free200&password=Free200&type=m3u&output=mpegts$$TSDOWNLOADER$$</externallink>
-	</item>
-</streaminginfo>
-
-
-
-
-http://sekoiptv.ddns.net:8080/get.php?username=ism&amp;password=ism&amp;type=m3u&amp;output=mpegts
-http://no1dadicated.tk:8000/get.php?username=cuda&amp;password=cuda&amp;type=m3u&amp;output=mpegts
-
-
-
-
 
 
 </streamingInfos>
